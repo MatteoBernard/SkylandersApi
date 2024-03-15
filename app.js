@@ -34,6 +34,7 @@ app.use('/users', usersRouter);
 
 const fs = require('fs');
 const skylandersJsonPath = path.join(__dirname, './public/skylanders.json');
+const elementsJsonPath = path.join(__dirname, './public/elements.json');
 
 function getSkylandersJson() {
   try {
@@ -45,8 +46,18 @@ function getSkylandersJson() {
   }
 }
 
+function getElementsData() {
+  try {
+    const data = fs.readFileSync(elementsJsonPath, 'utf8');
+    return JSON.parse(data);
+  } catch (err) {
+    console.error('Error reading JSON file:', err);
+    throw err;
+  }
+}
 
 const skylandersData = getSkylandersJson();
+const elementsData = getElementsData();
 
 app.get('/', (req, res) => {
   res.json({ message: "Welcome to SkylandersApi" });
@@ -60,7 +71,7 @@ app.get('/skylanders', (req, res) => {
   }
 });
 
-app.get('/skylander/:id', async (req, res) => {
+app.get('/skylanders/:id', async (req, res) => {
   const id = parseInt(req.params.id);
   const skylander = skylandersData.find(skylander => skylander.id === id);
 
@@ -72,7 +83,7 @@ app.get('/skylander/:id', async (req, res) => {
   res.json(skylander);
 });
 
-app.get('/skylanderByName/:name', async (req, res) => {
+app.get('/skylandersByName/:name', async (req, res) => {
   const encodedName = req.params.name;
   const decodedName = encodedName.replace(/_/g, ' ');
 
@@ -154,10 +165,33 @@ app.get('/skylandersByElement/:element', async (req, res) => {
   res.json(skylandersByElement);
 });
 
+app.get('/elements', (req, res) => {
+  try {
+    res.json(elementsData);
+  } catch (error) {
+    console.error('Error:', error);
+    res.status(500).send('Internal Server Error');
+  }
+});
+
+app.get('/elements/:name', (req, res) => {
+  const encodedName = req.params.name;
+  const decodedName = encodedName.replace(/_/g, ' ');
+
+  const element = elementsData.find(element => element.name.toLowerCase() === decodedName.toLowerCase());
+
+  if (!element) {
+    res.status(404).send('Element not found');
+    return;
+  }
+
+  res.json(element);
+});
+
+
 app.listen(port, () => {
   console.log(`Server stated on port ${port}`);
 });
-
 
 
 

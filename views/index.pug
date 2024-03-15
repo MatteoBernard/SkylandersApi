@@ -18,10 +18,10 @@ block content
           p.route GET /skylanders
         li
           p.before-route Get a Skylander by ID
-          p.route GET /skylander/:id
+          p.route GET /skylanders/:id
         li
           p.before-route Get a Skylander by Name
-          p.route GET /skylanderByName/:name
+          p.route GET /skylandersByName/:name
         li
           h3 Get Skylanders from a Specific Game
           ul
@@ -47,6 +47,13 @@ block content
       h2 Special Skylanders
     div
       h2 Elements
+      ul
+        li
+          p.before-route Get all Elements
+          p.route GET /elements
+        li
+          p.before-route Get an Element by Name
+          p.route GET /elements/:name
     div
       h2 Games
   footer

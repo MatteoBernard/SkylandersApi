@@ -1,0 +1,52 @@
+[
+  {
+    "name" : "Air",
+    "description" : "That amazing feeling of defying gravity! That, my friend, is something only we feel.",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/elements/Air.png"
+  },
+  {
+    "name" : "Dark",
+    "description" : "Sometimes, shadows are the best places to hide the greatest strengths.",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/elements/Dark.png"
+  },
+  {
+    "name" : "Earth",
+    "description" : "May the strength of earth, steel and iron be with us! We're tough as rocks!",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/elements/Earth.png"
+  },
+  {
+    "name" : "Fire",
+    "description" : "You don't know 'hot' until you've met these guys.",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/elements/Fire.png"
+  },
+  {
+    "name" : "Life",
+    "description" : "Life - what a mighty, humbling and beautiful thing it is.",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/elements/Life.png"
+  },
+  {
+    "name" : "Light",
+    "description" : "Even the faintest flicker of light brings out hope.",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/elements/Light.png"
+  },
+  {
+    "name" : "Magic",
+    "description" : "Abracadabra! Hey there! Wanna see some magic tricks?",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/elements/Magic.png"
+  },
+  {
+    "name" : "Tech",
+    "description" : "Need a little fixin' up? We've got all the right tools.",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/elements/Tech.png"
+  },
+  {
+    "name" : "Undead",
+    "description" : "Do you like scary stories? Wanna hear ours?",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/elements/Undead.png"
+  },
+  {
+    "name" : "Water",
+    "description" : "Wash away your fears, and relax by the pool with us.",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/elements/Water.png"
+  }
+]

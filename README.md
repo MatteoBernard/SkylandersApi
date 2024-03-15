@@ -2,6 +2,8 @@
 
 Welcome to the Skylanders API, a simple API for accessing Skylanders figurine data.
 
+You can access the API [here](https://ill-lime-threads.cyclic.app).
+
 ## Available Routes
 
 ### Get All Skylanders
@@ -44,7 +46,6 @@ This route allows you to retrieve a Skylander by specifying its name.
 
 **GET /skylandersFromSwapForce**
 
-
 ### Get Skylanders by Element
 
 **GET /skylandersByElement/:element**
@@ -58,5 +59,5 @@ To use these routes, you can make HTTP GET requests to the corresponding URLs us
 Example usage with cURL:
 
 ```bash
-curl http://localhost:3000/skylanders
-```
+curl http://https://ill-lime-threads.cyclic.app/skylanders
+````

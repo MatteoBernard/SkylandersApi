@@ -1,5 +1,55 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  header
+    h1 Skylanders Api
+    h2 Documentation
+    h3 This is an unofficial Rest API.
+
+  main
+    div.img-container
+      img(src="https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders-logo.png", alt="Skylanders Logo")
+
+    div
+      h2 Skylanders
+      ul
+        li
+          p.before-route Get all Skylanders
+          p.route GET /skylanders
+        li
+          p.before-route Get a Skylander by ID
+          p.route GET /skylander/:id
+        li
+          p.before-route Get a Skylander by Name
+          p.route GET /skylanderByName/:name
+        li
+          h3 Get Skylanders from a Specific Game
+          ul
+            li
+              p.before-route Skylanders: Spyro's Adventure
+              p.route GET /skylandersFromSpyrosAdventure
+            li
+              p.before-route Skylanders: SuperCharger
+              p.route GET /skylandersFromSuperChargers
+            li
+              p.before-route Skylanders: Imaginators
+              p.route GET /skylandersFromImaginators
+            li
+              p.before-route Skylanders: Giants
+              p.route GET /skylandersFromGiants
+            li
+              p.before-route Skylanders: Swap Force
+              p.route GET /skylandersFromSwapForce
+        li
+          p.before-route Get Skylanders by Element
+          p.route GET /skylandersByElement/:element
+    div
+      h2 Special Skylanders
+    div
+      h2 Elements
+    div
+      h2 Games
+  footer
+    p Source code on
+      a(href="https://github.com/MatteoBernard/SkylandersApi") Github
+    p Hosted on Cyclic

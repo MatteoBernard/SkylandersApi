@@ -16,7 +16,7 @@
       "abilitie5" : ""
     },
     "description" : "",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/.jpg"
   },
   {
     "id" : 1,
@@ -35,7 +35,7 @@
       "abilitie5" : "Free Range Eggs"
     },
     "description" : "Before he began training Brawlers, Air Strike trained birds – especially the rare Blue Zephyr Falcons. They were once one of Skylands' most endangered species, but Air Strike taught them how to defend themselves from predators... and not fly into windows. Birds would come from all over Skylands to learn his proven techniques. But despite their new defensive skills, the Blue Zephyr Falcons continued to be hunted by a band of evil trolls, who liked to use their eggs in blue-bacon omelets. So it was time for Air Strike to strike back! He journeyed to the peak of the Zephyr Mountain and single-handedly took down the trolls, rescuing the stolen eggs. After returning them to their mother, one of the eggs hatched, revealing a very energetic Falcon that would not leave his side. Air Strike named him “Birdie” – and together, they now use their skills to train Skylanders, despite Master Eon’s crippling fear of falcons.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/AirStrike.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/AirStrike.jpg"
   },
   {
     "id" : 2,
@@ -54,7 +54,7 @@
       "abilitie5" : "Child Protection"
     },
     "description" : "Bad Juju was first encountered in the Lair of the Golden Queen. When the Skylanders were battling their way through the Queen's homestead, they inadvertently awoke Bad Juju from her slumber, enraging her. Her attempts to subdue them with her magic failed and after her defeat, she was promptly trapped.\n\nAfter the Skylanders defeated the Golden Queen, they took the ghostly skeleton back to the lair for her Villain Quest with Glumshanks, called \"Remote Location\". He explained to the heroes that they both wanted to stop the Queen, so the Troll built a spare remote in hopes of shutting it down for good. However, he accidentally dropped it down a sandpit and needed Bad Juju to use her whirlwind to pick it up for him. After her task was complete, she was awarded with Glumshanks' thanks, a new outfit, and the Beetle Hat.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/BadJuju.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/BadJuju.jpg"
   },
   {
     "id" : 3,
@@ -73,7 +73,7 @@
       "abilitie5" : "Slice Shards"
     },
     "description" : "Blades is a brave and noble dragon despite his young age. He is willing to do whatever it takes to protect others from harm. Even if it means sacrificing himself to do it! However like most youngsters, Blades can be a headache. In I Am Legendary, while still attending the Skylanders Academy, he was cocky, reckless and full of himself, convinced that he didn't need anyone's help. He would call elder and experienced Skylanders 'old timers' and 'slow'. This trait diminished when he realized that working in a team was more effective than handling bad guys on his own.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Blades.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Blades.jpg"
   },
   {
     "id" : 4,
@@ -92,7 +92,7 @@
       "abilitie5" : "Storm Bomb"
     },
     "description" : "No matter what Boom Jet did, he always had to be the best. He could be seen day and night above his home in the Billowy Cloudplains gunning his engines and performing daredevil maneuvers as he trained to become the best sky surfer in all of Skylands. Unfortunately, Boom Jet never had a chance to compete for the championship because a day came that changed his life forever. The Darkness had come. And with his town on the verge of being completely consumed by the ominous evil force, Boom Jet took action. Using his incredible flying skills, he raced from house to house, rescuing all of the citizens and carrying them to safety… just before The Darkness destroyed his homeland. It was then he realized the protection of Skylands was more important than personal glory, so he sought out Master Eon to offer his services to the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/BoomJet.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/BoomJet.jpg"
   },
   {
     "id" : 5,
@@ -111,7 +111,7 @@
       "abilitie5" : "Atomic Rainbow"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Breeze.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Breeze.jpg"
   },
   {
     "id" : 6,
@@ -130,7 +130,7 @@
       "abilitie5" : "Smash 'N' Dash"
     },
     "description" : "As a royal protector of the legendary monkey idol Kubla-Wa, Fling Kong trained seriously in the mysterious art of Monk-Ru, a form of fighting using the power of air. He was a devoted student, always the first to arrive to training and the last to leave. One day, a troop of foul-smelling, well-armed Gorilla-Goos appeared, led by the infamous General Snot. Snot had heard stories about the idol, particularly that it was made of solid gold. The villains quickly seized control of the temple that housed the idol and were on the verge of taking it. But suddenly the smelly gorillas found themselves face to face with Fling Kong – who attacked with the power of a true Monk-Ru master! Using his flying rug and powerful vortex discs, he expertly defeated the Gorilla-Goos and saved the idol. Soon after, word of his actions spread to Master Eon. Now a Skylander, Fling Kong knocks the wind out of evil throughout all of the Skylands!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/FlingKong.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/FlingKong.jpg"
   },
   {
     "id" : 7,
@@ -149,7 +149,7 @@
       "abilitie5" : "Charged Blades"
     },
     "description" : "Free Ranger was hatched during a storm when a thunderous bolt of lightning struck his egg. From that very moment, his destiny was clear – he would become the greatest storm chaser ever known! He spent his entire life pursuing hurricanes, spinning inside tornados, and riding lightning. But a day came when he encountered a storm unlike any other. It was unnatural and ominous, billowing with evil, and leaving only desolation in its wake. Free Ranger was standing at its edge, moments from boldly leaping into it, when he was stopped by none other than Master Eon. The wise Portal Master told him that it was The Darkness that raged before them, and if he were up to the challenge, he could join the Skylanders to help defend against it in the Cloudbreak Islands.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/FreeRanger.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/FreeRanger.jpg"
   },
   {
     "id" : 8,
@@ -168,7 +168,7 @@
       "abilitie5" : "Spin Like the Wind"
     },
     "description" : "Gusto was once a cloud wrangler in the peaceful Thunderclap Kingdom, where he learned to master the wind under the guidance of the mysterious Cloud Dragon. But a day came when a fleet of dragon hunters appeared on the horizon, seeking to capture the fabled creature. Despite the danger, Gusto stepped forward to defend it. The hunters could see that Gusto was not a soldier and didn’t even have a real weapon – just a \"curved stick.\" However, he was no coward! And, throwing his large boomerang, Gusto hit his surprised opponents again and again – until the hunters surrendered and were forced to retreat. For standing up for himself and protecting the Cloud Dragon, Gusto was given a new Traptanium Boomerang and made part of the Trap Team!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Gusto.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Gusto.jpg"
   },
   {
     "id" : 9,
@@ -187,7 +187,7 @@
       "abilitie5" : "Turbulent Turbine"
     },
     "description" : "Jet-Vac was the greatest, most daring flying ace in all of Windham. He was given his magical wings when he was young, as was the tradition for all Sky Barons. But when his homeland was raided, he chose to sacrifice his wings to a young mother so she could fly her children to safety. This act of nobility caught the attention of Master Eon, who sought out the young Sky Baron and presented him with a gift - a powerful vacuum device that would allow him to soar through the skies once again. Jet-Vac accepted the gift with gratitude, and now daringly fights evil alongside the other Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/HurricaneJet-Vac.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/HurricaneJet-Vac.jpg"
   },
   {
     "id" : 42,
@@ -206,7 +206,7 @@
       "abilitie5" : "Fiester Fan"
     },
     "description" : "Jet-Vac was the greatest, most daring flying ace in all of Windham. He was given his magical wings when he was young, as was the tradition for all Sky Barons. But when his homeland was raided, he chose to sacrifice his wings to a young mother so she could fly her children to safety. This act of nobility caught the attention of Master Eon, who sought out the young Sky Baron and presented him with a gift - a powerful vacuum device that would allow him to soar through the skies once again. Jet-Vac accepted the gift with gratitude, and now daringly fights evil alongside the other Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Jet-Vac.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Jet-Vac.jpg"
   },
   {
     "id" : 10,
@@ -225,7 +225,7 @@
       "abilitie5" : "Lightning Avatar"
     },
     "description" : "Lightning Rod once lived in the majestic Cloud Kingdom, where his countless acts of heroism along with his winning smile and electric physique made him the most famous storm giant in the realm. He was a true celebrity, and the palace halls were littered with statues of the chiseled hero. But all the praise and admiration could never quite satisfy Rod, who yearned for something more. As luck would have it, he met an adventurous young dragon named Spyro, who told him fantastic stories of faraway places and dangerous adventures. Rod was spellbound, and he set off with Spyro to seek an audience with Eon to join the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/LightningRod.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/LightningRod.jpg"
   },
   {
     "id" : 11,
@@ -244,7 +244,7 @@
       "abilitie5" : "Fiester Fan"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Pet-Vac.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Pet-Vac.jpg"
   },
   {
     "id" : 12,
@@ -263,7 +263,7 @@
       "abilitie5" : "Rollerpuff"
     },
     "description" : "Pop Thorn hails from a race of creatures known as Pufferthorns. Often considered one of the cutest creatures in all of Skylands, they are generally quite timid and puff out sharp spines when scared. It is this ability that long ago led to the unfortunate legacy of being used as combs by giant trolls everywhere, being the sharp spines are perfect for brushing out tangles from their long, matted hair. But not long ago, one Pufferthorn took a stand. Tired of his race being used for nothing more than good grooming, Pop Thorn used his naturally thorny abilities to stand up and fight back against the giant trolls. Soon after, Master Eon made Pop Thorn a Skylander. And to this day, no trolls dare to comb their hair.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/PopThorn.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/PopThorn.jpg"
   },
   {
     "id" : 13,
@@ -282,7 +282,7 @@
       "abilitie5" : "Speedy Sapphire"
     },
     "description" : "High in the peaks of Cats Eye Mountain sits a towering city of crystal and gold that can only be reached by creatures of the Air element. It was here that Scratch spent her youth soaring playfully in the clouds or exploring the endless number of crystal mines. One day, an army of Pirate Greebles arrived in a fleet of airships, looking to steal ancient magic crystals buried deep in the mountain. Donning specially made armour, Scratch led an epic battle against the pirates, using her incredible fighting skills to defend the crystals and the city. Tales of her heroism soon made their way to Jet-Vac, who traveled to Cats Eye Mountain and recruited Scratch to the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Scratch.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Scratch.jpg"
   },
   {
     "id" : 14,
@@ -301,7 +301,7 @@
       "abilitie5" : "Egg Shocker"
     },
     "description" : "Long ago, Sonic Boom took refuge high atop a mountain peak in the far reaches of Skylands, hoping to keep her griffin hatchlings safe. But despite her precautions, a devious wizard tracked her down and placed a wicked curse on the griffin eggs. Once hatched, the young hatchlings can live for only mere moments before they magically return to their shells... only to be hatched again in an endless cycle. Wanting to prevent such evil from happening to others, Sonic Boom joined the Skylanders and has trained her young to defend Skylands each time they are hatched.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/SonicBoom.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/SonicBoom.jpg"
   },
   {
     "id" : 15,
@@ -320,7 +320,7 @@
       "abilitie5" : "Fist Full of Feathers"
     },
     "description" : "From the moment she left the nest, Stormblade had always pushed the boundaries, seeking to travel further than anyone had ever gone. At a young age, she made the bold leap off of her home island and plummeted through the deep blue sky in an attempt to find the bottom of Skylands – only to find no such bottom existed. This did not fulfill her curiosity, nor did it sway her belief there was something else beyond the limits of her world. Soon she built a custom ship, the Sky Slicer, and raced to the furthest reaches of Skylands in search of its end – but no end could be found. She wanted answers, and so she came to the one person that could help her – Master Eon. The Portal Master instantly saw the unquenchable thirst for exploration that resided in Stormblade, and asked her to join the Skylanders on a very special mission that would take her through the uncharted rifts between worlds!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Stormblade.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Stormblade.jpg"
   },
   {
     "id" : 16,
@@ -339,7 +339,7 @@
       "abilitie5" : "Stinger Shot"
     },
     "description" : "Swarm was once a prince from a proud race of mysterious insect warriors that had built their entire civilization inside a giant honeycombed pyramid. Growing up as one of the 9,000 members of the royal family, he was never permitted to leave the hive. But unlike his brethren, there was a magical quality to Swarm that caused him to grow much larger than the rest of his kind. No longer able to fit amongst the rest of his colony, the young prince broke the long standing tradition and stepped out into the open world - where his size and strength would be put to good use in the legendary battle between the Giants and the Arkeyans.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Swarm.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Swarm.jpg"
   },
   {
     "id" : 17,
@@ -358,7 +358,7 @@
       "abilitie5" : "Stormier and Stormier"
     },
     "description" : "Epically strong and heroically competitive, Thunderbolt grew up on legendary Mount Cloudpierce. Every year, his people held a contest to determine who would wield the Storm Sword – a legendary blade with the power to change the seasons in Skylands. To Thunderbolt, this would be a great honor. But on the day he won the contest and was about to be presented with the sword, a Frost Mage snatched it and plunged all of Skylands into a wintery deep-freeze. Undaunted, Thunderbolt bravely took chase. Riding twin bolts of chained lightning, he overtook the mage, reclaimed the sword, and restored balance to the weather systems in Skylands. For his heroic actions, Thunderbolt was made a member of the Trap Team, and he now uses his Traptanium Storm Sword to strike evil at every turn!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Thunderbolt.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Thunderbolt.jpg"
   },
   {
     "id" : 18,
@@ -377,7 +377,7 @@
       "abilitie5" : "Turtle Slam"
     },
     "description" : "Warnado was hatched in the fury of a rare and powerful Enchanted Twister. Although initially frightened and quite dizzy, over the passing years he grew to enjoy his whirling surroundings and learned many abilities and secrets of the Air Element. This led to Warnado becoming a powerful force and the only known turtle of his kind. Now, the only time he gets dizzy is when standing still.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Warnado.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Warnado.jpg"
   },
   {
     "id" : 19,
@@ -396,7 +396,7 @@
       "abilitie5" : "Atomic Rainbow"
     },
     "description" : "Whirlwind is an air dragon with unicorn ancestry – two species that could not be more opposite in nature, which made her never quite fit in with either group. Other dragons were envious of her beauty, while unicorns shunned her for her ability to fly. But Whirlwind found peace within the dark and stormy clouds, where she learned to harness the tempest power within her. Despite her turbulent youth, she was the first to defend both dragons and unicorns when the trolls began hunting them, unleashing her ferocity in a brilliant and powerful rainbow that could be seen throughout many regions of Skylands. From that day forward, evil-doers would quake when dark clouds brewed, and run from the rainbow that followed the storm.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Whirlwind.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Whirlwind.jpg"
   },
   {
     "id" : 20,
@@ -415,7 +415,7 @@
       "abilitie5" : "Cut Loose"
     },
     "description" : "By the time he was 10 years old, Wild Storm had already mastered the Air Blade. With no family of his own, he spent much of his youth traveling throughout Skylands, offering his combat services to the highest bidder as a soldier of fortune. On one such occasion, he was hired by Kaos to break into a pirate outpost in Skyhighlands to steal their legendary gold detector. But little did Wild Storm know, he was only being used by Kaos to scout their defenses – and he was captured by the pirates! While imprisoned in the highest tower, the powerful winds blew through his cell, fueling his anger. But Wild Storm would not be contained! Harnessing the storm’s energy, he grew 3 times his size and exploded out of his prison – vowing to put a stop to Kaos once and for all. Soon after, he met Master Eon, who agreed to help him, provided Wild Storm would share his skills in swordsmanship with other Skylanders, as a Sensei of the Knight Class!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/WildStorm.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/WildStorm.jpg"
   },
 
   {
@@ -435,7 +435,7 @@
       "abilitie5" : "For the Crater Good"
     },
     "description" : "Barbella was the best fitness trainer in all of Skylands. Not only did she possess otherworldly strength, she was also a firm believer that a healthy diet and exercise led to true happiness. With such a positive message to spread, Barbella decided to open her own fitness center called “Flex-a-lot”, where she hoped to instill good eating and workout habits with all of her patrons. But one day, the gelatinous villain known as The Gulper destroyed her gym, and it took all of Barbella’s strength to keep it from collapsing while everyone fled to safety. It was then that Barbella realized that bad guys were more hazardous to your health than anything else, so she began to train in the ways of the Sentinel, where she quickly became one of the greatest masters in the world!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Barbella.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Barbella.jpg"
   },
   {
     "id" : 22,
@@ -454,7 +454,7 @@
       "abilitie5" : "Gaia Hammer"
     },
     "description" : "Bash spent most of his early dragonhood staring into the sky, watching the flying creatures of Skylands soar amongst the clouds. Determined to join them, he learned how to curl himself into a ball and roll with incredible momentum in a vain attempt to take flight. Over the years, his skin hardened, forming a natural protective armor unlike any other creature. He now thunders through Skylands, leaving a wake of destruction against any who threaten it. Despite his thick skin, he still gets very touchy about his inability to fly.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Bash.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Bash.jpg"
   },
   {
     "id" : 23,
@@ -473,7 +473,7 @@
       "abilitie5" : "Gaia Hammer"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Bop.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Bop.jpg"
   },
   {
     "id" : 24,
@@ -492,7 +492,7 @@
       "abilitie5" : "Cavelight Blast"
     },
     "description" : "Crusher knew from the moment he put on his father's mining helmet that his true passion in life was crushing rocks. He was fascinated with rock-lore and traveled all throughout Skylands in search of rare minerals to pulverize with his powerful hand-crafted rock hammer, which is also named Crusher. But along his travels, he discovered that the evil Arkeyan King was also searching for rocks-to melt down into weapons of war. Crusher's fury built up like an avalanche. After all, crushing was his job! So he put aside his life's passion and decided to use his hammer for a greater purpose- crushing Arkeyan Robots.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Crusher.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Crusher.jpg"
   },
   {
     "id" : 25,
@@ -511,7 +511,7 @@
       "abilitie5" : "Volcanic Glass Boomerangs"
     },
     "description" : "For years, Dino-Rang trained to use the weapons of his tribe – earthen boomerangs. His people were skilled hunters in a world far away from the realm of Skylands. As he slept one night, a freak portal suddenly opened beneath him. Unsure of how or why he arrived in Skylands, Dino-Rang set out to explore the world that was suddenly his new home. Eventually becoming a Skylander, he now fights with his own brand of Dino-Justice, while seeking out the fabled Twin Diamond Boomerangs, which he believes could hold the clues to his greater destiny.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Dino-Rang.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Dino-Rang.jpg"
   },
   {
     "id" : 26,
@@ -530,7 +530,7 @@
       "abilitie5" : "Falling to Pieces"
     },
     "description" : "Doom Stone was carved from the strongest and purest stone in Skylands, then magically brought to life by a wizard who was rather lazy and wanted someone strong to carry heavy things and perform other tasks around his castle. Doom Stone happily helped, and in his spare time learned the ancient ways of Stone Fighting should he ever need to protect the wizard, who became like a father to him. Sure enough the need arose when the wizard was kidnapped by his evil twin brother in order to steal his spells for himself. Doom Stone wasted no time in using the skills he learned to save his master. Afterward, the wizard knew Doom Stone had a greater calling and introduced him to Master Eon, who made him a Skylander.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/DoomStone.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/DoomStone.jpg"
   },
   {
     "id" : 27,
@@ -549,7 +549,7 @@
       "abilitie5" : "Healing Bamboo"
     },
     "description" : "Fist Bump had long been the sleeping protector of the Bubbling Bamboo Forest, but awoke from a long hibernation when a horde of nasty purple Greebles arrived with gigantic rock-smashing machines. Intent on building a new base, their machines wreaked havoc – chewing up the land and spitting out billowing clouds of smoke into the enchanted air. Seeing this, Fist Bump was furious. Using his enormous stone fists, he hammered the ground with all his strength, creating a massive earthquake that sent huge shockwaves towards the Greeble camp. This reduced the machines to mere scrap and sent the Greebles running off in a panic. The act of bravery caught the attention of Terrafin, who brought Fist Bump to meet Master Eon. Now as a Skylander, Fist Bump makes evil quake wherever he goes!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/FistBump.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/FistBump.jpg"
   },
   {
     "id" : 28,
@@ -568,7 +568,7 @@
       "abilitie5" : "Light Speed Lasers"
     },
     "description" : "Flashwing's true origins are a mystery. But her first appearance came when Bash made a wish that he could fly and looked up to see a shooting star streak across the sky and in a valley below. In the centre of the glowing impact crater was a large, brilliant geode - which suddenly cracked open to reveal Flashwing. Bash may not have soared that day, but his heart sure did, because Flashwing was beautiful... and lethal. As soon as Bash stepped closer, the gem dragon turned towards him. Not knowing if he was friend or foe, she blasted him off of the cliff with a full force laser pulse from her tail! Perhaps Bash flew that day after all.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Flashwing.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Flashwing.jpg"
   },
   {
     "id" : 29,
@@ -587,7 +587,7 @@
       "abilitie5" : "Royal Treatment"
     },
     "description" : "The Golden Queen is a golden statue who is one of the Earth villains introduced in Skylanders: Trap Team. She is the former leader of the Doom Raiders, a group of the most notorious villains in Skylands. In Skylanders: SuperChargers and Skylanders: SuperChargers Racing, she has her own vehicle, the Glitter Glider, as part of the Sea Racing Action Pack in the former game, and as part of The Nefarious Tour in the latter game in which she can be unlocked as a playable racer by defeating her in her Boss Pursuit and Villain Race on her home track, The Golden Temple. Her face is on the Sea Trophy, which is included in the Sea Racing Action Pack itself with Deep Dive Gill Grunt and the Reef Ripper. She also appears in Skylanders: Battlecast as one of the two bosses of the Earth Realm in the Second Dimension, once again with Grave Clobber's assistance. Later, in Skylanders: Imaginators, the Golden Queen is one of the ten villains who trades in a life of crime to become a Sensei. She now trains Imaginators who belong to the Sorcerer Battle Class, and she is included in the Starter Pack with King Pen and a Fire Creation Crystal. She, King Pen, and the Creation Crystal are also included in the Crash Edition Starter Pack with the game's two new playable guest Skylanders; Crash Bandicoot and Dr. Neo Cortex.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/GoldenQueen.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/GoldenQueen.jpg"
   },
   {
     "id" : 30,
@@ -606,7 +606,7 @@
       "abilitie5" : "A Stomp To Remember"
     },
     "description" : "Head Rush was raised in a small village that had fallen under the spell of a powerful Harvest Sphinx, who forced the frightened villagers to plow the vast fields of golden grass for his own benefit. Although there were many villagers, no individual was brave enough to confront the Sphinx and put an end to its rule. But Head Rush believed there was a chance to fight back if she could somehow inspire her people to stand together. Charging through her village, Head Rush shouted a mighty yodel that woke the villagers from their spell! With the village behind her, she then led the charge to drive the Sphinx from the island for good. For her leadership and bravery, she was made part of the Trap Team, where she uses her giant Traptanium Horns to take charge of evil!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/HeadRush.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/HeadRush.jpg"
   },
   {
     "id" : 31,
@@ -625,7 +625,7 @@
       "abilitie5" : "Focused Energy"
     },
     "description" : "Prism Break was once a fearsome Rock Golem who didn’t like to be disturbed. Then, an accidental cave-in left him buried underground. One hundred years later, a mining expedition digging for valuable jewels discovered him by chance with a well-placed blow from a pick axe – something Prism Break doesn’t talk about. After 100 years of solitude, he found that the pressure of the earth had transformed him emotionally as well as physically, turning his crude rocky arms into incredible gems with powerful energy. Grateful for being free of his earthly prison, Prism Break decided to put his new abilities to good use and dedicated himself to protecting Skylands.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/PrismBreak.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/PrismBreak.jpg"
   },
   {
     "id" : 32,
@@ -644,7 +644,7 @@
       "abilitie5" : "Let's Roll!"
     },
     "description" : "Rocky was a rock digger who wanted to make a difference, and Roll was a boulder that wanted to see the world. The two of them had known each other since they were young and in mining school together. They had shared the same goal – making the sacred journey to Peek’s Peak, where it was said that one’s destiny reveals itself. But time went on, and it wasn’t until many years later that they found each other traveling the same path towards the mythical peak. The connection that was established years before had finally taken shape, and the two realized they were meant to journey far and wide together – as Rocky Roll. After several adventures together, they met Master Eon by chance, who recognized that their connection was special. Now as an awesome Skylander duo, Rocky Roll will crush anything that threatens Skylands!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/RockyRoll.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/RockyRoll.jpg"
   },
   {
     "id" : 33,
@@ -663,7 +663,7 @@
       "abilitie5" : "Nailed it!"
     },
     "description" : "Hailing from a race of creatures who ate rock for a living, Rubble Rouser spent most days digging his way through the vastness of Deep Mountain mouthful by mouthful alongside the rest of his people. But Rubble Rouser found he could eat up far more ground with a swing of his hammer or spin of his drill. However, the leaders of his race wanted no part of changing the way they worked. That is, until the evil Rock Lords trapped them deep within the mountain. It was then that Rubble Rouser showed everyone the power of his ways by defeating the Rock Lords with his mighty hammer and drill. Afterward, the leaders encouraged Rubble Rouser to seek out the Skylanders, who readily welcomed him.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/RubbleRouser.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/RubbleRouser.jpg"
   },
   {
     "id" : 34,
@@ -682,7 +682,7 @@
       "abilitie5" : "Cracked Crystal"
     },
     "description" : "Scorp was raised in the Salt Flat Islands, an endless flat plain of rock where every day is very hot. To keep themselves entertained, the residents live for the sport of Sting Ball, an extreme game that only the strongest play to become King of Sting -- a title Scorp had won numerous times. During his last championship game, the opposing team cheated by using an enchanted water gem to make it rain. But the spell got out of control and soon a raging thunderstorm flooded the land. Using his powerful claws and incredible agility, Scorp bravely battled the rising waters to retrieve the gem and hurl it far into the clouds, breaking the spell and saving everyone. Seeing how his abilities could be used for more than sport, Scorp soon sought out and joined the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Scorp.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Scorp.jpg"
   },
   {
     "id" : 35,
@@ -701,7 +701,7 @@
       "abilitie5" : "Fling"
     },
     "description" : "Having been asleep for thousands of years, Slobber Tooth was awakened by the fiery eruption of two volcanic islands crashing together. Immediately sought out by Kaos to become one of his minions, Slobber Tooth was promised great power. But the gruff and headstrong fighter chose to follow his own path instead. For this, Kaos attacked his ancient petrified homeland. As the only one who could protect his hibernating race, Slobber Tooth fought tooth and tail against Kaos and his minions, ultimately driving them away. For his heroism, Master Eon asked Slobber Tooth to join the Skylanders, where he could continue defending Skylands against the evil Kaos.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/SlobberTooth.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/SlobberTooth.jpg"
   },
   {
     "id" : 36,
@@ -720,7 +720,7 @@
       "abilitie5" : "G'Day"
     },
     "description" : "Smash Hit came from a long line of Warsupials - a rare species widely renowned for their skills in combat. But in more peaceful times, his people were responsible for locating and demolishing any remaining artifacts from the Arkeyan Empire that were deemed too dangerous to leave standing. Smash Hit liked his job because it allowed him to do what he loved most - break things! He was so skillful with his wrecking ball that he could single-handedly dismantle an entire Arkeyan Conquertron in under an hour and still have time for a snack. When Master Eon noticed his skill, he enlisted the talented Warsupial into a new wrecking crew he was forming to take on Kaos - the SuperChargers!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/SmashHit.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/SmashHit.jpg"
   },
   {
     "id" : 37,
@@ -739,7 +739,7 @@
       "abilitie5" : "Razorfin"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Terrabite.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Terrabite.jpg"
   },
   {
     "id" : 38,
@@ -758,7 +758,7 @@
       "abilitie5" : "Razorfin"
     },
     "description" : "Terrafin hails from The Dirt Seas, where it was common to swim, bathe, and even snorkel beneath the ground. But a powerful explosion in the sky created a blast wave that turned the ocean of sand into a vast sheet of glass, putting an end to Terrafin’s duty as the local lifeguard. Not one to stay idle, the brawny dirt shark found himself training in the art of boxing, and not long after he was local champ. Fighters came from all around to challenge him, but it was a chance meeting with a great Portal Master that led him to give up his title for a greater purpose.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Terrafin.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Terrafin.jpg"
   },
   {
     "id" : 39,
@@ -777,7 +777,7 @@
       "abilitie5" : "Mentor Program"
     },
     "description" : "Terrafin hails from The Dirt Seas, where it was common to swim, bathe, and even snorkel beneath the ground. But a powerful explosion in the sky created a blast wave that turned the ocean of sand into a vast sheet of glass, putting an end to Terrafin’s duty as the local lifeguard. Not one to stay idle, the brawny dirt shark found himself training in the art of boxing, and not long after he was local champ. Fighters came from all around to challenge him, but it was a chance meeting with a great Portal Master that led him to give up his title for a greater purpose.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/SharkShooterTerrafin.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/SharkShooterTerrafin.jpg"
   },
   {
     "id" : 40,
@@ -796,7 +796,7 @@
       "abilitie5" : "Historic Preservation"
     },
     "description" : "Long before he became a Sensei, Tri-Tip wandered Skylands searching for the mythical Warping Walnut Tree, rumored to never be at the same place long before moving to a new location. After many years, he found the tree - and just before it vanished once again, he took from it a Golden Walnut, which was said to reveal life’s purpose to those who could open it. But to his dismay, the enchanted walnut could not be cracked no matter how hard he struck it with his thick head. Realizing that only a weapon of immense power could crack the magical shell, and not his head, Tri-Tip forged a mighty mace and trained with the greatest warriors to become the ultimate Master of Smashing. But on the day when he was finally ready to open the shell, he paused. It was then that Tri-Tip realized his true purpose – one that the unopened walnut had been teaching him all along. His purpose in life was to use his skills to protect Skylands. He then gifted the unopened walnut to one of his students and left to join the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Tri-Tip.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Tri-Tip.jpg"
   },
   {
     "id" : 41,
@@ -815,7 +815,7 @@
       "abilitie5" : "Better With Shrapnel"
     },
     "description" : "For generations, Wallop’s people used the volcanic lava pits of Mount Scorch to forge the most awesome weapons in all of Skylands. And Wallop was the finest apprentice any of the masters had ever seen. Using hammers in both of his mighty hands, he could tirelessly pound and shape the incredibly hot metal into the sharpest swords or the hardest axes. But on the day he was to demonstrate his skills to the masters of his craft, a fierce fire viper awoke from his deep sleep in the belly of the volcano. The huge snake erupted forth, attacking Wallop’s village. But, bravely charging the beast with his two massive hammers, Wallop was able to bring down the creature and save his village. Now with his Traptanium-Infused Hammers, he fights with the Skylanders to protect the lands from any evil that rises to attack!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Wallop.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Wallop.jpg"
   },
   {
     "id" : 42,
@@ -834,7 +834,7 @@
       "abilitie5" : "Flaming Bombs"
     },
     "description" : "As a young furnace knight, Blast Zone was part of the Skylands Bomb Squad, specializing in the safe disarming and removal of troll bombs. But it was not long before the trolls got tired of Blast Zone constantly thwarting their evil plans, so they decided to go after the furnace knight himself. Late one night, an army of trolls snuck into Blast Zone’s village and threw 100 bombs down his chimney. Acting quickly, Blast Zone swallowed each bomb and then belched a jet of fire back at the invaders – sending them fleeing with their boots on fire. The tale of the attack eventually reached the ear of Master Eon, who knew the brave furnace knight had all the makings of a Skylander.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/BlastZone.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/BlastZone.jpg"
   },
   {
     "id" : 43,
@@ -853,7 +853,7 @@
       "abilitie5" : "Living Bomb Path"
     },
     "description" : "Ember was raised inside the Dragonfire Dojo, having come from a long line of Fire Sentinels that were skilled in the art of Dual-Blades. It was the dream of her father that Ember would follow their tradition and take over the family training facility, and so she practiced every day. She was naturally gifted, and soon even the greatest Dual-Blade Masters were no match for Ember. When Kaos heard of this, he took over her village and banned martial arts entirely, for fear of an uprising. But Ember fought back, unleashing an impressive barrage of Samurai pyrotechnics that drove the invaders away. Even though her village was free, she knew then that there was greater evil out there that needed to be stopped, and so she joined the Skylanders to train others in the art of the Sentinel Battle Class. One day though, Ember plans to return to her homeland and reopen her family’s school, but not until Skylands is safe once and for all.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Ember.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Ember.jpg"
   },
   {
     "id" : 44,
@@ -872,7 +872,7 @@
       "abilitie5" : "Super Eruption"
     },
     "description" : "Eruptor is a force of nature, hailing from a species that lived deep in the underground of a floating volcanic island until a massive eruption launched their entire civilization to the surface. He's a complete hot head -- steaming, fuming, and quite literally erupting over almost anything. To help control his temper, he likes to relax in lava pools, particularly because there are no crowds.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Eruptor.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Eruptor.jpg"
   },
   {
     "id" : 45,
@@ -891,7 +891,7 @@
       "abilitie5" : "Volatile Volcanoes"
     },
     "description" : "Eruptor is a force of nature, hailing from a species that lived deep in the underground of a floating volcanic island until a massive eruption launched their entire civilization to the surface. He's a complete hot head -- steaming, fuming, and quite literally erupting over almost anything. To help control his temper, he likes to relax in lava pools, particularly because there are no crowds.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/LavaLanceEruptor.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/LavaLanceEruptor.jpg"
   },
   {
     "id" : 46,
@@ -910,7 +910,7 @@
       "abilitie5" : "Year of the Dragon"
     },
     "description" : "Raised on a small island surrounded by a vast ocean of fire, Fire Kraken was the swiftest, most agile warrior his tribe had ever seen. And when a fleet of Fire Troll ships arrived to steal the legendary Burning Heart, a huge elemental crystal that fueled the fiery seas, Fire Kraken leapt into action. Using a magical staff to control his natural ability to wield fire, he set the mighty ships ablaze, forcing the trolls into a hasty retreat. Having saved the Burning Heart as well as his homeland, Fire Kraken soon joined the Skylanders, where he knew his skills would help those in need.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/FireKraken.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/FireKraken.jpg"
   },
   {
     "id" : 47,
@@ -929,7 +929,7 @@
       "abilitie5" : "Inferno Blast"
     },
     "description" : "Flameslinger is an Elven archer with incredible aim. In fact, he is so good that he wears a blindfold just to prove it. When he was young, he rescued a fire spirit from a watery doom and was gifted an enchanted bow and magical fire boots that he now masterfully uses to defeat evil throughout Skylands. With the scorched earth he leaves behind, you can always tell where he has been.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Flameslinger.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Flameslinger.jpg"
   },
   {
     "id" : 48,
@@ -948,7 +948,7 @@
       "abilitie5" : "Pyrotechnist"
     },
     "description" : "When Flare Wolf was young, he worked all summer to earn the coveted Fireworks Badge from the Wolf Scouts. In doing so, he had earned the right to light the fireworks in the annual St. Wigglewort's Day celebration - an honor of which Flare Wolf was extremely proud. But on the day of the celebration, a band of evil Ice Ogres attacked his village and took the entire community hostage! The only weapons at his disposal were the town's supply of fireworks they were saving for the evening festivities. One by one, Flare Wolf lit them in the center of the Ogre camp, launching a dazzling display of pyrotechnics that sent the Ogres running. Not only had Flare Wolf saved his village, he had also given its residents the most spectacular fireworks show they had seen in over 100 years! Even Master Eon was impressed, and offered Flare Wolf a position at the Academy as the Official Fireworks Launcher. But after seeing him in action, he quickly realized that Flare Wolf had much more to offer as a Sensei!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/FlareWolf.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/FlareWolf.jpg"
   },
   {
     "id" : 49,
@@ -967,7 +967,7 @@
       "abilitie5" : "Born to Ride"
     },
     "description" : "Fryno was once a member of the notorious Blazing Biker Brigade and spent most of his youth riding around Skylands with the rest of his crew. But what Fryno did not realize was that, while he enjoyed a life of freedom and adventure, his crew was responsible for acts of burglary throughout Skylands. When Fryno discovered that he had been riding around with a bunch of villains, he burned with rage and demanded that they make amends for the wrong they had done. This resulted in an epic fight, which Fryno won, and the disbanding of the Blazing Biker Brigade. Fryno was in the midst of returning the valuables his crew had stolen when he met Master Eon, who was impressed with his good character and fighting abilities, and offered him a membership to a new crew -- the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Fryno.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Fryno.jpg"
   },
   {
     "id" : 50,
@@ -986,7 +986,7 @@
       "abilitie5" : "Molten Hammer"
     },
     "description" : "Bowser is the king of the Koopas and believes himself to be the supreme, unquestioned ruler of a kingdom far from Skylands. A hot-tempered and spiky-shelled warrior, he was transported to Skylands by traveling through a rift that had been created by Kaos' terrible Sky Eater. The Skylanders sent out a distress call across all the dimensions to call for reinforcements, and for reasons known only to Bowser himself, he has decided to join this epic battle against Kaos and the Darkness in his Clown Cruiser as the newest and most lethal of all the SuperChargers!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/HammerSlamBowser.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/HammerSlamBowser.jpg"
   },
   {
     "id" : 51,
@@ -1005,7 +1005,7 @@
       "abilitie5" : "Super Comet"
     },
     "description" : "Hot Dog was born in the belly of the Popcorn Volcano. While on a nearby mission, a team of Skylanders had come across the stray fire pup when the volcano erupted and Hot Dog came rocketing straight into their camp, accidentally setting Gill Grunt's tent on fire. Using his nose of danger, he helped the Skylanders complete their mission - even pouncing on a Lava Golem like a blazing comet when it threatened his new friends. After displaying such loyalty and bravery, Hot Dog was brought back to Eon's Citadel where he became a Skylander - and then he proceeded to bury Eon's staff.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/HotDog.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/HotDog.jpg"
   },
   {
     "id" : 52,
@@ -1024,7 +1024,7 @@
       "abilitie5" : "Premium Grade"
     },
     "description" : "Hot Head had always been a short tempered fire giant. But it was when magical oil was discovered in Skylands that fuel was really added to the fire. As exciting as the discovery was, the celebration lasted only 5 minutes - coming to an abrupt halt when Hot Head needed to cool off and plunged into the thick black pool, causing the entire island to explode! Though it would be another 2,000 years before magical oil was discovered again, the impact that it had on Hot Head was immediate. He was instantly infused with magical oil, giving him the ability to generate an infinite supply of fuel - making him incredibly volatile, highly combustible, and ready to torch anything that got in his way.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/HotHead.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/HotHead.jpg"
   },
   {
     "id" : 53,
@@ -1043,7 +1043,7 @@
       "abilitie5" : "Flame Form"
     },
     "description" : "On his first quest as a knight, Ignitor was tricked by a cunning witch into wearing a magical suit of armor that he was told would resist fire from a dragon. But as it turned out, it was made of cursed steel. He journeyed to a dragon’s lair where a single blast of fire transformed him into a blazing spirit, binding him to the suit of armor for eternity. Despite this setback, Ignitor remains a spirited knight who is always fired up to protect Skylands from evil… and find the witch that tricked him.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Ignitor.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Ignitor.jpg"
   },
   {
     "id" : 54,
@@ -1062,7 +1062,7 @@
       "abilitie5" : "Fire Fly"
     },
     "description" : "Ka-Boom hails from an ancient volcanic island known as Munitions Forge, where he and his people crafted machinery that was used all throughout Skylands. But the ruthless Captain Ironbeard wanted the forge for himself so he could build an unstoppable pirate armada. With a fleet of pirate ships approaching, Ka-Boom went to work, creating the greatest anti-pirate weapon ever forged – The Boom Cannon! When Ironbeard arrived with his invaders, Ka-Boom met them at the edge of the docks with his cannon lowered, still smoldering red hot from having just come out of the fire. One by one, he sank their ships until Captain Ironbeard finally retreated. Now as a valued member of the Trap Team, Ka-Boom uses his Red Hot Traptanium Cannon to blast evil in the broadsides!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Ka-Boom.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Ka-Boom.jpg"
   },
   {
     "id" : 55,
@@ -1081,7 +1081,7 @@
       "abilitie5" : "Born to Ride"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks,\" assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/SmallFry.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/SmallFry.jpg"
   },
   {
     "id" : 56,
@@ -1100,7 +1100,7 @@
       "abilitie5" : "Solar Blast"
     },
     "description" : "Smolderdash had always wanted to be a royal defender of the Fire Temple - home of the First Flame, a sacred torch that had been ignited by the original Fire Source. Unfortunately, she had been born during an eclipse and was believed by her people to be cursed, which prevented her from such an honor. But when Kaos stole the flame and used it to light the candles on his birthday cake, it was Smolderdash who went after it. Blazing like a comet, she dashed into Kaos' Lair, repelled the troll security force with her flaming whip, and retrieved the sacred flame just before Kaos blew out the candles. Smolderdash returned home as a champion of her people and was finally granted the honor of becoming a royal defender. But she graciously declined, having set a new goal for herself - to help fight against Kaos as a member of the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Smolderdash.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Smolderdash.jpg"
   },
   {
     "id" : 57,
@@ -1119,7 +1119,7 @@
       "abilitie5" : "Flamenado 2"
     },
     "description" : "Spitfire was on pace to become the fastest driver in the Super Skylands Racing Circuit. With his lightning quick reflexes and nerves of steel, this tech enhanced flame spirit was absolutely unbeatable. But during the championship event at Skywinder Canyon, he was illegally bumped off course by a goblin racer and sent flying into the canyon wall in a fiery explosion! Most thought that this would put an end his racing career. But three weeks later, he was back on the track, more fired up than ever to claim the title. Unfortunately, it was then that all of Skylands fell under the rule of Kaos in his Sky Eating machine, and the racing came to an end. That’s when Spitfire was approached by Master Eon with an offer that could get him back behind the wheel as the new leader of an elite driving team – the Skylander Superchargers!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Spitfire.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Spitfire.jpg"
   },
   {
     "id" : 58,
@@ -1138,7 +1138,7 @@
       "abilitie5" : "Infinite Flame"
     },
     "description" : "Born in the center of an active volcano, Sunburn is part dragon, part phoenix, and 100% fire power. He is very proud of his unique heritage, and is the only dragon and phoenix hybrid known to exist in Skylands. This rare combination makes him a desirable target for dark wizards and bounty hunters that seek to gain power by unlocking the secrets behind Sunburn’s ability to teleport. Joining the Skylanders gave Sunburn a way to help defend the world from evil, but also provided him with protection, as he remains one of the most sought after creatures in Skylands.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Sunburn.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Sunburn.jpg"
   },
   {
     "id" : 59,
@@ -1157,7 +1157,7 @@
       "abilitie5" : "Triple Kicks"
     },
     "description" : "Tae Kwon Crow was a ninja who served as leader of an evil gang of Sky Pirates in the Skyhighlands. After escaping from Cloudcracker Prison, the crow returned to the Skyhighlands, where he soon encountered the Skylanders throughout his hideout, not knowing who they are. He challenged them to a few games of Skystones Smash, before ultimately battling the Skylanders atop the pirate stronghold for the possession of the crystal prism. Tae Kwon Crow was eventually defeated and trapped.\n\nAfter his capture, the Skylanders took him to The Golden Desert along with Blaster-Tron for their Villain Quests, but not without fighting the Golden Queen's guards along the way. His Quest, called \"Gopher the Gold!\", was with Tessa and Whiskers, where the former tasked him to save four colonies of gophers from the Hazzard Birds to prevent them from forcing the rodents into participating in their circus, while she conducts research on the golden gophers in each colony. After completing the Quest, he was rewarded with Tessa's thanks and a new outfit.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/TaeKwonCrow.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/TaeKwonCrow.jpg"
   },
   {
     "id" : 60,
@@ -1176,7 +1176,7 @@
       "abilitie5" : "Extra Hot Shoes"
     },
     "description" : "Torch’s childhood was spent working with her grandfather as a dragon keeper, where she helped tend to a stable of dragons that protected her village. One year, an evil Snow Dragon unleashed a terrible blizzard that trapped her entire homeland inside a massive ice glacier! Torch was the only one to escape. Having always been fearless, she set out at once to rescue the villagers and her dragons from their chilly fate. Armed with her Firespout Flamethrower, she fought hard through the treacherous conditions and bravely defeated the Snow Dragon in an epic battle. After the village was free from its icy doom, Torch returned home to find her grandfather missing. The only token left behind was his lucky flaming horseshoe. Now as a member of the Skylanders, Torch wields her powerful flamethrower as well as her lucky horseshoe in hopes it will one day lead her to the grandfather she had lost.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Torch.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Torch.jpg"
   },
   {
     "id" : 61,
@@ -1195,7 +1195,7 @@
       "abilitie5" : "Kick It Up A Notch"
     },
     "description" : "Trail Blazer was always hot tempered, especially when he saw anything as being unfair. One day, he came across another unicorn that was trapped in a net. But it wasn’t just any unicorn. It was the mythical Unocorn – a magical creature with a Churro Horn that sprinkled enchanted cinnamon throughout Skylands. Trail Blazer freed it at once. Soon after, the Dark Wizards who had set the trap returned, and were very angry to find their dastardly deed had been thwarted. But Trail Blazer was much more fired up – for it turned out the spicy cinnamon from the Churro Horn had somehow rubbed off on him and mixed with his elemental fire. So he was literally set ablaze with fury! He then ran fiery circles around the wizards, forcing them to flee and never return. After realizing his newfound fury could be used to fight evil everywhere, Trail Blazer sought out the Skylanders, who immediately welcomed him as a member.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/TrailBlazer.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/TrailBlazer.jpg"
   },
   {
     "id" : 62,
@@ -1214,7 +1214,7 @@
       "abilitie5" : "Quick Eruption"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Weeruptor.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Weeruptor.jpg"
   },
   {
     "id" : 63,
@@ -1233,7 +1233,7 @@
       "abilitie5" : "Lots of Chains"
     },
     "description" : "Wildfire was once a young lion of the Fire Claw Clan, about to enter into the Rite of Infernos – a test of survival in the treacherous fire plains. However, because he was made of gold, he was treated as an outcast and not allowed to participate. But this didn’t stop him. That night, Wildfire secretly followed the path of the other lions, carrying only his father’s enchanted shield. Soon he found them cornered by a giant flame scorpion. Using the shield, he protected the group from the beast’s enormous stinging tail, giving them time to safely escape. And though Wildfire was injured in the fight, his father’s shield magically changed him – magnifying the strength that was already in his heart – making him the mightiest of his clan. Now part of the Trap Team, Wildfire uses his enormous Traptanium-bonded shield to defend any and all who need it!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/GoldenLion.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/GoldenLion.jpg"
   },
   {
     "id" : 64,
@@ -1252,7 +1252,7 @@
       "abilitie5" : "Wood Knocks You!"
     },
     "description" : "There were many mysterious things in the Mystical Bamboo Forest, but none more so than Ambush. The forest was considered to be one of Skylands’ greatest natural wonders, and no outsider, good or bad, was ever permitted to trespass. But that didn’t stop Kaos’ mother! After deciding that the ancient trees would make an exquisite display in her Royal Courtyard, she commanded her army of chainsaw-wielding trolls to chop down the entire forest. This angered Ambush, the mystical tree-knight, who saw the atrocity and swore revenge! Wielding his mythic sword, he fought off the trolls and forced Kaos’ mother into hiding. When Master Eon heard the story, he knew that the mysterious sword master would make the ideal Sensei, and promised to “go green” himself if Ambush would join the Skylander team. Ambush now trains other Knights - and those who are not environmentally conscious cower in fear!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Ambush.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Ambush.jpg"
   },
   {
     "id" : 65,
@@ -1271,7 +1271,7 @@
       "abilitie5" : "Super Stampede"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Barkley.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Barkley.jpg"
   },
   {
   "id" : 66,
@@ -1290,7 +1290,7 @@
     "abilitie5" : "Greener Grasps"
   },
   "description" : "Boom Bloom was created in the laboratory of a mad scientist! After using his mutation goo to change deadwood into evil creatures, Dr. Krankcase began experimenting with live plants! But it had a much different effect. Instead of becoming subservient villains, the mutated plants instantly rebelled against their creator and tried to destroy his goo factory. Dr. Krankcase and his henchmen were able to thwart all of these insurgent plants, except for one - Boom Bloom! Her mutation gave her extraordinary Ninja skills and a thorny whip, which she used to unleash a flurry of martial arts moves that forced Dr. Krankcase to flee his own factory and vow never to experiment on plants again. Now as a Sensei of the Ninja class, she uses her incredible abilities to teach new Skylanders how to protect nature... and unleash its fury!",
-  "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/BoomBloom.jpg"
+  "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/BoomBloom.jpg"
   },
   {
     "id" : 67,
@@ -1309,7 +1309,7 @@
       "abilitie5" : "Honey Buzz Blast"
     },
     "description" : "Bumble Blast started life as a humble beehive in the Radiant Mountains, where for ages the bees made the most sweetest, most magical honey in all of Skylands. When Kaos heard about this \"super honey\", he wanted all of it for himself and soon launched an attack on the peaceful Bees. But when his minions arrived to plunder everything the bees had created, they were met by Bumble Blast. He alone had been home to the bees and considered himself their protector. Using the power of the magic honey, Bumble Blast valiantly battled the evil minions, who felt his powerful sting that day. Afterward, Bumble Blast roamed Skylands as a protector of nature, where he soon joined with the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/BumbleBlast.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/BumbleBlast.jpg"
   },
   {
     "id" : 68,
@@ -1328,7 +1328,7 @@
       "abilitie5" : "Bush's Shack"
     },
     "description" : "Born to a race of tree elves who were protectors of the rich Arcadian Timberland, Bushwhack was supposed to be a ranger. But being the smallest of his clan, he was sent deep into the woods by the Chieftain to study with Arbo, known for helping the Skylanders rebuild the Core of Light. The tree spirit looked beyond Bushwhack’s size, and seeing that he had the heart of a warrior, taught him many secrets. Arbo even gifted him with an enchanted axe. So when a legion of Lumberjack Trolls invaded the forest and overpowered the elves, it was Bushwhack who set out to stop them. Drawing out the trolls, he used his enchanted axe and knowledge of the forest to capture them and destroy their tree-cutting machines. Afterward, Bushwhack not only was made a ranger but a Skylander. As part of the Trap Team, he now uses his Traptanium axe to whack evil wherever it grows!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Bushwhack.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Bushwhack.jpg"
   },
   {
     "id" : 69,
@@ -1347,7 +1347,7 @@
       "abilitie5" : "Peppers of Potency"
     },
     "description" : "Hatched at the roots of the Tree of Life, Camo is half-dragon, half-plant – with effervescent life energy flowing through his scaly leaves. This power allows him to cultivate fruits and vegetables at a highly-accelerated rate, which causes them to explode when they ripen. Camo’s unique gift caught the eye of Master Eon, initially because he was hungry and tried to eat a melon that exploded in his face. But upon realizing his true power, Eon convinced Camo to help the Skylanders protect their world.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Camo.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Camo.jpg"
   },
   {
     "id" : 70,
@@ -1366,7 +1366,7 @@
       "abilitie5" : "Chompies to Go Please"
     },
     "description" : "The Chompy Mage is obsessed with Chompies, so much that he dresses like one and formerly didn't like anyone who isn't a Chompy. Aside from that, he also appeared to have little to no respect for others but his own allies, constantly annoying Flynn until he warmed up to him during the credits of Giants. However, after becoming a Doom Raider, the Chompy Mage showed great respect towards his fellow villains, not intending to turn them into Chompies, knowing that doing so would anger them greatly. He's also convinced he is a natural singer, though other characters believe otherwise. His Chompy puppet appears to be a split personality or have a mind of its own occasionally, rather childish and carefree; it is seen mocking or looking away from other people during Trap Team cutscenes while the Mage appears to be paying attention to them, replying to him, and in SuperChargers staring down into another Chompy in their vehicle before the Chompy Mage shooed it away. In Battlecast, it also frequently replies to him and talks to the opponents. After his rehabilitation in Skylanders: Imaginators, the Chompy Mage still holds on to his love for Chompies, but he now believes that they should be used for good instead of evil. Additionally, he has made amends with every faculty member and Skylander at Skylanders Academy, meaning that he has buried every hatchet with his new allies and friends despite his past evildoing, but he still has some patching up to do with the Wilikins he pestered in Giants. However, he is willing to turn his enemies into Chompies only if they deserve it.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/ChompyMage.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/ChompyMage.jpg"
   },
   {
     "id" : 71,
@@ -1385,7 +1385,7 @@
       "abilitie5" : "Box O' Rockets"
     },
     "description" : "A wormhole has opened in Skylands and the great Aku Aku appears! He has come to announce the once-in-two-decades Synchronization Celebration--a time when all of the worlds align perfectly. All the inhabitants of Wumpa Island are having a party and they want to invite the Skylanders. But with Kaos on a quest to take over Skylands using his army of Doomlanders, the Skylanders must focus on stopping his evil plans. Never one to shy away from danger, the legendary marsupial Crash Bandicoot leaps through the wormhole to join the Skylanders in the ultimate battle against Kaos!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/CrashBandicoot.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/CrashBandicoot.jpg"
   },
   {
     "id" : 72,
@@ -1404,7 +1404,7 @@
       "abilitie5" : "Special Squash"
     },
     "description" : "Food Fight does more than just play with his food, he battles with it! This tough little Veggie Warrior is the byproduct of a troll food experiment gone wrong. When the Troll Farmers Guild attempted to fertilize their soil with gunpowder, they got more than a super snack – they got an all-out Food Fight! Rising from the ground, he led the neighborhood Garden Patrol to victory. Later, he went on to defend his garden home against a rogue army of gnomes after they attempted to wrap the Asparagus people in bacon! His courage caught the eye of Master Eon, who decided that this was one veggie lover he needed on his side as a valued member of the Skylanders. When it comes to Food Fight, it’s all you can eat for evil!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/FoodFight.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/FoodFight.jpg"
   },
   {
     "id" : 73,
@@ -1423,7 +1423,7 @@
       "abilitie5" : "Silverback"
     },
     "description" : "In the distant jungles of what was once the sprawling subterranean city of the Drilla Empire, Grilla Drilla served among the guards for the Drilla King. Every seven years, the king would select the bravest and strongest guard to become their leader. It was during the last selection ceremony that a troll mining operation broke through the ground above them and quickly snatched the king, wanting to know the location of the famed Drilla Diamond. Having never ventured above ground, Grilla Drilla risked everything to defeat the trolls and rescue the Drilla King. In return for his bravery, Grilla was selected as the new leader. But he instead decided to join the Skylanders, where he could protect even more residents of Skylands.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/GrillaDrilla.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/GrillaDrilla.jpg"
   },
   {
     "id" : 74,
@@ -1442,7 +1442,7 @@
       "abilitie5" : "Spin Cycle"
     },
     "description" : "High Five is one of the most skilled sky racers of all the dragonflies. But as the fifth son of the Royal High Flying Dragonflies, he was not allowed to enter any of the racing tournaments that took place each year because of his age. Instead, he was forced to watch from the sidelines as his four older brothers competed for the coveted Trophy of Sparx, which legend has said holds magical properties. One year, during the biggest racing event of the season, High Five learned that the Troll Racing Team had stolen the valuable trophy and were going to use the race to cover their escape. He quickly took action, jumping into the race and using his amazing flying skills to weave and dodge his way to the front of the pack, where he caught up to the trolls and brought them down. For his actions, High Five was given the Trophy of Sparx. Even more importantly, he was made a Skylander, where he now helps protect Skylands from any evildoers.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/HighFive.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/HighFive.jpg"
   },
   {
     "id" : 75,
@@ -1461,7 +1461,7 @@
       "abilitie5" : "Launch Paratroopers"
     },
     "description" : "Shroomboom was most unfortunate to have been born in a pizza topping garden belonging to Kaos. Growing up among his fellow fungi, he knew it was only a matter of time before a late night craving would bring about their demise. So Shroomboom took a twig and a strand of spider web and made a slingshot. One by one, he launched all of his friends over the garden fence before flinging himself over to join them. Then he guided them all to the edge of the island and leapt to freedom, using his mushroom cap to catch a friendly breeze. Now as a member of the Skylanders, Shroomboom continues to perform courageous deeds... but he can be hard to find on pizza night.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Shroomboom.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Shroomboom.jpg"
   },
   {
     "id" : 76,
@@ -1480,7 +1480,7 @@
       "abilitie5" : "Elf Jitsu"
     },
     "description" : "As a small child, Stealth Elf awoke one morning inside the hollow of an old tree with no memory of how she got there. She was taken in by an unusually stealthy, ninja-like forest creature in the deep forest. Under his tutelage, she has spent the majority of her life training in the art of stealth fighting. After completing her training, she became a Skylander and set out into the world to uncover the mystery behind her origins.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/StealthElf.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/StealthElf.jpg"
   },
   {
     "id" : 77,
@@ -1499,7 +1499,7 @@
       "abilitie5" : "Distraction Destruction"
     },
     "description" : "As a small child, Stealth Elf awoke one morning inside the hollow of an old tree with no memory of how she got there. She was taken in by an unusually stealthy, ninja-like forest creature in the deep forest. Under his tutelage, she has spent the majority of her life training in the art of stealth fighting. After completing her training, she became a Skylander and set out into the world to uncover the mystery behind her origins.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/SuperShotStealthElf.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/SuperShotStealthElf.jpg"
   },
   {
     "id" : 78,
@@ -1518,7 +1518,7 @@
       "abilitie5" : "Noxious Ninja"
     },
     "description" : "Stink Bomb studied martial arts under one of the greatest ninja masters in history, who believed that surprise was the key to finding your true self. Thus, his master would constantly jump out and frighten him, hoping that it would scare Stink Bomb into finding his innermost strength. On one such occasion, Stink Bomb was so surprised that he instinctively released a cloud of vapor so pungent that it caused his master to disappear and never return. With this newly discovered ability, Stink Bomb developed his own form of martial arts known as Kung Fume, and wandered the land teaching it to all those who wished to learn. It was not long before the news (and smell) of this new form reached Master Eon, who sought out the young ninja at once.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/StinkBomb.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/StinkBomb.jpg"
   },
   {
     "id" : 79,
@@ -1537,7 +1537,7 @@
       "abilitie5" : "Stump Crusher Combos"
     },
     "description" : "Stump Smash was once a magical tree that spent most of his time sleeping peacefully in the forests of Skylands. Then one day he awoke to discover his entire forest had been chopped down and logged by trolls– himself included. His long branches were gone, leaving him with only powerful mallets for hands, which he used to smash the troll tree-cutting machines. Although still grumpy about what happened to him, Stump Smash has vowed to protect Skylands against those who would do it harm… especially trolls.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/StumpSmash.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/StumpSmash.jpg"
   },
   {
     "id" : 80,
@@ -1556,7 +1556,7 @@
       "abilitie5" : "Gnawing Gnats"
     },
     "description" : "Thrillipede served in the Millipede Military in the outer regions of Skylands. As the top pilot in his unit, Thrillipede was responsible for single-handedly blasting over 300 Greeble warships out of the sky! When the Great Greeble War came to an end, he returned to his hometown of Flutter Bay as a celebrated hero. He was the talk of the town and everyone wanted to shake the many hands of the famous young pilot. News of his heroics eventually made their way to Captain Flynn at the Skylanders Academy, who set out to determine if the stories were true. In a series of friendly challenges, the two pilots raced, soared through obstacles, and performed incredible stunts in front of a cheering Flutter Bay crowd. In each event, Thrillipede stood victorious, and was asked to join the Skylanders shortly after. Of course, Flynn later admitted that he “let him win” so that Thrillipede wouldn’t be embarrassed in front of his hometown.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Thrillipede.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Thrillipede.jpg"
   },
   {
     "id" : 81,
@@ -1575,7 +1575,7 @@
       "abilitie5" : "Super Stampede"
     },
     "description" : "Long ago before the Giants protected Skylands, Tree Rex was a majestic tree living peacefully in the ancient woods. But this tranquil peace came to an end when the Arkeyans built a nearby factory to produce war machines. After years of his soil being poisoned by the magic and tech waste from the factory, he mutated into who he is now - a powerful Giant who will crush anything that threatens the natural order of things.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/TreeRex.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/TreeRex.jpg"
   },
   {
     "id" : 82,
@@ -1594,7 +1594,7 @@
       "abilitie5" : "Wave Goodbye"
     },
     "description" : "For many years, Tuff Luck and her tribe guarded the Fortunata Springs – the source of all good luck in Skylands. Though hidden in the Random Canyons, which move without warning to cover the hidden entrance to the magical waters, minions of Kaos located the springs and flew in sponge-tankers to drain every drop of the lucky liquid. Fortunately, Tuff Luck was patrolling the area and immediately jumped into action when she saw what was happening. Between her awesome skill and unbeatable good luck, she single-handedly drove off the minions. She then drank from the magical waters, as was custom for her tribe. Sensing a greater calling, Tuff Luck decided to leave her tribe to join the Trap Team, where she could do even more to help protect Skylands. Armed with her Traptanium Warblades, she always beats the odds – and evil – at every turn!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/TuffLuck.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/TuffLuck.jpg"
   },
   {
     "id" : 83,
@@ -1613,7 +1613,7 @@
       "abilitie5" : "Barrels of Fun"
     },
     "description" : "Donkey Kong is a fun-loving powerhouse gifted with great strength and incredible agility. His insatiable curiosity and easy-going attitude led him to explore the rift that appeared in his native jungle and brought him to exciting new adventures in this world called Skylands. Donkey Kong's fearlessness and reflexes made him a welcome addition to the SuperChargers and also the perfect driver for the stunt-tacular Barrel Blaster vehicle.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/TurboChargeDonkeyKong.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/TurboChargeDonkeyKong.jpg"
   },
   {
     "id" : 84,
@@ -1632,7 +1632,7 @@
       "abilitie5" : "Elf Jitsu"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/WhisperElf.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/WhisperElf.jpg"
   },
   {
     "id" : 85,
@@ -1651,7 +1651,7 @@
       "abilitie5" : "Hunger of the Wolf"
     },
     "description" : "Descended from a long line of shamans, Zoo Lou traveled far and wide to the Seven Strange Strongholds – ancient, mysterious sites of great wonder in Skylands – where he studied the wisdom and fighting styles of the Seven Strange Mages. After many years of traveling and studying, Zoo Lou returned to find an army of trolls had invaded his sacred homeland to mine its natural magic resources. Zoo Lou’s warrior heart burned with fury. And having now mastered the enchanted art of communicating with nature and summoning animals, he unleashed his great mojo – attacking the trolls and single handedly freeing his lands once again. It was this heroic feat that caught the eye of Double Trouble, who then brought Zoo Lou to Master Eon and the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/ZooLou.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/ZooLou.jpg"
   },
   {
     "id" : 86,
@@ -1670,7 +1670,7 @@
       "abilitie5" : "Exploding Shrapnel"
     },
     "description" : "Zook hails from a strange and unusual species called Bambazookers, who once lived their entire lives standing in place... until Zook discovered they could walk simply by stepping out of the mud. After that, he became a wandering hero, using his hand-carved bamboo tube as a bazooka that fires special explosive thorns. Campfire songs were even written about him. Now, Zook spends his time as a Skylander, figuring he can be an even bigger hero... and have even more songs written about him.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Zook.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Zook.jpg"
   },
   {
     "id" : 87,
@@ -1689,7 +1689,7 @@
       "abilitie5" : "Brain Blowout"
     },
     "description" : "Blastermind was once the \"hide and sheep\" champion of the Sardonic Mountains, where he and his friends played regularly. But when he was about to set a new Skylands record, the ground collapsed and Blastermind fell into a deep, mysterious cavern filled with shimmering crystals. As his friends circled the hole up top, they suddenly found themselves face to face with a dangerous Ham Dragon, who had felt the rumble of the collapse. Down below, Blastermind felt helpless. But fortunately, the cavern was filled with Psionic Power Crystals once used by the Ancients to amplify their thoughts. When the crystals \"heard\" Blastermind’s worried thoughts about saving his friends, they found him worthy – and bestowed upon him awesome psionic powers, which he used to get out of the hole and mentally blast the circling Ham Dragon. Soon after, Blastermind joined the Skylanders as part of the Trap Team, using his new Traptanium Psionic Helmet to fight evil everywhere!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Blastermind.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Blastermind.jpg"
   },
   {
     "id" : 88,
@@ -1708,7 +1708,7 @@
       "abilitie5" : "Main Attraction"
     },
     "description" : "When Buckshot was young, he and his siblings were banished to the Magic Realm of Mysterious Mazes by an evil Spell Punk that wanted to rid Skylands of all Sky-Fauns. Buckshot spent years looking for a way out, but found no way to escape the enchanted labyrinth. Over time, however, the magic of the realm began to grow within him, strengthening his already formidable powers. While his siblings had lost all hope of freedom, Buckshot continued to test the boundaries of the maze, using his mystical bow and arrows to try to penetrate the walls around him. Eventually, Buckshot’s powers became so potent that he even learned how to teleport. With this new ability, he was finally able to open a portal back into Skylands and free his siblings. Now as a Sensei of the Bowslinger class, Buckshot always keeps one eye on the target – and the other on the lookout for the Spell Punk that had banished him!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Buckshot.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Buckshot.jpg"
   },
   {
     "id" : 89,
@@ -1727,7 +1727,7 @@
       "abilitie5" : "Basket Quintet"
     },
     "description" : "Though Cobra Cadabra was an assistant to The Great Mabuni, a traveling magician that performed all over Skylands, he wanted more than anything to become a magician himself. Unfortunately, the guild of Mysteriously Mad Magic Masters of Mystery, who for centuries taught all of the greatest magicians, would not permit it. And so Mabuni decided to teach the cobra himself, even though it was forbidden. They studied everything together, from vanishing acts to snake charming. But when the guild discovered this, they sent a team of magic rabbit enforcers to punish them both. Although the beastly hares were the most powerful of their kind in Skylands, Cobra Cadabra remained brave. Playing an enchanted tune on his flute, he used what he had learned to cast a spell over the rabbits and lead them away. Upon hearing this, this guild was impressed by such a display of skill, and accepted the snake charmer as a member. Soon after, Cobra Cadabra was made a member of another group – the Skylanders!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/CobraCadabra.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/CobraCadabra.jpg"
   },
   {
     "id" : 90,
@@ -1746,7 +1746,7 @@
       "abilitie5" : "Warp Field"
     },
     "description" : "On a remote island in Skylands, Déjà Vu tirelessly worked on a machine that would make the perfect three-minute egg in half the time. After pouring over countless magic tomes, and even consulting the lost plans used to create the legendary Tower of Time, she finally completed construction of the huge machine. Unfortunately, a gang of evil giant sea slugs, searching for a way to acquire super speed, learned of her machine and set about to take it at all costs. Slow, but well armed, the massive slugs bore down on the island. But rather than allow her work be used for evil, Déjà Vu quickly jumped into action and set the clock’s hands to thirteen – causing a time overload. Caught up in the blast, she was given an amazing power over time, which she then used to stop the evil slugs in their tracks and spin them home. Now as a Skylander, Déjà Vu uses her incredible powers to turn back the clock on evil!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/DéjàVu.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/DéjàVu.jpg"
   },
   {
     "id" : 91,
@@ -1765,7 +1765,7 @@
       "abilitie5" : "Magical Cataclysm"
     },
     "description" : "Double Trouble was an adept spellcaster. On an expedition to find exotic ingredients for his potions, he traveled in search of a rare lily that was said to multiply the power of any spell. So thrilled was he when he found it, Double Trouble instantly ate the plant and performed a spell. Suddenly, there was a loud pop… then another… and another – until Double Trouble was surrounded by exact copies of himself. As it turned out, he had misunderstood the details about exactly what would multiply. But it didn’t matter, for he quickly realized the clones were delightful companions… never mind that they were only half his size and would explode on contact.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/DoubleTrouble.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/DoubleTrouble.jpg"
   },
   {
     "id" : 92,
@@ -1784,7 +1784,7 @@
       "abilitie5" : "Dune Bomb"
     },
     "description" : "Hailing from a race of beetles changed by the powerful secrets hidden in a buried Arkeyan city, Dune Bug was next in line to become the defender of those secrets. As a small pupa, Dune Bug and his father would travel to the ruins where he learned to read the ancient writings using his father's magic staff. On the day Dune Bug was to be given his own magic staff, the city fell under attack by the evil Sand Mages of Doom, who were after the secret Arkeyan tomes. Knowing what he had to do, Dune Bug used his magic to defeat the Mages and bury the city deeper into the ground until it was forever out of their reach. Dune Bug earned his magic staff that day - and a place alongside the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/DuneBug.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/DuneBug.jpg"
   },
   {
     "id" : 93,
@@ -1803,7 +1803,7 @@
       "abilitie5" : "Eye Dash Combo"
     },
     "description" : "Summoned by a Mabu Mystic, Enigma comes from a nameless place \"between the worlds.\" Though the Mystic was really just looking for someone to play Skystones, he was quickly enraptured by Enigma's stories about his mysterious homeland. Unfortunately, the Darkness got wind of these stories, and seeking another realm to conquer, sent minions to lay siege on the gateway that remained open. Making matters worse, the Mabu had no idea how to close it. So, with a legion of minions fast approaching, Enigma chose to use his Sigil of Mystery to seal the doorway – cutting him off from his home forever. This large sacrifice caught the attention of the Trap Team, who welcomed Enigma and gave him a new home as a protector of Skylands. He now uses his Traptanium Sigil to put a world of hurt on evil everywhere!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Enigma.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Enigma.jpg"
   },
   {
     "id" : 94,
@@ -1822,7 +1822,7 @@
       "abilitie5" : "Tricked Ya!"
     },
     "description" : "Hoot Loop was raised by a guild of magicians in Skylands’ most famous traveling circus. At a young age, he perfected illusions and spells that only the very best of their guild could perform, and even mastered the art of teleportation! Soon enough, he became the star of the show, known far and wide as the Amazing Hoot Loop. However, one day an army of Greebles disguised as clowns invaded, determined to destroy the popular circus. It was then that Hoot Loop gave a performance that few would ever forget. Using his incredible powers, he fought off the invaders and saved the circus - to the raucous applause of the many spectators – including Master Eon, who presented Hoot Loop with an opportunity to learn some real magic as a member of the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/HootLoop.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/HootLoop.jpg"
   },
   {
     "id" : 95,
@@ -1841,7 +1841,7 @@
       "abilitie5" : "Juggling Act"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Mini-Jini.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Mini-Jini.jpg"
   },
   {
     "id" : 96,
@@ -1860,7 +1860,7 @@
       "abilitie5" : "Life of the Party!"
     },
     "description" : "After his capture, the Skylanders took him, and Chomp Chest to the Secret Sewers of Supreme Stink for their Villain Quests, along with fighting some of the local mutants and Goo Chompies on the way. His Villain Quest was with one of the Skaletones, Bag O' Bones, called \"I'm With The Band\". He then explained to the heroes that he was the manager of the Gecko Chorus along with a few other bands, and that the geckos had just finished their latest single that they wish to deliver to the Capybara King, but they had to cross enemy lines and trusted only Pain-Yatta as an escort. After successfully delivering the gramophone to him, he was awarded with Bag O' Bones' gratitude, the Rubber Glove Hat, and a new outfit.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Pain-Yatta.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Pain-Yatta.jpg"
   },
   {
     "id" : 97,
@@ -1879,7 +1879,7 @@
       "abilitie5" : "Raging Beast"
     },
     "description" : "Nobody is quite sure who Pop Fizz was before he became an alchemist, least of all Pop Fizz himself. After many years of experimenting with magical potions, his appearance has changed quite significantly. In fact, no one even knows his original colour. But it’s widely known that he is a little crazy, his experiments are reckless, and the accidents they cause are too numerous to measure. Understandably, he has had a difficult time finding lab partners, or anyone that even wants to be near him. In hopes of making himself more appealing to others, he attempted to create the most effective charm potion ever — but that just turned him into a big, wild, berserker. Or maybe that’s just how he saw the potion working in the first place...",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/PopFizz.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/PopFizz.jpg"
   },
   {
     "id" : 98,
@@ -1898,7 +1898,7 @@
       "abilitie5" : "Better Beast"
     },
     "description" : "Nobody is quite sure who Pop Fizz was before he became an alchemist, least of all Pop Fizz himself. After many years of experimenting with magical potions, his appearance has changed quite significantly. In fact, no one even knows his original colour. But it’s widely known that he is a little crazy, his experiments are reckless, and the accidents they cause are too numerous to measure. Understandably, he has had a difficult time finding lab partners, or anyone that even wants to be near him. In hopes of making himself more appealing to others, he attempted to create the most effective charm potion ever — but that just turned him into a big, wild, berserker. Or maybe that’s just how he saw the potion working in the first place...",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/BigBubblePopFizz.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/BigBubblePopFizz.jpg"
   },
   {
     "id" : 99,
@@ -1917,7 +1917,7 @@
       "abilitie5" : "Running Colors"
     },
     "description" : "Splat grew up in a typical faun village, which was perfectly manicured and orderly. Every day in school, she and her classmates would recite the same poems, play the same music, and paint the same picture – which was always a portrait of their great ancestor, Fluty Hoofdancer. But this didn’t suit Splat. The only art she wanted to learn was the art of war! After school, she would sneak off to the river and practice her own free form fighting technique against Chompies and other creatures that were causing trouble. When the elder fauns learned of this, they were outraged. But soon thereafter, a band of Drow attacked the village to steal their valuable art, and while the other fauns cowered in fear, Splat stood her ground. Unleashing her self-taught fighting style, she defended her village and sent the Drow running. Now as a member of the Skylanders, Splat makes quite the impression wherever she goes!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Splat.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Splat.jpg"
   },
   {
     "id" : 100,
@@ -1936,7 +1936,7 @@
       "abilitie5" : "Fire Shield"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Spry.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Spry.jpg"
   },
   {
     "id" : 101,
@@ -1955,7 +1955,7 @@
       "abilitie5" : "Fire Shield"
     },
     "description" : "Spyro hails from a rare line of magical purple dragons that come from a faraway land few have ever traveled. It's been said that the Scrolls of the Ancients mention Spyro prominently -- the old Portal Masters having chronicled his many exciting adventures and heroic deeds. Finally, it was Master Eon himself who reached out and invited him to join the Skylanders. Now calling Skylands his home, Spyro remains one of its most valued protectors, with evil facing a new enemy -- and the Skylanders gaining a valued ally.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Spyro.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Spyro.jpg"
   },
   {
     "id" : 102,
@@ -1974,7 +1974,7 @@
       "abilitie5" : "Atom Splitter"
     },
     "description" : "Looking for a way to magically banish the Skylanders, Kaos poured through every dusty scroll and ancient tome he could find. Upon stumbling across a rare and extremely powerful spell, he began to recite its words. However, he sneezed midway through the incantation. As a result, instead of sending the Skylanders far away, Star Strike was plucked from her home in the distant cosmos and brought into Skylands. Surprised, Kaos thought he’d won a powerful new ally in the mysterious and reserved Star Strike. But she knew evil when she saw it and promptly unleashed her fierce magical powers on him. Word of her victory over Kaos spread quickly and she was soon asked by Master Eon to join the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/StarStrike.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/StarStrike.jpg"
   },
   {
     "id" : 103,
@@ -1993,7 +1993,7 @@
       "abilitie5" : "Me-Ouch!"
     },
     "description" : "Once part of an elite tribe of hunters in a remote area of Skylands, Trap Shadow used his cat-like cunning, ingenious traps and mystical stealth abilities to catch nearly everything that could be caught. As a result, his fame around Skylands grew so much that it attracted the attention of an evil cadre of wizards. They plotted to capture Trap Shadow and use his abilities to ensnare the most uncatchable thing of all - Master Eon himself. But Trap Shadow could sense them coming from miles away. Outsmarted and outmaneuvered, each of the wizards was easily captured by Trap Shadow's bewildering array of traps and snares until they were all locked away for good. Having saved Master Eon, he quickly made Trap Shadow a Skylander.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/TrapShadow.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/TrapShadow.jpg"
   },
   {
     "id" : 104,
@@ -2012,7 +2012,7 @@
       "abilitie5" : "Electro Axe"
     },
     "description" : "Voodood was a brave warrior among his people. During his rite of passage as a young orc, he entered the Cave of Trials to prove his worth. It was there he found much more than expected. Lured by a brilliant light, Voodood discovered the skeleton of an enormous dragon with an ornate axe buried where the heart would have been. The village was astonished when he exited the cave holding the legendary Axe Reaver and wearing the dragon skull on his head. Voodood quickly became warrior leader and defended his homeland from many beasts and invaders... until he was the last of his tribe. Soon after, he joined the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Voodood.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Voodood.jpg"
   },
   {
     "id" : 105,
@@ -2031,7 +2031,7 @@
       "abilitie5" : "Tongue Grabber"
     },
     "description" : "Wrecking Ball was once a tiny grub worm about to become the main ingredient in an old wizard’s cauldron of magic stew. But when he was dropped in, the wizard was shocked to see the little grub devour all of the soup and emerge from the cauldron 20 times larger and with a long, sticky tongue. The poor old wizard was even more surprised seconds later, when Wrecking Ball proceeded to swallow him whole. Eventually he ran, quite literally, into the powerful Portal Master Eon, who was intrigued by how he came to be and impressed with his unique abilities.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/WreckingBall.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/WreckingBall.jpg"
   },
   {
     "id" : 106,
@@ -2050,7 +2050,7 @@
       "abilitie5" : "The Feline's Mutual"
     },
     "description" : "",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Mysticat.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Mysticat.jpg"
   },
   {
     "id" : 107,
@@ -2069,7 +2069,7 @@
       "abilitie5" : "Juggling Act"
     },
     "description" : "Ninjini was the most renowned magical ninja from ancient times, long before the Arkeyans rose to power. But a dark sorceress, who was jealous of Ninjini's skill as a warrior, trapped her within an enchanted bottle to be imprisoned for all of eternity. Time stretched on, yet Ninjini remained steadfast and determined to escape - even mastering the dual sword technique within the solitude of her bottle. Over the years, her strength continued to grow until alas, through sheer force of will, she broke free! From that moment on, Ninjini made it her mission to help those in need as one of the first Skylanders, always carrying that enchanted bottle as a reminder of her own resilience.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Ninjini.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Ninjini.jpg"
   },
   {
     "id" : 108,
@@ -2088,7 +2088,7 @@
       "abilitie5" : "Triple Bundle Dynamite"
     },
     "description" : "As a young troll, Boomer loved to blow things up -- particularly sheep. Later, he was drafted into the troll army, where they gave him LOTS of things to blow up. However, Boomer soon realized the sole mission of the army was war and conquest. Even though he was a troll, these things didn't interest him. So he left the trolls after saving a town from being destroyed by them. Not long after, he was invited to be a Skylander -- the only troll ever to win such an honor. Now he uses his explosive skills to fight evil... much to the relief of sheep everywhere.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Boomer.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Boomer.jpg"
   },
   {
     "id" : 109,
@@ -2107,7 +2107,7 @@
       "abilitie5" : "Machine Fingerguns"
     },
     "description" : "Long ago, Bouncer was an All-Star Roboto-Ball player. But when the Arkeyan Empire destroyed his home town and discontinued the games, he was converted into a security-bot and stationed in the mines. It was there that Bouncer encountered dozens of Mabu prisoners who remembered him fondly from his playing days. He quickly became a bit of a celebrity around the mines, and it wasn't long before this new adulation convinced him that he could be just as much of a hero in life as he was on the field. Thus, he decided to join the Skylanders and take a stand against the evil, Arkeyan overlords.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Bouncer.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Bouncer.jpg"
   },
   {
     "id" : 110,
@@ -2126,7 +2126,7 @@
       "abilitie5" : "Overload"
     },
     "description" : "No matter what he was doing, Chain Reaction always prided himself at being the best at it. Despite his impressive skills, though, the two chainsaw swords he regularly wielded tended to scare most people away. As a result, Chain Reaction was often lonely. But that all changed the day he witnessed a group of young dwarves getting picked on by an evil gang of ninja rats, the dwarves looked at Chain Reaction as their hero, and followed him everywhere he went. While Chain Reaction appreciated the company, he knew that he could not protect them forever, so he decided to teach them all he knew so that they could one day protect themselves. Sometime later, Master Eon heard rumors about dwarves from a small village who had successfully defended themselves against a large army of ninja rats thanks to the teachings of a great master. He knew at once that he needed to find Chain Reaction and make him a Sensei.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/ChainReaction.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/ChainReaction.jpg"
   },
   {
     "id" : 111,
@@ -2145,7 +2145,7 @@
       "abilitie5" : "The Bigger The Boom"
     },
     "description" : "Growing up, Chopper was much smaller than the rest of his dinosaur kin. But this didn’t bother him because he had big ideas. Ahead of the annual hunting competition to honor the village idol, Roarke Tunga, Chopper spent weeks building himself a super Gyro-Dino-Exo-Suit. When the competition began, he took the air – firing his missiles and chomping everything in his path. With Chopper on the verge of victory, the competition came to a sudden halt when the nearby volcano erupted, flooding the village with lava. Seeing the residents of his village trapped, Chopper quickly flew into action. One at a time, he airlifted everyone to safety. And was even able to save the village idol. For heroically using his head, Chopper was made a Skylander!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Chopper.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Chopper.jpg"
   },
   {
     "id" : 112,
@@ -2164,7 +2164,7 @@
       "abilitie5" : "Boom Buddies"
     },
     "description" : "Countdown was discovered by a group of Yetis who were snowboarding one particularly chilly morning when they came across a big bomb encased in ice. After bringing it back to their cabin, they were shocked when it actually came to life. No one, not even Countdown himself, has any memory of where he came from or how he ended up frozen in the mountains. Since becoming a Skylander, Master Eon has been graciously trying to help piece together fragments of his past. But this has proven difficult, as Countdown loses some of his memory every time he explodes – which happens a lot. In the meantime, Countdown has enjoyed working with Eon and fighting alongside the Skylanders to defend their world against evil – even though he occasionally forgets what he is doing.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Countdown.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Countdown.jpg"
   },
   {
     "id" : 113,
@@ -2183,7 +2183,7 @@
       "abilitie5" : "All Spun Up"
     },
     "description" : "No one is really quite sure exactly what Dr. Krankcase is a doctor of... but his technical engineering achievements are legendary. The secret to his success lies in his modified concoction of glowing green goo, which causes wooden objects to come to life and turn evil. His unique skillset makes him a valuable asset to the Doom Raiders, who have plenty of nefarious uses for evil wooden creatures called Evilikins. It is also commonly known that Dr. Krankcase served as an evil inspiration to Kaos once upon a time, who had figured out how to make his own wooden creatures, the Wilikins, come to life after reading about the doctor's exploits in the Minion Monthly Catalog. Kaos also respected Dr. K's interest in world domination and doom engineering, not to mention his well-documented love of pickles.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/DrKrankcase.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/DrKrankcase.jpg"
   },
   {
     "id" : 114,
@@ -2202,7 +2202,7 @@
       "abilitie5" : "Boo Uka Boo Uka!"
     },
     "description" : "In the Thumpin' Wumpa Islands Adventure Pack, Dr. Neo Cortex had planned an evil scheme for 20 years to create an army of unstoppable minions using the rhythmic energies of the Synchronization Celebration that took place on the Island. However his Cortex Matrix Chamber was hijacked by his minion Fake Crash, causing an explosion that sent Cortex rocketing towards the island beach. He is then forced to partner with his nemesis, Crash Bandicoot, and the Skylanders to stop Fake Crash from destroying Wumpa Island with bad rhythms. After Fake Crash's defeat, Cortex was dismayed that his Cortex Matrix Chamber was turned into a docile music box by Mags and was last seen glaring angrily at Crash.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/DrNeoCortex.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/DrNeoCortex.jpg"
   },
   {
     "id" : 115,
@@ -2221,7 +2221,7 @@
       "abilitie5" : "DX3000 - Drill Detonator"
     },
     "description" : "Like many Arkeyan artifacts, Drill Sergeant was buried for centuries – a long forgotten remnant of an ancient powerful civilization. It was only a chance collision with a burrowing Terrafin that led to his systems firing up again. By Arkeyan custom, Drill Sergeant was then obligated to become Terrafin’s servant. This didn’t sit well with the dirt shark, so his first order as master was for Drill Sergeant to not serve him at all… a command he continues to follow zealously to this day.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/DrillSergeant.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/DrillSergeant.jpg"
   },
   {
     "id" : 116,
@@ -2240,7 +2240,7 @@
       "abilitie5" : "Quadratic Blasters"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks,\" assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Drobit.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Drobit.jpg"
   },
   {
     "id" : 117,
@@ -2259,7 +2259,7 @@
       "abilitie5" : "Quadratic Blasters"
     },
     "description" : "Dragons are smart, but none so much as Drobot. He was born in the highest reaches of Skylands, where dragons spent all their time competing in aerial battles. But Drobot was more interested in taking things apart to see how they worked. While exploring one day, he came upon some mysterious technology, which he used to assemble a robotic suit. Features include laser beams that shoot from his eyes, flight enhancement technology, a vocal synthesizer that gives him a deep booming voice, and the ability to shoot spinning gears. With such power – more than most other dragons – Drobot joined the Skylanders to help protect the residents of Skylands.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Drobot.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Drobot.jpg"
   },
   {
     "id" : 118,
@@ -2278,7 +2278,7 @@
       "abilitie5" : "Enhanced Fragmentation"
     },
     "description" : "Gearshift was created on the Tech island of Metallana by King Mercurus, who considered the young robot to be his own daughter. But rather than performing royal duties, Gearshift preferred to spend her time in the oily depths of the kingdom among its workers, secretly tending to the huge subterranean machines. When her father discovered this, he was furious - but then a squadron of Undead Stormriders suddenly attacked. Learning that these marauders wanted to capture her father, Gearshift used her knowledge of the labyrinth below to hide him. Seizing the emblem of her people - The Great Gear - she used it to fight the Stormriders, inspiring the workers to rise up. Together, they drove the Stormriders out of Metallana and saved the kingdom. For this, Gearshift was made part of the Trap Team, using her new awesome Traptanium-forged gear to help defend Skylands.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Gearshift.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Gearshift.jpg"
   },
   {
     "id" : 119,
@@ -2297,7 +2297,7 @@
       "abilitie5" : "Bright Idea"
     },
     "description" : "High Volt was once the commander of a special security force that was in charge of patrolling the border between the known regions of Skylands and the mysterious uncharted region known as the Outlands. From atop the Shockspire Tower, their security headquarters, High Volt vigilantly monitored any strange activity beyond the border, knowing that Kaos and his minions were always up to no good. Over the years, he had defended Skylands against countless Greeble attacks, Troll uprisings, and even a few evil food chains that were attempting to expand. But on a recent patrol mission into the Outlands, High Volt discovered a heavily guarded construction site, where Kaos' minions appeared to be building a colossal Doom Station of Ultimate Destruction! Realizing at once that all of Skylands was in danger, he raced to the Skylanders Academy to inform Master Eon and joined the Skylanders in their fight to stop it!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/HighVolt.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/HighVolt.jpg"
   },
   {
     "id" : 120,
@@ -2316,7 +2316,7 @@
       "abilitie5" : "Jolting Jab"
     },
     "description" : "Jawbreaker hailed from a race of robots that operated and maintained a vast underground complex of enormous machines that powered the legendary Sky Train, which traveled between a thousand different islands daily. Like many of his fellow robots, Jawbreaker led an ordered existence – full of rules and regulations – which he followed happily. However, one day a huge army of Gear Trolls invaded the subterranean complex. Known for being major train enthusiasts, they were set on taking over the Sky Train for their own evil use. Jawbreaker quickly jumped into action and used his massive fists to beat the trolls into retreat. His quick action and ability to think for himself made him an individual. For this he was made part of the Trap Team, where he now uses his Traptanium powered fists to deliver mighty blows to evil!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Jawbreaker.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Jawbreaker.jpg"
   },
   {
     "id" : 121,
@@ -2335,7 +2335,7 @@
       "abilitie5" : "Plasma Shots"
     },
     "description" : "Magna Charge came from the great race of Ultron robots, but was mysteriously created with a giant magnet head. This proved problematic, as his peers were all made of metal and were constantly being pulled towards him. As a result, Magna Charge was exiled to a faraway island, where he eventually learned to control his magnetic powers. After years of training, he returned to his home to demonstrate his abilities, but found everything completely destroyed. In searching for answers, Magna Charge caught the attention of Master Eon, who realized the unique Ultron soldier was a perfect candidate for the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/MagnaCharge.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/MagnaCharge.jpg"
   },
   {
     "id" : 122,
@@ -2354,7 +2354,7 @@
       "abilitie5" : "Havoc Orb"
     },
     "description" : "There is no record of the person who originally built Ro-Bow. By the time his basic systems were fully online, his creator was nowhere to be found. Ro-Bow searched far and wide, but since his programming was incomplete, he was unable to communicate with anyone. Eventually he stumbled upon the remains of an old lair that had been built by Kaos, and discovered a strange device inside the Matter Refactoring Room. Ro-Bow was able to access the device and download a staggering amount of information from it, which gave him the ability to speak, albeit in a slightly strange language, as well as shoot driller arrows with pinpoint accuracy. He also acquired a lot of details about Kaos himself. Even though Ro-Bow's past was a mystery, his future became quite clear - his new prime directive was to seek out Master Eon and help fight evil. With this incredible archery knowledge and skills, there could be no better trainer for the Bowslinger Class, so Eon made him a Sensei on the spot.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Ro-Bow.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Ro-Bow.jpg"
   },
   {
     "id" : 123,
@@ -2373,7 +2373,7 @@
       "abilitie5" : "Tanks A Lot"
     },
     "description" : "Sprocket was raised with all the privileges of a rich, proper Goldling. But she cared little for fancy things. Instead, she spent most of her time growing up in her uncle's workshop, learning how to build and fix his many mechanical inventions. But everything changed on the day her uncle mysteriously vanished. When she eventually discovered that Kaos had been behind his disappearance, she constructed a battle suit and went after him, leaving the luxury and comfort of her family's wealth behind. From that moment on, Sprocket was dedicated to fighting the forces of evil, whilst never losing hope that she would reunite with her beloved uncle.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Sprocket.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Sprocket.jpg"
   },
   {
     "id" : 124,
@@ -2392,7 +2392,7 @@
       "abilitie5" : "Spyder Sting"
     },
     "description" : "From the moment he could crawl, Spy Rise wanted nothing more than to join his father in the family business as a private investigator. But after being hired by a shadowy figure to gather information on the Cloudbreak Islands, his father vanished, leaving Spy Rise alone to search for answers. He scoured the land for clues, using his immense skill in reconnaissance to track down his missing father, but all roads came up empty. Then one day, he received a tip from none other than Master Eon, which led him to a hidden lair near Mt. Cloudbreak, where he not only found his long lost father, but also uncovered an evil plot to take control of the magical volcano during the next eruption ceremony. With his father safe, Spy Rise decided to pursue a new career -- as a member of the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/SpyRise.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/SpyRise.jpg"
   },
   {
     "id" : 125,
@@ -2411,7 +2411,7 @@
       "abilitie5" : "Eat My Dust"
     },
     "description" : "As an orphan from the Dizzying Dunes, Tread Head had always dreamed of racing. And after a summer of scavenging for parts, he finally managed to build a bike that would allow him to enter the local racing circuit. The other competitors laughed at the crudeness of his work, but Tread Head had built it for performance, not for style. So when the race began, he jumped out to a commanding lead. But as he entered a canyon, he suddenly found himself at a roadblock – of Goblin troops! Knowing the other racers were in danger, he pulled off the road and kicked up so much dust that the Goblins had no choice but to flee, allowing the other racers to pass safely. Tread Head may have lost the race that day, but he earned the respect of Master Eon, who would see to it that Tread Head would tread on evil wherever he goes!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/TreadHead.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/TreadHead.jpg"
   },
   {
     "id" : 126,
@@ -2430,7 +2430,7 @@
       "abilitie5" : "Coinsplosion"
     },
     "description" : "Trigger Happy is more than his name -- it's his solution to every problem. Nobody knows from where he came. He just showed up one day in a small village, saving it from a group of terrorizing bandits by blasting gold coins everywhere with his custom-crafted shooters. Similar tales were soon heard from other villages, and his legend quickly grew. Now everyone in all of Skylands knows of the crazy goldslinger that will take down any bad guy... usually without bothering to aim.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/TriggerHappy.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/TriggerHappy.jpg"
   },
   {
     "id" : 127,
@@ -2449,7 +2449,7 @@
       "abilitie5" : "Can On and On"
     },
     "description" : "Trigger Happy is more than his name -- it's his solution to every problem. Nobody knows from where he came. He just showed up one day in a small village, saving it from a group of terrorizing bandits by blasting gold coins everywhere with his custom-crafted shooters. Similar tales were soon heard from other villages, and his legend quickly grew. Now everyone in all of Skylands knows of the crazy goldslinger that will take down any bad guy... usually without bothering to aim.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/DoubleDareTriggerHappy.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/DoubleDareTriggerHappy.jpg"
   },
   {
     "id" : 128,
@@ -2468,7 +2468,7 @@
       "abilitie5" : "Coinsplosion"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks,\" assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/TriggerSnappy.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/TriggerSnappy.jpg"
   },
   {
     "id" : 129,
@@ -2487,7 +2487,7 @@
       "abilitie5" : "Windup Punch"
     },
     "description" : "Built in the enchanted workshop of a toymaker obsessed with time, Wind-Up was created to help keep his massive collection of complicated clocks working perfectly. But when the toymaker popped out of existence in a freak accident caused by putting hot cocoa in a cross-wired Arkeyan oven, Wind-Up found himself surrounded by an invading Cyclops platoon - with an eye towards claiming the toymaker's secrets for themselves. Using split-second timing, clockwork strategy, and his totally wound up energy, Wind-Up bravely sprang into action and handily defeated the Cyclops. He later joined the Skylanders to help swing the pendulum the other way in their fight against anything that threatens Skylands.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Wind-Up.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Wind-Up.jpg"
   },
   {
     "id" : 130,
@@ -2506,7 +2506,7 @@
       "abilitie5" : "Bat-tle Cry"
     },
     "description" : "Bat Spin hailed from the underworld, where as a child she was separated from her people. After spending months searching for them, she eventually was welcomed by a colony of magical bats who raised her as one of their own. After many peaceful years living with the bats, the colony was invaded by an army of undead trolls, who were set on stealing their magic to build an ultimate sonar weapon. Bat Spin quickly took action and used powerful abilities that she had learned growing up with the bats and essentially becoming one of them. She heroically defeated the trolls and saved the colony. This caught the attention of Master Eon, who saw at once she would make a worthy Skylander!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/BatSpin.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/BatSpin.jpg"
   },
   {
     "id" : 131,
@@ -2525,7 +2525,7 @@
       "abilitie5" : "Vampiric Aura"
     },
     "description" : "Chop Chop was once an elite warrior belonging to the ancient race of Arkeyan beings. Like many of the Arkeyans, he was created from a hybrid of elements - in his case, Undead magic and technology. Chop Chop is a relentless, highly-skilled soldier who wields a sword and shield made of an indestructible metal. With the Arkeyans having vanished long ago, Chop Chop wandered Skylands for centuries looking for his creators. Eventually, he was found by Eon and recruited as a Skylander.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/ChopChop.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/ChopChop.jpg"
   },
   {
     "id" : 132,
@@ -2544,7 +2544,7 @@
       "abilitie5" : "Axe Frenzy"
     },
     "description" : "The only thing that ever mattered to Chopscotch was mastering her weapon of choice, the giant axe, while rocking out to her favorite musical idol, Wolfgang. It never bothered her that she was short in stature or that all of the other ghouls in the Underworld laughed at the way she spoke in rhymes as she made up her own lyrics to Wolfgang’s guitar jams. So when Wolfgang joined the villainous Doom Raiders, she was devastated. But instead of letting it destroy her, she chose to put her axe skills to good use, and fought Wolfgang and his Moon Goons when they attempted to curse her entire town during an evil concert. Her willingness to stand up to her long time hero came as a surprise to everyone, and soon all of the villagers were speaking in rhymes in her honor. Soon after, she met Master Eon, who was so impressed at her fighting abilities and positive outlook that he recruited her as a Sensei for the Smasher Class. Now she teaches new Skylanders how to fight... and how to rhyme!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Chopscotch.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Chopscotch.jpg"
   },
   {
     "id" : 133,
@@ -2563,7 +2563,7 @@
       "abilitie5" : "Shadow Reach"
     },
     "description" : "While just an egg, Cynder was stolen by the henchmen of an evil dragon named Malefor and raised to do his bidding. For years, she spread fear throughout the land until she was defeated by Spyro the Dragon and freed from the grip of Malefor. But dark powers still flow through her, and despite her desire to make amends for her past, most Skylanders try to keep a safe distance... just in case.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Cynder.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Cynder.jpg"
   },
   {
     "id" : 134,
@@ -2582,7 +2582,7 @@
       "abilitie5" : "Awesome Occu-Blast"
     },
     "description" : "Throughout history, there have been many epic battles, though none more bizarre than the legendary brawl between the headless giant and the infamous flying eyeball. It all started with a staring contest, but with the headless giant having no eyes and the flying eyeball unable to blink, it soon escalated into an all out war as the two rivals fought fiercely throughout the land of the Undead for over a hundred years! With neither opponent down, the two combatants were eventually struck with the realization that if they were to combine their formidable powers, they would be a force to be reckoned with. By teaming up, the infamous flying eyeball and the headless giant became known as Eye-Brawl, one of the most powerful Skylanders ever known.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Eye-Brawl.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Eye-Brawl.jpg"
   },
   {
     "id" : 135,
@@ -2601,7 +2601,7 @@
       "abilitie5" : "Awesome Occu-Blast"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks,\" assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Eye-Small.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Eye-Small.jpg"
   },
   {
     "id" : 136,
@@ -2620,7 +2620,7 @@
       "abilitie5" : "Diva"
     },
     "description" : "Despite being Undead, Fiesta had always been the life of the party. He was once the head member of a popular mariachi band in the personal court of Count Moneybone, who all undead citizens respected immensely. In his spare time, Fiesta and his bandmates played music for all of the new arrivals that entered the Underworld. However, a day came when the new arrivals were actually several Skylanders, who had come on a mission to stop Count Moneybone from unleashing a robot army on all of Skylands. Fiesta then realized that he, like so many others, had been fooled by the evil Count into thinking he was kind and generous – not the vengeful monster he truly was. Unbeknownst to the Skylanders, Fiesta and his bandmates helped to distract the robot army so they could infiltrate Moneybone’s mansion and put a stop to him. Even though the Skylanders were unaware, this act of bravery and defiance did catch the attention of Master Eon, who recruited him at once.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Fiesta.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Fiesta.jpg"
   },
   {
     "id" : 137,
@@ -2639,7 +2639,7 @@
       "abilitie5" : "Halberd Horror"
     },
     "description" : "Rider and his magnificent ostrich, Fright, were the finest jousting team in all of Skylands. But after winning the championship for the third straight year, a jealous competitor placed a curse on the elf that sent him to the land of Undead. Not wanting to be without his partner, Fright, who up until this point had been afraid of nearly everything, ate a bag of skele-oats that turned him into a skeleton so that he could brace the journey to the underworld to save his friend. Grateful for being rescued, Fright Rider returned to the surface dedicated to helping others - while still dominating an occasional jousting tournament from time to time.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/FrightRider.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/FrightRider.jpg"
   },
   {
     "id" : 138,
@@ -2658,7 +2658,7 @@
       "abilitie5" : "Flying Bone Doom"
     },
     "description" : "Funny Bone once lived on Punch Line Island – the funniest place in the Land of the Undead and home of the Eternal Chuckling Trees that magically make everyone laugh when the breeze tickles them. But after hearing stories of this, the evil Count Moneybone sent his minions to investigate if this magic could be used to make a \"Funny Bomb\" that would render Skylands helpless with laughter. Funny Bone was in the middle of burying his neighbors’ birthday cake on a breezeless day when the invaders arrived. Seeing their large axes, Funny Bone instantly knew that the Chuckling Trees were in danger. Without hesitation, he sprang into action, fighting off the minions and driving them from his humorous home. Now as a Skylander, Funny Bone delivers his own punch line to evil!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/FunnyBone.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/FunnyBone.jpg"
   },
   {
     "id" : 139,
@@ -2677,7 +2677,7 @@
       "abilitie5" : "Nightmare Touch"
     },
     "description" : "There was a time when Ghost Roaster was neither a ghost nor a roaster. Instead he was a chef living in a village high in the mountains. One day, while clipping wool from a sheep to use in a recipe, he accidentally fell into the Valley of the Undead and transformed into a ghost-eating ghoul! After eating an entire spectral village, its Ethereal Ruler chained Ghost Roaster to a spiked ball as punishment -- its rattle heard as he wanders the night, warning nearby spirits. When Master Eon eventually heard of his predicament, he figured even a ghost eater could be useful. So he made Ghost Roaster a Skylander... after he promised to eat only evil ghosts.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/GhostRoaster.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/GhostRoaster.jpg"
   },
   {
     "id" : 140,
@@ -2696,7 +2696,7 @@
       "abilitie5" : "It's Alive!"
     },
     "description" : "When he was young, Grim Creeper visited the prestigious Grim Acres School for Ghost Wrangling, hoping to attend as a student. But when the Scaremaster interviewed him, he found that Grim didn't have any of the usual training that other students had. Because of this, he was turned away. However, as the young Grim was about to leave, a herd of rampaging ghosts suddenly flooded the school -- carrying away the faculty and leaving the students to fend for themselves. Grim Creeper stood his ground -- not only defending the other students, but using his amazing reaping talents to fight back the ghosts and contain them until help could arrive. Now a Skylander, Grim is considered one of the best reapers ever to swing a scythe, proving that studies alone are no substitute for bravery, passion and true heroic spirit.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/GrimCreeper.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/GrimCreeper.jpg"
   },
   {
     "id" : 141,
@@ -2715,7 +2715,7 @@
       "abilitie5" : "Caustic Phantom Orbs"
     },
     "description" : "Long ago, Hex was a gifted and powerful sorceress who traveled deep into the underworld to confront the Undead Dragon King named Malefor, who made several attempts to capture her to learn her secrets. Though she successfully battled the dragon, Hex returned from the underworld changed – having unwillingly joined the ranks of the Undead. Many are wary of her since her transformation, suspecting she has used her powerful magic for evil purposes. But Eon trusts her, and views her as a valuable Skylander ally.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Hex.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Hex.jpg"
   },
   {
     "id" : 142,
@@ -2734,7 +2734,7 @@
       "abilitie5" : "Caustic Phantom Orbs"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks,\" assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Hijinx.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Hijinx.jpg"
   },
   {
     "id" : 143,
@@ -2753,7 +2753,7 @@
       "abilitie5" : "Stunning Sting"
     },
     "description" : "The perfect blend of sword and sorcery, Krypt King wandered Skylands for years as the disembodied spirit of a knight – until he found his way into the depths of an ancient Arkeyan weapon vault. Upon finding an enormously powerful suit of armor, the spirit decided to make it his own. Unfortunately, this triggered a long dormant auto defense system. With alarms blaring, a massive sealed chamber was opened, revealing a huge army of war machines. Krypt King launched himself towards the attack force, swinging his newly found giant sword until every machine was utterly destroyed. Realizing the power he wielded could serve a broader purpose, Krypt King sought out the Skylanders and was made a member of the Trap Team, where he now uses his massive Traptanium blade to cut down evil!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/KryptKing.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/KryptKing.jpg"
   },
   {
     "id" : 144,
@@ -2772,7 +2772,7 @@
       "abilitie5" : "Infectious Smile"
     },
     "description" : "From high up in the gloomy Batcrypt Mountains, Night Shift was a full-fledged baron and heir to a great fortune. But one day, he decided to leave it all behind to pursue his dream as a prizefighter. It wasn’t long before Night Shift became the undefeated phantom-weight champion of Skylands, famous for his massive uppercut and for having once bitten an opponent in the ring. Unfortunately, a rule change made teleportation illegal and Night Shift was forced to give up his belt, officially ending his career as a boxer. Crestfallen over being disqualified from a sport he loved so dearly, his spirits picked up when he was sought out by Master Eon, who told him that his skill as a fighter could be put to great use as a member of the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/NightShift.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/NightShift.jpg"
   },
   {
     "id" : 145,
@@ -2791,7 +2791,7 @@
       "abilitie5" : "Restless Reptiles"
     },
     "description" : "Pit Boss was a member of a powerful order of snake philosophers that lived high up in the Great Twisty Mountains. Travelers would come from miles around and make the treacherous climb just to seek out the snakes’ wisdom. Each visitor was permitted to ask one question, but Pit Boss became alarmed when the same question was asked by several different people – how to deal with the growing threat of Kaos! With such a great concern, Pit Boss knew that it was time for action, not words. He left the Order of the Snake in search of this threat, and soon it was clear that Kaos was worse than Pit Boss had imagined. Knowing he could not stop Kaos on his own, Pit Boss joined the Skylanders, and due to his great wisdom and mystical powers, Master Eon enlisted him into the Sensei program as a Sorcerer Master.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/PitBoss.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/PitBoss.jpg"
   },
   {
     "id" : 146,
@@ -2810,7 +2810,7 @@
       "abilitie5" : "Nasty Sssurprise"
     },
     "description" : "Some say Rattle Shake was the best tracker in the Cloudbreak Islands. Others say he could strike the center of a gold coin at a thousand paces. But the legend of Rattle Shake was immortalized when he found himself trapped by the Black Hat Gang, the infamous group of cowboys who literally were large cows... and evil ones at that. They threatened to plunder the local village unless Rattle Shake led them inside the magical volcano Mt. Cloudbreak, where they hoped to discover enchanted treasure. Badly outnumbered, the ever calm Rattle Shake magically summoned every snake in the area and overtook the notorious bovines in an epic fight. The tale of his heroism was heard by Master Eon, who then recruited him to the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/RattleShake.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/RattleShake.jpg"
   },
   {
     "id" : 147,
@@ -2829,7 +2829,7 @@
       "abilitie5" : "Deadly Clothesline"
     },
     "description" : "Roller Brawl grew up with five older vampire brothers, who were all very big and overprotective. Being the smallest of her family, she learned how to use her speed and cunning to become one of the toughest jammers in the Undead Roller Derby League. It was during the championship match when she caught the eye of Kaos, who fell head-over-heels in love with her. But when her overprotective brothers stepped in, Kaos had them captured by Drow and taken prisoner. Roller Brawl swore revenge, but even with her impressive skills, she was no match for an entire Drow army. Having developed a strong distaste for evil, she joined up with the Skylanders to fight against Kaos – while never giving up on her search for her brothers.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/RollerBrawl.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/RollerBrawl.jpg"
   },
   {
     "id" : 148,
@@ -2848,7 +2848,7 @@
       "abilitie5" : "Eat Pavement"
     },
     "description" : "Roller Brawl grew up with five older vampire brothers, who were all very big and overprotective. Being the smallest of her family, she learned how to use her speed and cunning to become one of the toughest jammers in the Undead Roller Derby League. It was during the championship match when she caught the eye of Kaos, who fell head-over-heels in love with her. But when her overprotective brothers stepped in, Kaos had them captured by Drow and taken prisoner. Roller Brawl swore revenge, but even with her impressive skills, she was no match for an entire Drow army. Having developed a strong distaste for evil, she joined up with the Skylanders to fight against Kaos – while never giving up on her search for her brothers.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/BoneBashRollerBrawl.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/BoneBashRollerBrawl.jpg"
   },
   {
     "id" : 149,
@@ -2867,7 +2867,7 @@
       "abilitie5" : "Go Out with A Bang"
     },
     "description" : "Short Cut was renowned for making the finest clothing in all of Skylands. With his magic shears, no thread was too thick, no cloth was too bunchy, and no pattern was too hard to follow. But one day, a fleet of flying sailing ships appeared overhead, crewed by raucous Skeleton Pirates. Having plundered a cargo of golden yarn from fortunetelling soothsayers, their leader demanded that Short Cut stitch together a magic hat that would tell him the futures of everyone in Skylands – or suffer the consequences! Not wanting to see his work used for evil, he bravely snuck onto the ship that night and sewed the pants and shirts of the sleeping pirates together so they were unable to fight. Short Cut then used his magic shears to cut the sails and wrap them around the ship, preventing the pirates from escaping. His brave actions caught the attention of Master Eon, who quickly made Short Cut a member of the Trap Team, where he now uses powerful Traptanium Shears to cut evil’s future short with every snip!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/ShortCut.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/ShortCut.jpg"
   },
   {
     "id" : 150,
@@ -2886,7 +2886,7 @@
       "abilitie5" : "Surround Sound"
     },
     "description" : "Wolfgang wasn’t always a werewolf. He was once a handsome, brilliant musician set to marry a beautiful princess. Before the wedding, he planned to unveil his ultimate symphony to the greatest music aficionados in Skylands, convinced they would love it and instantly hail him as the best composer of all time. But they didn’t. They hated it – and even worse, it actually physically hurt when heard. Turns out Wolfgang had unintentionally discovered the musical note for pain. Being shunned like this drove Wolfgang utterly and completely mad, physically transforming him into the werewolf he is today. With the princess no longer wanting to marry him, he turned to a life of crime, terrorizing the royal subjects and using his evil music as a weapon. The Golden Queen took note of this and realized that Wolfgang could make a powerful ally, if she could control his rage and keep him in line. And that’s a pretty big \"if!\". After becoming part of the Doom Raiders, Wolfgang led a group of Moon Goons on an attempt to curse Chopscotch's entire town during an evil concert. They were defeated by Chopscotch, who once looked up to Wolfgang as her favorite musical idol.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Wolfgang.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Wolfgang.jpg"
   },
   {
     "id" : 151,
@@ -2905,7 +2905,7 @@
       "abilitie5" : "Imperial Armor"
     },
     "description" : "Chill was the sworn guardian and personal protector of the Snow Queen. As captain of the queen's guard, her many heroic deeds earned her the respect of the entire ice kingdom. But when the Cyclops army began to expand their empire into the northern realms, the Snow Queen was taken prisoner during her watch and Chill has never forgiven herself for letting it happen. Ashamed and embarrassed, she left the Ice Kingdom behind and sworn never to return until she could reclaim her honor. Now as a member of the Skylanders, she remains courageous and strong, while always on the lookout for her lost queen.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Chill.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Chill.jpg"
   },
   {
     "id" : 152,
@@ -2924,7 +2924,7 @@
       "abilitie5" : "Sonar Smarts"
     },
     "description" : "Believe it or not, Dive-Clops is actually the twin brother of Eye-Brawl. When he was young, his bat-wings were blasted off by pirates while flying over the Swirling Sea, causing him to plunge into the abyss below. After rolling on the bottom for several days, he was discovered by an underwater civilization of Jelly Dwarves. They were instantly fascinated by the bizarre looking eyeball and took him back to their Corral Castle, where they built him a magnificent dive suit that would allow him explore the depths of the sea. But everything changed when Dive-Clops decided to venture to the mysterious Whirlpool of Destiny deep within the ocean. As he got closer, he suddenly felt pulled by its immense power, and reemerged to discover that thousands of years had passed! Now with his destiny before him as a member of the Skylanders, Dive-Clops lets the minions of Kaos know that there are many dangers of the deep!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Dive-Clops.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Dive-Clops.jpg"
   },
   {
     "id" : 153,
@@ -2943,7 +2943,7 @@
       "abilitie5" : "Ultimate Pitch Control"
     },
     "description" : "Echo lived in an undersea kingdom that was built around an enormous oyster shell, and at its center was the Pearl of Wisdom. Every day water dragons from all around the kingdom would come to ask questions of the Pearl. Because this was a sacred ritual, anyone living near the Pearl were required to speak only in whispers. This was challenging for Echo, who lived directly next to it. She had a gift – and it was loud – and often got her in trouble. One day, a gang of sea horses known as the Aqua Jocks rode into town and claimed the Pearl for themselves. They cast an unbreakable bubble around it and began dragging it away with enormous chains. The nearby water dragons, who had been quiet for so long, were unable to even call for help. Then Echo appeared – and with her loudest sonar blast, she shattered the bubble and blew the sea horses out of the kingdom! Her heroic actions caught the attention of Gill Grunt, who recruited her as a Skylander. Now Echo sounds off against evil all throughout Skylands!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Echo.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Echo.jpg"
   },
   {
     "id" : 154,
@@ -2962,7 +2962,7 @@
       "abilitie5" : "Sword Swells"
     },
     "description" : "Most of the dolphins of Bottlenose Bay spent their days playing in the waves. However, Flip Wreck was different. Always the adventurous one, he took it upon himself to be a self-appointed protector of his undersea world. One day, while exploring an underwater graveyard of shipwrecks, he came across a massive Ice Viking ship that was still intact. Suddenly, a huge crew of Ice Vikings burst out from inside and began leading an attack on the unarmed dolphin residents. Flip Wreck took off at once and quickly fastened together armor, shield, and sword using pieces from the nearby wrecks. He then single-handedly defeated the Ice Vikings, who retreated never to be seen again. For his heroic actions, Flip Wreck was made a Skylander and now turns the tide against evil in Skylands!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/FlipWreck.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/FlipWreck.jpg"
   },
   {
     "id" : 155,
@@ -2981,7 +2981,7 @@
       "abilitie5" : "Shaved Ice"
     },
     "description" : "When he was young, Freeze Blade's family moved from the Frozen Wastelands of Vesh to the Great Lava Lakes. As it turned out, this was a very difficult adjustment for Freeze Blade. Not only was he the sole one of his kind, it was also incredibly hot and there was no ice to skate on whatsoever. But over the years, he learned to fit in with the other fire-like creatures and even discovered he had a magical ability to ice skate on any surface... even bubbling lava. One day, while out setting a new frozen lava speed record, he came across Blast Zone, who had just been ambushed by some nasty Spell Punks. After Freeze Blade stepped in to defend him, Blast Zone was so impressed by his skill in battle that he introduced him to Master Eon, who invited him to join the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/FreezeBlade.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/FreezeBlade.jpg"
   },
   {
     "id" : 156,
@@ -3000,7 +3000,7 @@
       "abilitie5" : "Anchor Cannon"
     },
     "description" : "Gill Grunt was a brave soul who joined the Gillmen military in search of adventure. While journeying through a misty lagoon in the clouds, he met an enchanting mermaid. He vowed to return to her after his tour. Keeping his promise, he came back to the lagoon years later, only to learn a nasty band of pirates had kidnapped the mermaid. Heartbroken, Gill Grunt began searching all over Skylands. Though he had yet to find her, he joined the Skylanders to help protect others from such evil, while still keeping an ever-watchful eye for the beautiful mermaid and the pirates who took her.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/GillGrunt.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/GillGrunt.jpg"
   },
   {
     "id" : 157,
@@ -3019,7 +3019,7 @@
       "abilitie5" : "Lightning Strikes"
     },
     "description" : "Gill Grunt was a brave soul who joined the Gillmen military in search of adventure. While journeying through a misty lagoon in the clouds, he met an enchanting mermaid. He vowed to return to her after his tour. Keeping his promise, he came back to the lagoon years later, only to learn a nasty band of pirates had kidnapped the mermaid. Heartbroken, Gill Grunt began searching all over Skylands. Though he had yet to find her, he joined the Skylanders to help protect others from such evil, while still keeping an ever-watchful eye for the beautiful mermaid and the pirates who took her.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/DeepDiveGillGrunt.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/DeepDiveGillGrunt.jpg"
   },
   {
     "id" : 158,
@@ -3038,7 +3038,7 @@
       "abilitie5" : "Anchor Cannon"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/GillRunt.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/GillRunt.jpg"
   },
   {
     "id" : 159,
@@ -3057,7 +3057,7 @@
       "abilitie5" : "Wave Goodbye"
     },
     "description" : "Grave Clobber is aloof, violent, and intimidating with his attacks and threats. However, he appears to have a soft side, as he will take the time to say punny catchphrases and was seen calmly observing bugs in his Sensei Shrine cutscene before being disturbed by the Brawler Sensei Shrine. Whenever he is near others whom are smaller than he is, he unintentionally frightens them due to his imposing figure, but this does not bother him at all. Upon enlisting as a Skylander, he still retains his personality from when he was a villain, but he is now much more friendly and compassionate towards his allies. However, he is still perfectly willing to legitimately threaten and clobber anyone who poses a threat to Skylanders Academy or those who cannot defend themselves.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/GraveClobber.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/GraveClobber.jpg"
   },
   {
     "id" : 160,
@@ -3076,7 +3076,7 @@
       "abilitie5" : "Penguin Combos"
     },
     "description" : "King Pen hails from a militaristic unit of penguins who protect the Cloudmelt Glaciers. During an epic battle, King Pen was trapped in an avalanche and had to take refuge in a nearby cave for the remainder of the winter season. During his solitude, he was visited by a mysterious Yeti Master, named Snow Wah, who began teaching him an ancient combat style known as “Flipper-Fu”. King Pen was already a skilled fighter, but the wise teacher helped him to understand the spiritual and philosophical nature of warfare, turning the penguin into an unstoppable force. When he finally emerged from the cave, tales of his newfound abilities spread far and wide. When Master Eon caught wind, he recruited King Pen into his top secret training program, where he quickly rose up the ranks to become the leader of the Skylander Senseis. Years later, King Pen returned to the site of the avalanche to thank his teacher, but no evidence of Snow Wah or the cave was ever found – leaving many to wonder if the Yeti had ever existed at all.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/KingPen.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/KingPen.jpg"
   },
   {
     "id" : 161,
@@ -3095,7 +3095,7 @@
       "abilitie5" : "Boiling Temper"
     },
     "description" : "Hailing from the depths of the undersea kingdom of Star City, Lob-Star was the head chef of his own five-star restaurant, often cooking for the King Fish himself. However, few knew that Lob-Star had secretly been training in a mysterious art of fighting known only to a few crustaceans. For a while, Lob-Star was able to keep the peace while still keeping his hidden identity. But when a giant Leviathan threatened to swallow up Lob-Star’s guests and capture the King Fish himself, he had no choice but to swim into action. Calling on every trick his mysterious training had taught him, Lob-Star defeated the Leviathan and drove it out of Star City. For risking everything, Lob-Star was recruited by Master Eon to join the Skylanders. Now, as part of the Trap Team, he uses his powerful Traptanium Throwing Stars to serve up defeat to anyone who threatens Skylands!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Lob-Star.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Lob-Star.jpg"
   },
   {
     "id" : 162,
@@ -3114,7 +3114,7 @@
       "abilitie5" : "Positively Charged"
     },
     "description" : "Daughter to the most royal family in Wondrous Waters, Punk Shock never really accepted her role as an undersea princess. She preferred a much more exciting life - hunting with her electric crossbow and listening to super-charged music. After journeying to the outer reaches of her kingdom to find adventure, Punk Shock returned home to discover adventure had found her. The kingdom and its people were magically frozen by the Snow Trolls, who were there to steal valuable treasure. Punk Shock used her awesomely charged crossbow to single handedly defeat the Snow Troll army and melt the ice that trapped her kingdom. Gill Grunt heard of the battle and quickly recruited Punk Shock into the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/PunkShock.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/PunkShock.jpg"
   },
   {
     "id" : 163,
@@ -3133,7 +3133,7 @@
       "abilitie5" : "Shark Surprise"
     },
     "description" : "Rip Tide was known far and wide as one of the best Aqua-Fighters in Skylands. He mastered a multitude of water techniques and astonished tournament spectators with his ability to adapt his fighting style to any opponent. Amongst his repertoire were Swordfish Fencing, Hammerhead Heaving, and even the rare Blubber Whale Wallop -- which he had used on numerous occasions in the legendary Rumble in the Reef. His unrivaled skill as a swordsman soon drew the attention of Master Eon. But when Kaos learned of this, he sent forth a legion of Squidface Brutes to stop Rip Tide before he could join the Skylanders... and everyone knows how that turned out, except for the Squidface Brutes, who after being knocked senseless can't remember a thing.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/RipTide.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/RipTide.jpg"
   },
   {
     "id" : 164,
@@ -3152,7 +3152,7 @@
       "abilitie5" : "Ice Knuckles"
     },
     "description" : "Slam Bam lived alone on a floating glacier in a remote region of Skylands, where he spent his time ice surfing, eating snow cones, and sculpting amazing ice statues. It was a peaceful life, until Kaos destroyed the glacier, stranding Slam Bam on an iceberg that drifted through the skies for days. He awoke on Eon’s Island, where he was taken in and trained to become a Skylander. Now his ice sculptures serve as a frosty prison for any evil-doer that gets in his way.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/SlamBam.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/SlamBam.jpg"
   },
   {
     "id" : 165,
@@ -3171,7 +3171,7 @@
       "abilitie5" : "Big Wave Torrent"
     },
     "description" : "Snap Shot came from a long line of Crocagators that lived in the remote Swamplands, where he hunted chompies for sport. After rounding up every evil critter in his homeland, Snap Shot ventured out into the world to learn new techniques that he could use to track down more challenging monsters. He journeyed far and wide, perfecting his archery skills with the Elves and his hunting skills with the wolves. Soon he was the most revered monster hunter in Skylands – a reputation that caught the attention of Master Eon. It then wasn’t long before Snap Shot became the leader of the Trap Masters, a fearless team of Skylanders that mastered legendary weapons made of pure Traptanium. It was this elite team that tracked down and captured the most notorious villains Skylands had ever known!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/SnapShot.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/SnapShot.jpg"
   },
   {
     "id" : 166,
@@ -3190,7 +3190,7 @@
       "abilitie5" : "Now There's An Anchor!"
     },
     "description" : "Thumpback was once a crew member of The Phantom Tide, the most fearsome pirate ship in all of Skylands. But the actual pirating part about being a pirate didn't interest Thumpback so much as the benefits that came with traveling on a large ship. After all, his real passion was fishing. But when his chance came to finally ensnare the most elusive creature in the sky - the Leviathan Cloud Crab - he was pulled over board and carried off into the horizon. This was actually quite fortunate, because sometime later The Phantom Tide and its entire crew were banished to the Chest of Exile. Thumpback’s pirating days were over, but his legend as one of the first Skylanders had only just begun.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Thumpback.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Thumpback.jpg"
   },
   {
     "id" : 167,
@@ -3209,7 +3209,7 @@
       "abilitie5" : "Now There's An Anchor!"
     },
     "description" : "The Skylander Minis started off as regular \"Sidekicks\", assisting the Skylanders on many exciting adventures. And what they lacked in size they more than made up for in courage. Ultimately determined to become full-fledged heroes, they trained at the Skylands Academy - honing their powers and skills until they were ready. Now, they stand side by side with their full grown counterparts, ready to defend Skylands against Kaos and his evil minions.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Thumpling.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Thumpling.jpg"
   },
   {
     "id" : 168,
@@ -3228,7 +3228,7 @@
       "abilitie5" : "Squid Squabble"
     },
     "description" : "Long before she became a Sensei, Tidepool was an undercover agent for a top secret organization known as the Aqua Marines. However, one day she was betrayed by her superiors, who were part of an even more top secret organization intent on destroying Skylands. Using her spy training, Tidepool made it her personal mission to seek out every member of this evil shadow group and bring them to justice. This did not go unnoticed by Master Eon, who felt that someone of her caliber would be perfect to train new Skylanders as a Sensei of the Quickshot class. However, Tidepool was not easily convinced that she could even trust Eon and the Skylanders after being deceived by her last organization. To earn her trust, she requested that everyone pass a truth test that she would conduct. Thankfully, all of the members of the Skylanders Academy passed with flying colors... except for Flynn, who insisted that he was 50% Mabu and 50% enchilada sauce. Tidepool felt that he was 100% meathead.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Tidepool.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Tidepool.jpg"
   },
   {
     "id" : 169,
@@ -3247,7 +3247,7 @@
       "abilitie5" : "Octolash"
     },
     "description" : "Wash Buckler was an orphan Mermasquid, who grew up on one of the roughest pirate ships in Skylands. While most pirates were interested in pillaging and plundering, Wash Buckler had other ideas for the future of pirating. Over the years, he earned the respect of his crew and eventually convinced his fellow pirates that they didn’t all need to be cantankerous bad guys. Thus, they set forward doing heroic deeds. Of course, this new good guy image did not sit well with other pirating crews, who attempted to sabotage Wash Buckler at every turn. But he was no ordinary pirate, and he defended his ship and his crew against the many attacking hordes. It was then that Master Eon took notice of Wash Buckler and asked him to join the Skylanders.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/WashBuckler.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/WashBuckler.jpg"
   },
   {
     "id" : 170,
@@ -3266,7 +3266,7 @@
       "abilitie5" : "Mega Trident"
     },
     "description" : "Wham-Shell was the long-standing king of a kingdom deep in the oceans of Skylands that for a long time lived peacefully. That is, until his underwater utopia was invaded by a legion of oil-drilling trolls that scattered his people to the wind. Armed with a powerful mace that had been handed down from one king to the next for generations, Wham-Shell defeated the greedy trolls and drove them away. Soon after, he joined the Skylanders to help defend against this type of atrocity ever happening again.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Wham-Shell.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Wham-Shell.jpg"
   },
   {
     "id" : 171,
@@ -3285,7 +3285,7 @@
       "abilitie5" : "Wave Rider"
     },
     "description" : "Zap was born into the royal family of water dragons, but a riptide washed him to a distant sea, where he was raised by electric eels. Growing up, he excelled in everything and even created a special gold harness that allows him to carry an endless electrical charge and shock things at a great distance. Zap also proved to be a gifted racer, outstripping any opponent... with the possible exception of the dolphins. With them, it became a good natured challenge to see who could keep up with Zap. But an electric current in his wake often reminded them who they were dealing with. Despite his mischievous streak, Zap grew to be a true protector of the seas and Skylands.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Zap.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Zap.jpg"
   },
   {
     "id" : 172,
@@ -3304,7 +3304,7 @@
       "abilitie5" : "Dark Energy Clouds"
     },
     "description" : "Blackout hails from the Realm of Dreams, where the collective imagination of all the creatures in the universe come together to create beautiful wonders... and terrible nightmares. At a young age, he was recruited into the Dark Stygian – a Dragon Clan whose chief responsibility was to create nightmares for evil creatures as a way to discourage them from doing more villainy. But the clan began to abuse their power, and soon spread nightmares far and wide for its own amusement. But Blackout would not stand for it. So he learned to teleport directly into the nightmares the clan created and fought the creatures within. Eventually, the nightmares reached as far as Master Eon, who witnessed Blackout’s courage within his own dreams. After helping him put a stop to the Dark Stygian, Eon then made Blackout a Skylander, serving as the protector of the Realm of Dreams and beyond!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Blackout.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Blackout.jpg"
   },
   {
     "id" : 173,
@@ -3323,7 +3323,7 @@
       "abilitie5" : "Scythenado!"
     },
     "description" : "Hood Sickle was summoned by the Dreamcatcher as a surprise to stop the Skylanders' progress at Telescope Towers. The reaper was defeated despite his teleportation abilities and was captured. Upon returning to Skylanders Academy with the reaper, Pain-Yatta, and Dreamcatcher, the Skylanders took him inside the school to the Hat Shop for his Villain Quest with Hatterson, who had arrived for its grand opening after they, Mags, and Cali returned from Rainfish Riviera with the inventor's Information Squid, which happened to be Kaos in disguise and subsequently offered his assistance to the Academy. The quest was called \"Hatastrophe!\", where the Molekin explained to the heroes that the Trolls had been making counterfeit hat machines that pop out non-magical hats and had been selling them on the black market, and needed Hood Sickle to shut the operation down. Afterwards, he was awarded with Hatterson's thanks and a new oufit, and told him and the Skylanders to come by his store anytime with new hats for sale.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/HoodSickle.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/HoodSickle.jpg"
   },
   {
     "id" : 174,
@@ -3342,7 +3342,7 @@
       "abilitie5" : "Shadow Stab"
     },
     "description" : "Before the destruction of the Core of Light left her stranded in the Dark Realm, Knight Mare was one of the Dark Centaurs who guarded The Oracle of Stones – an enchanted game of Dark Skystones that could predict the future. When it was stolen by an unknown force, Knight Mare was called upon to retrieve it. She knew it would be dangerous because if the Oracle was asked the wrong questions seven times, it would unleash a terrible curse upon all of Skylands. Fortunately, she found it in a cave – with a gang of Bicyclopes about to ask their seventh wrong question. With no time to lose, she charged forward, beating the fierce Bicyclopes and saving Skylands from the terrible curse. Now having joined the Trap Team, Knight Mare uses her hunting skills and Traptanium Lance to bring down evil everywhere!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/KnightMare.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/KnightMare.jpg"
   },
   {
     "id" : 175,
@@ -3361,7 +3361,7 @@
       "abilitie5" : "Ambrush Rush"
     },
     "description" : "Nightfall was a Dreadwalker from Fogshadow Tower, a mysterious fortress in the middle of the Poison Sea. While most Dreadwalkers stayed within the noxious cloud they called home, Nightfall preferred to dive into the black abyss and hunt the dark monsters that threatened her people. One day, as she was exploring a deep cavern in her submarine, the Sea Shadow, Nightfall came upon an enormous object that pulsed with a strange energy. It was gigantic, and before she could comprehend what she was looking at, it hatched! Out came a creature 100 times larger than anything she had ever seen! She fired the engines and raced back to warn her people. Just as the last citizens boarded an evacuation ship, the colossal head of the Leviathan broke the surface of the water and let out a terrible roar! Without hesitation, Nightfall rushed towards the monster, blasting it with everything she had while the others made their escape. This act of heroism caught the attention of Master Eon, and the rest is Skylander history!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Nightfall.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Nightfall.jpg"
   },
   {
     "id" : 176,
@@ -3380,7 +3380,7 @@
       "abilitie5" : "Star of the Show"
     },
     "description" : "No one knows where Starcast came from, including Starcast himself! He was first seen falling out of the sky and landing directly on top of Master Eon, after he had made a wish for a Ninja Master to train the new generation of Skylanders. While it appeared that Eon’s wish had come true, it was later revealed that Pop Fizz had simultaneously made a wish to get out of anger management lessons with the old Portal Master. Therefore, it was impossible to determine if Starcast was the result of one wish or the other. But after a brief martial arts display, it was clear to all that the mysterious Starcast was a very skilled ninja warrior. And seeing as how Master Eon had to walk around in crutches for the next few weeks, it was also clear that anger management class would have to be postponed – so it was a win-win!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Starcast.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Starcast.jpg"
   },
   {
     "id" : 177,
@@ -3399,7 +3399,7 @@
       "abilitie5" : "Meteor Shower"
     },
     "description" : "While on a secret mission in troll territory, Astroblast crash landed on a remote island where he stumbled upon an ancient relic not seen in thousands of years - a legendary Rift Engine. These magical machines were believed to have the power to travel through the portals between Skylands and other worlds! Shortly after the discovery, an army of trolls appeared on a nearby canyon ridge and quickly charged toward Astroblast. Knowing that the Rift Engine would be very dangerous in the wrong hands, he pulled out his pulse laser and prepared to defend the relic against the incoming horde. After an epic shootout, the trolls fled in defeat. When Astroblast then brought the relic back to his ship, the Sun Runner, it surged with power and a hologram of Master Eon appeared. Eon thanked him for saving the Rift Engine and beckoned him to return it to the Skylander Academy. Astroblast accepted the invitation and was made a Skylander shortly thereafter.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Astroblast.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Astroblast.jpg"
   },
   {
     "id" : 178,
@@ -3418,7 +3418,7 @@
       "abilitie5" : "Forever Runner"
     },
     "description" : "Aurora is the niece of Master Eon. For years, he tried to keep her identity a secret so that she would remain safe from harm. But as she grew older, Aurora wanted nothing more than to become a Skylander, but Eon would not permit it. So without telling him, she wore a disguise and studied swordplay and combat arts under the name \"Boss Blades McSlashinator.\" Soon, everyone was talking about this new mysterious hero and her amazing abilities. Even Master Eon was notably impressed, but when he learned the skilled fighter was none other than his own niece, he once again refused her entry into the Skylanders team. However, before she could protest, Eon smiled and told her it was because he was immediately promoting her to his Sensei program, where she would train the Swashbuckler Class under her true name and identity. Although he did later admit that \"Boss Blades McSlashinator\" sounded pretty cool.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Aurora.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Aurora.jpg"
   },
   {
     "id" : 179,
@@ -3437,7 +3437,7 @@
       "abilitie5" : "Brighter Light Show"
     },
     "description" : "As the Skylanders were fighting through The Future of Skylands, Blaster-Tron attacked them with the help of four Brawlruses after they smashed a cluster of Traptanium. He was eventually shut down and trapped. After his capture, the heroes took him and Tae Kwon Crow to The Golden Desert for their Villain Quests, but not without fighting the Golden Queen's guards along the way. His quest was called \"Help Diggs Dig\", where Diggs himself explained to the Skylanders that there was some treasure buried under the sand, and needed Blaster-Tron's magnetic abilities to unveil it, probably because the Molekin didn't have a shovel and is completely blind anyway. After completing the quest, he was awarded with coins, Diggs' thanks, and a new outfit.",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Blaster-Tron.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Blaster-Tron.jpg"
   },
   {
     "id" : 180,
@@ -3456,7 +3456,7 @@
       "abilitie5" : "Radiant Radius"
     },
     "description" : "Before the destruction of the Core of Light left him stranded in the Light Realm, Knight Light was the protector of the Starlight – the source of light, wisdom and vast energy in Radiant City. But an evil villain known as Luminous wanted the Starlight for himself. Without warning, Luminous attacked, and the two took to the skies in an epic battle which lasted several days. In the end, Knight Light stood victorious and Luminous was imprisoned within Sunscraper Spire so that he could no longer pose a threat to Skylands. Now with his Traptanium blade, Knight Light fights alongside the Trap Team to keep evil at bay!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/KnightLight.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/KnightLight.jpg"
   },
   {
     "id" : 181,
@@ -3475,7 +3475,7 @@
       "abilitie5" : "Heavy Halo"
     },
     "description" : "Spotlight was discovered by Master Eon in the Prismatic Palace, where the Portal Master had ventured seeking the Crystal Orb of Light. Upon finding the Orb, Eon reached out and gently touched it – causing a brilliant light to emanate in all directions. Having been infused with Eon’s magic, the Orb glowed magnificently. And when Eon slowly lowered his hand from his shielded eyes, Spotlight stood before him in a respectful bow. Her power of Light was unknown to him, for it was not of the eight common Elements in Skylands. But sensing that the Ancients sent Spotlight to him for a reason, he took her to the Core of Light and trained her to defend it as a member of the Skylanders. And when none other than evil Portal Master Kaos destroyed it – Spotlight vanished!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Spotlight.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Spotlight.jpg"
   },
   {
     "id" : 182,
@@ -3494,6 +3494,6 @@
       "abilitie5" : "I Think Therefore You Are"
     },
     "description" : "With Kaos having discovered the power of Mind Magic to create Doomlanders, one of his first creations was none other than a clone of himself! Figuring that no one in the universe, including the Skylanders, could ever stand up to more than one Kaos, he unleashed his clone in his quest to take over Skylands. But to Kaos’ surprise, the clone –also being Kaos– wanted victory for himself! As a result, he decided to fight against his creator, in turn helping the Skylanders in their endeavor to defeat the real Kaos!",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/blob/master/public/images/skylanders/Kaos.jpg"
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/Kaos.jpg"
   }
 ]

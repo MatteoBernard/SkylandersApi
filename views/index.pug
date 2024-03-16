@@ -84,6 +84,23 @@ block content
           p.route GET /elements/:name
     div
       h2 Games
+      h4 JSON Structure
+        div.json
+          p {
+          p   "name" : "Skylanders: Spyro's Adventure",
+          p   "release" : "2011",
+          p   "image" : "path/to/image"
+          p }
+        ul
+          li
+            p.before-route Get all Games
+            p.route GET /games
+          li
+            p.before-route Get a Game by Name
+            p.route GET /games/:name
+          li
+            p.before-route Get a Game by Release
+            p.route GET /games/release/:release
   footer
     p Source code :
       a(href="https://github.com/MatteoBernard/SkylandersApi") Github

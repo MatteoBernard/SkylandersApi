@@ -1,0 +1,32 @@
+[
+  {
+    "name" : "Skylanders: Spyro's Adventure",
+    "release" : "2011",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/games/SkylandersSA.jpg"
+  },
+  {
+    "name" : "Skylanders: Giants",
+    "release" : "2012",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/games/SkylandersG.jpg"
+  },
+  {
+  "name" : "Skylanders: Swap Force",
+  "release" : "2013",
+  "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/games/SkylandersSF.jpg"
+  },
+  {
+    "name" : "Skylanders: Trap Team",
+    "release" : "2014",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/games/SkylandersTT.jpg"
+  },
+  {
+    "name" : "Skylanders: SuperChargers",
+    "release" : "2015",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/games/SkylandersSC.jpg"
+  },
+  {
+    "name" : "Skylanders: Imaginators",
+    "release" : "2016",
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/games/SkylandersI.jpg"
+  }
+]

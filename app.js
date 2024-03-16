@@ -35,6 +35,7 @@ app.use('/users', usersRouter);
 const fs = require('fs');
 const skylandersJsonPath = path.join(__dirname, './public/skylanders.json');
 const elementsJsonPath = path.join(__dirname, './public/elements.json');
+const gamesJsonPath = path.join(__dirname, './public/games.json');
 
 function getSkylandersJson() {
   try {
@@ -56,8 +57,19 @@ function getElementsData() {
   }
 }
 
+function getGamesData() {
+  try {
+    const data = fs.readFileSync(gamesJsonPath, 'utf8');
+    return JSON.parse(data);
+  } catch (err) {
+    console.error('Error reading JSON file:', err);
+    throw err;
+  }
+}
+
 const skylandersData = getSkylandersJson();
 const elementsData = getElementsData();
+const gamesData = getGamesData();
 
 app.get('/', (req, res) => {
   res.json({ message: "Welcome to SkylandersApi" });
@@ -186,6 +198,39 @@ app.get('/elements/:name', (req, res) => {
   }
 
   res.json(element);
+});
+
+app.get('/games', (req, res) => {
+  try {
+    res.json(gamesData);
+  } catch (error) {
+    console.error('Error:', error);
+    res.status(500).send('Internal Server Error');
+  }
+});
+
+app.get('/games/:name', (req, res) => {
+  const name = req.params.name;
+  const game = gamesData.find(game => game.name.toLowerCase() === name.toLowerCase());
+
+  if (!game) {
+    res.status(404).send('Game not found');
+    return;
+  }
+
+  res.json(game);
+});
+
+app.get('/games/release/:release', (req, res) => {
+  const release = req.params.release;
+  const filteredGames = gamesData.filter(game => game.release.toLowerCase() === release.toLowerCase());
+
+  if (filteredGames.length === 0) {
+    res.status(404).send('No games found for the specified release');
+    return;
+  }
+
+  res.json(filteredGames);
 });
 
 

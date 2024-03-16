@@ -59,6 +59,36 @@ This route allows you to retrieve a Skylander by specifying its name.
 
 This route allows you to retrieve Skylanders belonging to a specific element by specifying the element.
 
+### Get all Elements
+
+**GET /elements**
+
+This route returns all available Elements.
+
+### Get an Element by Name
+
+**GET /elements/:name**
+
+This route allows you to retrieve an Element by specifying its name.
+
+### Get all Games
+
+**GET /games**
+
+This route returns all available Games.
+
+### Get a Game by Name
+
+**GET /games/:name**
+
+This route allows you to retrieve a Game by specifying its name.
+
+### Get a Game by Release
+
+**GET /games/release/:release**
+
+This route allows you to retrieve a Game by specifying its release.
+
 ## Usage
 
 To use these routes, you can make HTTP GET requests to the corresponding URLs using your favorite HTTP client (e.g., Postman, cURL, fetch API, etc.).

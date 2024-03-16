@@ -4,6 +4,13 @@ Welcome to the Skylanders API, a simple API for accessing Skylanders figurine da
 
 You can access the API [here](https://ill-lime-threads.cyclic.app).
 
+## Technologies
+
+- Javascript / ExpressJS
+- Hosted with GitHub / Cyclic
+- pug / CSS
+- JSON files
+
 ## Available Routes
 
 ### Get All Skylanders

@@ -17,15 +17,8 @@ main {
   background-color: #7493b5;
   border-radius: 10px;
   margin: auto;
-  padding: 15px;
+  padding: 5%;
   width: 80vw;
-}
-
-div {
-
-  display: flex;
-  flex-direction: column;
-  align-items: flex-start;
 }
 
 p.before-route {
@@ -37,7 +30,6 @@ p.route {
   background-color: grey;
   border-radius: 10px;
   padding: 10px;
-  margin: auto;
 }
 
 footer {
@@ -49,11 +41,21 @@ footer > p > a {
 }
 
 div.img-container {
-  align-items: center;
-  justify-content: center;
+  text-align: center;
 }
 
 div.img-container > img {
-  height: 30vh;
+  height: 30%;
+  width: auto;
+  margin: 10px;
+}
+
+div.json {
+  background-color: black;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+  font-weight: lighter;
+  font-size: small;
   margin: 10px;
 }

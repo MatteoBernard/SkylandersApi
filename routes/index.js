@@ -225,3 +225,344 @@ router.get('/figures/game/:game/type/:type', (req, res) => {
 });
 
 module.exports = router;
+
+
+/**
+ * @swagger
+ * tags:
+ *   - name: Skylanders
+ *     description: Operations related to Skylanders, including retrieving Skylanders, filtering by various criteria, and getting details of specific Skylanders.
+ *   - name: Elements
+ *     description: Operations related to elements in the Skylanders series, including retrieving all elements and details of specific elements.
+ *   - name: Games
+ *     description: Operations related to Skylanders games, including retrieving games, filtering by release year, and getting details of specific games.
+ *   - name: Figures
+ *     description: Operations related to Skylanders figures, including retrieving all figures, variants, and filtering by various criteria.
+ * /skylanders:
+ *   get:
+ *     summary: Get All Skylanders
+ *     description: Retrieve all available Skylanders.
+ *     tags: [Skylanders]
+ *     responses:
+ *       200:
+ *         description: A list of all available Skylanders.
+ *       500:
+ *         description: Internal Server Error.
+ * /skylanders/{id}:
+ *   get:
+ *     summary: Get a Skylander by ID
+ *     description: Retrieve a Skylander by specifying its ID.
+ *     tags: [Skylanders]
+ *     parameters:
+ *       - in: path
+ *         name: id
+ *         required: true
+ *         schema:
+ *           type: integer
+ *         description: ID of the Skylander to retrieve.
+ *     responses:
+ *       200:
+ *         description: The requested Skylander.
+ *       404:
+ *         description: Skylander not found.
+ * /skylandersByName/{name}:
+ *   get:
+ *     summary: Get a Skylander by Name
+ *     description: Retrieve a Skylander by specifying its name.
+ *     tags: [Skylanders]
+ *     parameters:
+ *       - in: path
+ *         name: name
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Name of the Skylander to retrieve.
+ *     responses:
+ *       200:
+ *         description: The requested Skylander.
+ *       404:
+ *         description: Skylander not found.
+ * /skylandersFromSpyrosAdventure:
+ *   get:
+ *     summary: Get Skylanders from Skylanders Spyro's Adventure
+ *     description: Retrieve Skylanders from the game "Skylanders Spyro's Adventure".
+ *     tags: [Skylanders]
+ *     responses:
+ *       200:
+ *         description: Skylanders from "Skylanders Spyro's Adventure".
+ *       404:
+ *         description: No Skylanders found from "Skylanders Spyro's Adventure".
+ * /skylandersFromSuperChargers:
+ *   get:
+ *     summary: Get Skylanders from Skylanders SuperChargers
+ *     description: Retrieve Skylanders from the game "Skylanders SuperChargers".
+ *     tags: [Skylanders]
+ *     responses:
+ *       200:
+ *         description: Skylanders from "Skylanders SuperChargers".
+ *       404:
+ *         description: No Skylanders found from "Skylanders SuperChargers".
+ * /skylandersFromImaginators:
+ *   get:
+ *     summary: Get Skylanders from Skylanders Imaginators
+ *     description: Retrieve Skylanders from the game "Skylanders Imaginators".
+ *     tags: [Skylanders]
+ *     responses:
+ *       200:
+ *         description: Skylanders from "Skylanders Imaginators".
+ *       404:
+ *         description: No Skylanders found from "Skylanders Imaginators".
+ * /skylandersFromGiants:
+ *   get:
+ *     summary: Get Skylanders from Skylanders Giants
+ *     description: Retrieve Skylanders from the game "Skylanders Giants".
+ *     tags: [Skylanders]
+ *     responses:
+ *       200:
+ *         description: Skylanders from "Skylanders Giants".
+ *       404:
+ *         description: No Skylanders found from "Skylanders Giants".
+ * /skylandersFromSwapForce:
+ *   get:
+ *     summary: Get Skylanders from Skylanders Swap Force
+ *     description: Retrieve Skylanders from the game "Skylanders Swap Force".
+ *     tags: [Skylanders]
+ *     responses:
+ *       200:
+ *         description: Skylanders from "Skylanders Swap Force".
+ *       404:
+ *         description: No Skylanders found from "Skylanders Swap Force".
+ * /skylandersByElement/{element}:
+ *   get:
+ *     summary: Get Skylanders by Element
+ *     description: Retrieve Skylanders by specifying the element.
+ *     tags: [Skylanders]
+ *     parameters:
+ *       - in: path
+ *         name: element
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Element of the Skylanders to retrieve.
+ *     responses:
+ *       200:
+ *         description: Skylanders with the specified element.
+ *       404:
+ *         description: No Skylanders found with the specified element.
+ * /elements:
+ *   get:
+ *     summary: Get All Elements
+ *     description: Retrieve all available elements in the Skylanders series.
+ *     tags: [Elements]
+ *     responses:
+ *       200:
+ *         description: A list of all available elements.
+ *       500:
+ *         description: Internal Server Error.
+ * /elements/name/{elementName}:
+ *   get:
+ *     summary: Get Element by Name
+ *     description: Retrieve an element by its name.
+ *     tags: [Elements]
+ *     parameters:
+ *       - in: path
+ *         name: elementName
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Name of the element to retrieve.
+ *     responses:
+ *       200:
+ *         description: The element matching the specified name.
+ *       404:
+ *         description: Element not found.
+ * /games:
+ *   get:
+ *     summary: Get All Games
+ *     description: Retrieve all available Skylanders games.
+ *     tags: [Games]
+ *     responses:
+ *       200:
+ *         description: A list of all available games.
+ *       500:
+ *         description: Internal Server Error.
+ * /games/{name}:
+ *   get:
+ *     summary: Get a Game by Name
+ *     description: Retrieve a Game by specifying its name.
+ *     tags: [Games]
+ *     parameters:
+ *       - in: path
+ *         name: name
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Name of the Game to retrieve.
+ *     responses:
+ *       200:
+ *         description: The requested Game.
+ *       404:
+ *         description: Game not found.
+ * /games/release/{release}:
+ *   get:
+ *     summary: Get Games by Release Year
+ *     description: Retrieve Games released in a specific year.
+ *     tags: [Games]
+ *     parameters:
+ *       - in: path
+ *         name: release
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Release year of the Games to retrieve.
+ *     responses:
+ *       200:
+ *         description: A list of Games released in the specified year.
+ *       404:
+ *         description: No games found for the specified release year.
+ * /figures:
+ *   get:
+ *     summary: Get All Figures
+ *     description: Retrieve all available Skylanders figures.
+ *     tags: [Figures]
+ *     responses:
+ *       200:
+ *         description: A list of all available figures.
+ *       500:
+ *         description: Internal Server Error.
+ * /figures/variants:
+ *   get:
+ *     summary: Get Variant Figures
+ *     description: Retrieve variant Skylanders figures.
+ *     tags: [Figures]
+ *     responses:
+ *       200:
+ *         description: A list of variant figures.
+ *       500:
+ *         description: Internal Server Error.
+ * /figures/type/{type}:
+ *   get:
+ *     summary: Get Figures by Type
+ *     description: Retrieve Skylanders figures of a specific type.
+ *     tags: [Figures]
+ *     parameters:
+ *       - in: path
+ *         name: type
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Type of the figures to retrieve.
+ *     responses:
+ *       200:
+ *         description: A list of figures of the specified type.
+ *       500:
+ *         description: Internal Server Error.
+ * /figures/name/{skylandersName}:
+ *   get:
+ *     summary: Get Figures by Name
+ *     description: Retrieve Skylanders figures by name.
+ *     tags: [Figures]
+ *     parameters:
+ *       - in: path
+ *         name: skylandersName
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Name of the figures to retrieve.
+ *     responses:
+ *       200:
+ *         description: A list of figures matching the specified name.
+ *       500:
+ *         description: Internal Server Error.
+ * /figures/name/{skylandersName}/count:
+ *   get:
+ *     summary: Count Figures by Name
+ *     description: Count Skylanders figures by name.
+ *     tags: [Figures]
+ *     parameters:
+ *       - in: path
+ *         name: skylandersName
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Name of the figures to count.
+ *     responses:
+ *       200:
+ *         description: The count of figures matching the specified name.
+ *       500:
+ *         description: Internal Server Error.
+ * /figures/name/{skylandersName}/variants:
+ *   get:
+ *     summary: Get Variant Figures by Name
+ *     description: Retrieve variant Skylanders figures by name.
+ *     tags: [Figures]
+ *     parameters:
+ *       - in: path
+ *         name: skylandersName
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Name of the figures to retrieve variants for.
+ *     responses:
+ *       200:
+ *         description: A list of variant figures matching the specified name.
+ *       500:
+ *         description: Internal Server Error.
+ * /figures/game/{game}:
+ *   get:
+ *     summary: Get Figures by Game
+ *     description: Retrieve Skylanders figures by game.
+ *     tags: [Figures]
+ *     parameters:
+ *       - in: path
+ *         name: game
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Name of the game to retrieve figures for.
+ *     responses:
+ *       200:
+ *         description: A list of figures from the specified game.
+ *       500:
+ *         description: Internal Server Error.
+ * /figures/game/{game}/variants:
+ *   get:
+ *     summary: Get Variant Figures by Game
+ *     description: Retrieve variant Skylanders figures by game.
+ *     tags: [Figures]
+ *     parameters:
+ *       - in: path
+ *         name: game
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Name of the game to retrieve variant figures for.
+ *     responses:
+ *       200:
+ *         description: A list of variant figures from the specified game.
+ *       500:
+ *         description: Internal Server Error.
+ * /figures/game/{game}/type/{type}:
+ *   get:
+ *     summary: Get Figures by Game and Type
+ *     description: Retrieve Skylanders figures by game and type.
+ *     tags: [Figures]
+ *     parameters:
+ *       - in: path
+ *         name: game
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Name of the game to retrieve figures for.
+ *       - in: path
+ *         name: type
+ *         required: true
+ *         schema:
+ *           type: string
+ *         description: Type of the figures to retrieve.
+ *     responses:
+ *       200:
+ *         description: A list of figures from the specified game and type.
+ *       500:
+ *         description: Internal Server Error.
+ */

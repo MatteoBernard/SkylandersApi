@@ -10,84 +10,12 @@ You can access the API [here](https://ill-lime-threads.cyclic.app).
 - Hosted with GitHub / Cyclic
 - pug / CSS
 - JSON files
+- Swagger for documentation
 
-## Available Routes
+## Datas
 
-### Get All Skylanders
-
-**GET /skylanders**
-
-This route returns all available Skylanders.
-
-### Get a Skylander by ID
-
-**GET /skylander/:id**
-
-This route allows you to retrieve a Skylander by specifying its ID.
-
-### Get a Skylander by Name
-
-**GET /skylanderByName/:name**
-
-This route allows you to retrieve a Skylander by specifying its name.
-
-### **Get Skylanders from a Specific Game**
-
-- **Skylanders: Spyro's Adventure**
-
-**GET /skylandersFromSpyrosAdventure**
-
-- **Skylanders: SuperChargers**
-
-**GET /skylandersFromSuperChargers**
-
-- **Skylanders: Imaginators**
-
-**GET /skylandersFromImaginators**
-
-- **Skylanders: Giants**
-
-**GET /skylandersFromGiants**
-
-- **Skylanders: Swap Force**
-
-**GET /skylandersFromSwapForce**
-
-### Get Skylanders by Element
-
-**GET /skylandersByElement/:element**
-
-This route allows you to retrieve Skylanders belonging to a specific element by specifying the element.
-
-### Get all Elements
-
-**GET /elements**
-
-This route returns all available Elements.
-
-### Get an Element by Name
-
-**GET /elements/:name**
-
-This route allows you to retrieve an Element by specifying its name.
-
-### Get all Games
-
-**GET /games**
-
-This route returns all available Games.
-
-### Get a Game by Name
-
-**GET /games/:name**
-
-This route allows you to retrieve a Game by specifying its name.
-
-### Get a Game by Release
-
-**GET /games/release/:release**
-
-This route allows you to retrieve a Game by specifying its release.
+The Skylanders API offers access to various information related to the Skylanders franchise,
+including characters, elements, games and figures.
 
 ## Usage
 

@@ -3,7 +3,6 @@ extends layout
 block content
   header
     h1 Skylanders Api
-    h2 Documentation
     h3 This is an unofficial Rest API.
 
   main
@@ -11,97 +10,28 @@ block content
       img(src="https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders-logo.png", alt="Skylanders Logo")
 
     div
-      h2 Skylanders
-      h4 JSON Structure
-        div.json
-          p {
-          p   "id" : 1,
-          p   "name" : "Air Strike",
-          p   "gender" : "Male",
-          p   "species" : "Air Strike: Unknown - Birdie: Blue Zephyr Falcon",
-          p   "release" : "Skylanders: Imaginators",
-          p   "role" : "Senseis",
-          p   "element" : "Air,
-          p   "quote" : "Fight and Flight!",
-          p   "abilities" : {
-          p   "abilitie1" : "Bird Brawl",
-          p   "abilitie2" : "Bird Dive Bomb",
-          p   "abilitie3" : "Spinning Bird Fist",
-          p   "abilitie4" : "Eye of the Storm",
-          p   "abilitie5" : "Free Range Eggs"
-          p   },
-          p   "description" : "Before he began training Brawlers, Air Strike trained...",
-          p   "image" : "path/to/image"
-          p }
-      ul
-        li
-          p.before-route Get all Skylanders
-          p.route GET /skylanders
-        li
-          p.before-route Get a Skylander by ID
-          p.route GET /skylanders/:id
-        li
-          p.before-route Get a Skylander by Name
-          p.route GET /skylandersByName/:name
-        li
-          h3 Get Skylanders from a Specific Game
-          ul
-            li
-              p.before-route Skylanders: Spyro's Adventure
-              p.route GET /skylandersFromSpyrosAdventure
-            li
-              p.before-route Skylanders: SuperCharger
-              p.route GET /skylandersFromSuperChargers
-            li
-              p.before-route Skylanders: Imaginators
-              p.route GET /skylandersFromImaginators
-            li
-              p.before-route Skylanders: Giants
-              p.route GET /skylandersFromGiants
-            li
-              p.before-route Skylanders: Swap Force
-              p.route GET /skylandersFromSwapForce
-        li
-          p.before-route Get Skylanders by Element
-          p.route GET /skylandersByElement/:element
+      h2 Documentation
+      p For route information, please visit :
+        a(href="/api-docs") Documentation
+
     div
-      h2 Special Skylanders
+      h2 Available Data
+      p The Skylanders API provides access to a variety of data related to the Skylanders franchise.
+      p Users can retrieve information about Skylanders characters, including their names, genders, species, release years, roles, elements, quotes, abilities, descriptions, and images.
+      p Additionally, the API offers details about elemental types, such as their names, descriptions, and images.
+      p Furthermore, users can access data about the games in the Skylanders series, including their names, release years, and images.
+      p Finally, the API also provides information about Skylanders figures, encompassing their names, associated games, types, variant status, descriptions, and images.
+      p This comprehensive API allows developers to integrate Skylanders-related data into their applications, enhancing user experiences and providing valuable resources for fans of the franchise.
+
     div
-      h2 Elements
-      h4 JSON Structure
-        div.json
-          p {
-          p   "name" : "Air",
-          p   "description" : "That amazing feeling of defying gravity! That, my friend, is something only we feel.",
-          p   "image" : "path/to/image"
-          p }
-      ul
-        li
-          p.before-route Get all Elements
-          p.route GET /elements
-        li
-          p.before-route Get an Element by Name
-          p.route GET /elements/:name
-    div
-      h2 Games
-      h4 JSON Structure
-        div.json
-          p {
-          p   "name" : "Skylanders: Spyro's Adventure",
-          p   "release" : "2011",
-          p   "image" : "path/to/image"
-          p }
-      ul
-        li
-          p.before-route Get all Games
-          p.route GET /games
-        li
-          p.before-route Get a Game by Name
-          p.route GET /games/:name
-        li
-          p.before-route Get a Game by Release
-          p.route GET /games/release/:release
+      h2 About the Skylanders API
+      p The Skylanders API is an unofficial, open-source project aimed at providing access to data related to the Skylanders franchise.
+      p It offers information on characters, elements, games, and figures. As an open-source project, feedback and contributions are welcome to improve its functionality and accuracy.
+
   footer
     p Source code :
       a(href="https://github.com/MatteoBernard/SkylandersApi") Github
-    p Hosted on Cyclic
+    p Hosted on :
+      a(href="https://www.cyclic.sh/") Cyclic
+    p Documentation with :
+      a(href="https://swagger.io/") Swagger

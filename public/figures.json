@@ -1,0 +1,4076 @@
+[
+  {
+    "name" : "Bash",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Bash.png"
+  },
+  {
+    "name" : "Boomer",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Boomer.png"
+  },
+  {
+    "name" : "Camo",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Camo.png"
+  },
+  {
+    "name" : "Chop Chop",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ChopChop.png"
+  },
+  {
+    "name" : "Cynder",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Cynder.png"
+  },
+  {
+    "name" : "Dino-Rang",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Dino-Rang.png"
+  },
+  {
+    "name" : "Double Trouble",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Double Trouble.png"
+  },
+  {
+    "name" : "Drill Sergeant",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DrillSergeant.png"
+  },
+  {
+    "name" : "Drobot",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Drobot.png"
+  },
+  {
+    "name" : "Eruptor",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Eruptor.png"
+  },
+  {
+    "name" : "Flameslinger",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Flameslinger.png"
+  },
+  {
+    "name" : "Ghost Roaster",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GhostRoaster.png"
+  },
+  {
+    "name" : "Gill Grunt",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GillGrunt.png"
+  },
+  {
+    "name" : "Hex",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Hex.png"
+  },
+  {
+    "name" : "Ignitor",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Ignitor.png"
+  },
+  {
+    "name" : "Lightning Rod",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LightningRod.png"
+  },
+  {
+    "name" : "Prism Break",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PrismBreak.png"
+  },
+  {
+    "name" : "Slam Bam",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SlamBam.png"
+  },
+  {
+    "name" : "Sonic Boom",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SonicBoom.png"
+  },
+  {
+    "name" : "Spyro",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Spyro.png"
+  },
+  {
+    "name" : "Stealth Elf",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/StealthElf.png"
+  },
+  {
+    "name" : "Stump Smash",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/StumpSmash.png"
+  },
+  {
+    "name" : "Sunburn",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Sunburn.png"
+  },
+  {
+    "name" : "Terrafin",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Terrafin.png"
+  },
+  {
+    "name" : "Trigger Happy",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TriggerHappy.png"
+  },
+  {
+    "name" : "Voodood",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Voodood.png"
+  },
+  {
+    "name" : "Warnado",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Warnado.png"
+  },
+  {
+    "name" : "Wham-Shell",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Wham-Shell.png"
+  },
+  {
+    "name" : "Whirlwind",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Whirlwind.png"
+  },
+  {
+    "name" : "Wrecking Ball",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WreckingBall.png"
+  },
+  {
+    "name" : "Zap",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Zap.png"
+  },
+  {
+    "name" : "Zook",
+    "game" : "Skylanders: Spyro's Adventure",
+	"type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Zook.png"
+  },
+  {
+    "name" : "Anvil Rain",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AnvilRain.png"
+  },
+  {
+    "name" : "Darklight Crypt",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarklightCrypt.png"
+  },
+  {
+    "name" : "Dragon's Peak",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DragonsPeak.png"
+  },
+  {
+    "name" : "Ghost Swords",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GhostSwords.png"
+  },
+  {
+    "name" : "Volcanic Vault",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/VolcanicVault.png"
+  },
+  {
+    "name" : "Healing Elixir",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HealingElixir.png"
+  },
+  {
+    "name" : "Hidden Treasure",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HiddenTreasure.png"
+  },
+  {
+    "name" : "Empire of Ice",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EmpireOfIce.png"
+  },
+  {
+    "name" : "Pirate Seas",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PirateSeas.png"
+  },
+  {
+    "name" : "Sky-Iron Shield",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Sky-IronShield.png"
+  },
+  {
+    "name" : "Sparx Dragonfly",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SparxDragonfly.png"
+  },
+  {
+    "name" : "Time Twister",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TimeTwister.png"
+  },
+  {
+    "name" : "Winged Boots",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WingedBoots.png"
+  },
+  {
+    "name" : "Dark Spyro",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkSpyro.png"
+  },
+  {
+    "name" : "Legendary Bash",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryBash.png"
+  },
+  {
+    "name" : "Legendary Chop Chop",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryChopChop.png"
+  },
+  {
+    "name" : "Legendary Spyro",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendarySpyro.png"
+  },
+  {
+    "name" : "Legendary Trigger Happy",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryTriggerHappy.png"
+  },
+  {
+    "name" : "Gill Runt",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GillRunt.png"
+  },
+  {
+    "name" : "Terrabite",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Terrabite.png"
+  },
+  {
+    "name" : "Trigger Snappy",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TriggerSnappy.png"
+  },
+  {
+    "name" : "Whisper Elf",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WhisperElf.png"
+  },
+  {
+    "name" : "Blue Bash",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BlueBash.png"
+  },
+  {
+    "name" : "Chrome Spyro",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ChromeSpyro.png"
+  },
+  {
+    "name" : "Crystal Clear Cynder",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/CrystalClearCynder.png"
+  },
+  {
+    "name" : "Crystal Clear Stealth Elf",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/CrystalClearStealthElf.png"
+  },
+  {
+    "name" : "Crystal Clear Wham-Shell",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/CrystalClearWham-Shell.png"
+  },
+  {
+    "name" : "Crystal Clear Whirlwind",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/CrystalClearWhirlwind.png"
+  },
+  {
+    "name" : "Flocked Stump Smash",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FlockedStumpSmash.png"
+  },
+  {
+    "name" : "Glow-in-the-Dark Warnado",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Glow-in-the-DarkWarnado.png"
+  },
+  {
+    "name" : "Glow-in-the-Dark Wrecking Ball",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Glow-in-the-DarkWreckingBall.png"
+  },
+  {
+    "name" : "Glow-in-the-Dark Zap",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Glow-in-the-DarkZap.png"
+  },
+  {
+    "name" : "Gold Chop Chop",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldChopChop.png"
+  },
+  {
+    "name" : "Gold Drill Sergeant",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldDrillSergeant.png"
+  },
+  {
+    "name" : "Gold Flameslinger",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldFlameslinger.png"
+  },
+  {
+    "name" : "Green Gill Grunt",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GreenGillGrunt.png"
+  },
+  {
+    "name" : "Metallic Purple Cynder",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MetallicPurpleCynder.png"
+  },
+  {
+    "name" : "Pearl Hex",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PearlHex.png"
+  },
+  {
+    "name" : "Red Camo",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/RedCamo.png"
+  },
+  {
+    "name" : "Silver Eruptor",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SilverEruptor.png"
+  },
+  {
+    "name" : "Red Drill Sergeant",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/RedDrillSergeant.png"
+  },
+  {
+    "name" : "Silver Boomer",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SilverBoomer.png"
+  },
+  {
+    "name" : "Silver Dino-Rang",
+    "game" : "Skylanders: Spyro's Adventure",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SilverDino-Rang.png"
+  },
+  {
+    "name" : "Bouncer",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Bouncer.png"
+  },
+  {
+    "name" : "Crusher",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Crusher.png"
+  },
+  {
+    "name" : "Eye-Brawl",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Eye-Brawl.png"
+  },
+  {
+    "name" : "Hot Head",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HotHead.png"
+  },
+  {
+    "name" : "Ninjini",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Ninjini.png"
+  },
+  {
+    "name" : "Swarm",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Swarm.png"
+  },
+  {
+    "name" : "Thumpback",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Thumpback.png"
+  },
+  {
+    "name" : "Tree Rex",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TreeRex.png"
+  },
+  {
+    "name" : "Chill",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Chill.png"
+  },
+  {
+    "name" : "Flashwing",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Flashwing.png"
+  },
+  {
+    "name" : "Fright Rider",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FrightRider.png"
+  },
+  {
+    "name" : "Hot Dog",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HotDog.png"
+  },
+  {
+    "name" : "Jet-Vac",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Jet-Vac.png"
+  },
+  {
+    "name" : "Pop Fizz",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PopFizz.png"
+  },
+  {
+    "name" : "Shroomboom",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Shroomboom.png"
+  },
+  {
+    "name" : "Sprocket",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Sprocket.png"
+  },
+  {
+    "name" : "Zap",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Zap2.png"
+  },
+  {
+    "name" : "Bash",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Bash2.png"
+  },
+  {
+    "name" : "Chop Chop",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ChopChop2.png"
+  },
+  {
+    "name" : "Cynder",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Cynder2.png"
+  },
+  {
+    "name" : "Double Trouble",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DoubleTrouble2.png"
+  },
+  {
+    "name" : "Drill Sergeant",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DrillSergeant2.png"
+  },
+  {
+    "name" : "Wrecking Ball",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WreckingBall2.png"
+  },
+  {
+    "name" : "Drobot",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Drobot2.png"
+  },
+  {
+    "name" : "Eruptor",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Eruptor2.png"
+  },
+  {
+    "name" : "Whirlwind",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Whirlwind2.png"
+  },
+  {
+    "name" : "Flameslinger",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Flameslinger2.png"
+  },
+  {
+    "name" : "Gill Grunt",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GillGrunt2.png"
+  },
+  {
+    "name" : "Hex",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Hex2.png"
+  },
+  {
+    "name" : "Ignitor",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Ignitor2.png"
+  },
+  {
+    "name" : "Lightning Rod",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LightningRod2.png"
+  },
+  {
+    "name" : "Prism Break",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PrismBreak2.png"
+  },
+  {
+    "name" : "Slam Bam",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SlamBam2.png"
+  },
+  {
+    "name" : "Sonic Boom",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SonicBoom2.png"
+  },
+  {
+    "name" : "Spyro",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Spyro2.png"
+  },
+  {
+    "name" : "Stealth Elf",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/StealthElf2.png"
+  },
+  {
+    "name" : "Stump Smash",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/StumpSmash2.png"
+  },
+  {
+    "name" : "Terrafin",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Terrafin2.png"
+  },
+  {
+    "name" : "Trigger Happy",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TriggerHappy2.png"
+  },
+  {
+    "name" : "Zook",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Zook2.png"
+  },
+  {
+    "name" : "Chill LightCore",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ChillLightCore.png"
+  },
+  {
+    "name" : "Drobot LightCore",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DrobotLightCore.png"
+  },
+  {
+    "name" : "Eruptor LightCore",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EruptorLightCore.png"
+  },
+  {
+    "name" : "Hex LightCore",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HexLightCore.png"
+  },
+  {
+    "name" : "Jet-Vac LightCore",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Jet-VacLightCore.png"
+  },
+  {
+    "name" : "Pop Fizz LightCore",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PopFizzLightCore.png"
+  },
+  {
+    "name" : "Prism Break LightCore",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PrismBreakLightCore.png"
+  },
+  {
+    "name" : "Shroomboom LightCore",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ShroomboomLightCore.png"
+  },
+  {
+    "name" : "Dragonfire Cannon",
+    "game" : "Skylanders: Giants",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DragonfireCannon.png"
+  },
+  {
+    "name" : "Golden Dragonfire Cannon",
+    "game" : "Skylanders: Giants",
+    "type": "items",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldenDragonfireCannon.png"
+  },
+  {
+    "name" : "Platinum Treasure Chest",
+    "game" : "Skylanders: Giants",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PlatinumTreasureChest.png"
+  },
+  {
+    "name" : "Scorpion Striker Catapult",
+    "game" : "Skylanders: Giants",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ScorpionStrikerCatapult.png"
+  },
+  {
+    "name" : "Gnarly Tree Rex",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GnarlyTreeRex.png"
+  },
+  {
+    "name" : "Granite Crusher",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GraniteCrusher.png"
+  },
+  {
+    "name" : "Jade Flashwing",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/JadeFlashwing.png"
+  },
+  {
+    "name" : "Legendary Bouncer",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryBouncer.png"
+  },
+  {
+    "name" : "Legendary LightCore Chill",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryLightCoreChill.png"
+  },
+  {
+    "name" : "Legendary Ignitor",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryIgnitor.png"
+  },
+  {
+    "name" : "Legendary Jet-Vac",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryJet-Vac.png"
+  },
+  {
+    "name" : "Legendary Slam Bam",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendarySlamBam.png"
+  },
+  {
+    "name" : "Legendary Stealth Elf",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryStealthElf.png"
+  },
+  {
+    "name" : "Molten Hot Dog",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MoltenHotDog.png"
+  },
+  {
+    "name" : "Polar Whirlwind",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PolarWhirlwind.png"
+  },
+  {
+    "name" : "Punch Pop Fizz",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PunchPopFizz.png"
+  },
+  {
+    "name" : "Royal Double Trouble",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/RoyalDoubleTrouble.png"
+  },
+  {
+    "name" : "Scarlet Ninjini",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ScarletNinjini.png"
+  },
+  {
+    "name" : "Barkley",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Barkley.png"
+  },
+  {
+    "name" : "Eye-Small",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Eye-Small.png"
+  },
+  {
+    "name" : "Mini Jini",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MiniJini.png"
+  },
+  {
+    "name" : "Thumpling",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Thumpling.png"
+  },
+  {
+    "name" : "Double Trouble 1.5",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DoubleTrouble1_5.png"
+  },
+  {
+    "name" : "E3 Hot Dog",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/E3HotDog.png"
+  },
+  {
+    "name" : "Employee Edition LightCore Prism Break",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EmployeeEditionLightCorePrismBreak.png"
+  },
+  {
+    "name" : "Glow-in-the-Dark Cynder",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Glow-in-the-DarkCynder.png"
+  },
+  {
+    "name" : "Glow-in-the-Dark Fright Rider",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Glow-in-the-Dark FrightRider.png"
+  },
+  {
+    "name" : "Glow-in-the-Dark Sonic Boom",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Glow-in-the-DarkSonicBoom.png"
+  },
+  {
+    "name" : "Golden Flameslinger",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldenFlameslinger.png"
+  },
+  {
+    "name" : "Halloween Fright Rider",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HalloweenFrightRider.png"
+  },
+  {
+    "name" : "Metallic Blue Chop Chop",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MetallicBlueChopChop.png"
+  },
+  {
+    "name" : "Metallic Green Gill Grunt",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MetallicGreenGillGrunt.png"
+  },
+  {
+    "name" : "Metallic Green Shroomboom",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MetallicGreenShroomboom.png"
+  },
+  {
+    "name" : "Metallic Purple Eye-Brawl",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MetallicPurpleEye-Brawl.png"
+  },
+  {
+    "name" : "Metallic Purple Lightning Rod",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MetallicPurpleLightningRod.png"
+  },
+  {
+    "name" : "Metallic Purple Wrecking Ball",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MetallicPurpleWreckingBall.png"
+  },
+  {
+    "name" : "Pumpkin Eye-Brawl",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PumpkinEye-Brawl.png"
+  },
+  {
+    "name" : "Sparkle Hot Head",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SparkleHotHead.png"
+  },
+  {
+    "name" : "Sparkle Sonic Boom",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SparkleSonicBoom.png"
+  },
+  {
+    "name" : "Sparkle Sprocket",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SparkleSprocket.png"
+  },
+  {
+    "name" : "Stone Whirlwind",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/StoneWhirlwind.png"
+  },
+  {
+    "name" : "Stone Zook",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/StoneZook.png"
+  },
+  {
+    "name" : "White Flocked Eruptor",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WhiteFlockedEruptor.png"
+  },
+  {
+    "name" : "White Flocked LightCore Prism Break",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WhiteFlockedLightCorePrismBreak.png"
+  },
+  {
+    "name" : "White Flocked Stump Smash",
+    "game" : "Skylanders: Giants",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WhiteFlockedStumpSmash.png"
+  },
+  {
+    "name" : "Blast Zone",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BlastZone.png"
+  },
+  {
+    "name" : "Boom Jet",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BoomJet.png"
+  },
+  {
+    "name" : "Doom Stone",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DoomStone.png"
+  },
+  {
+    "name" : "Fire Kraken",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FireKraken.png"
+  },
+  {
+    "name" : "Free Ranger",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FreeRanger.png"
+  },
+  {
+    "name" : "Freeze Blade",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FreezeBlade.png"
+  },
+  {
+    "name" : "Grilla Drilla",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GrillaDrilla.png"
+  },
+  {
+    "name" : "Hoot Loop",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HootLoop.png"
+  },
+  {
+    "name" : "Magna Charge",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MagnaCharge.png"
+  },
+  {
+    "name" : "Night Shift",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/NightShift.png"
+  },
+  {
+    "name" : "Rattle Shake",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/RattleShake.png"
+  },
+  {
+    "name" : "Rubble Rouser",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/RubbleRouser.png"
+  },
+  {
+    "name" : "Spy Rise",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SpyRise.png"
+  },
+  {
+    "name" : "Stink Bomb",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/StinkBomb.png"
+  },
+  {
+    "name" : "Trap Shadow",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TrapShadow.png"
+  },
+  {
+    "name" : "Wash Buckler",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WashBuckler.png"
+  },
+  {
+    "name" : "Bumble Blast",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BumbleBlast.png"
+  },
+  {
+    "name" : "Countdown",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Countdown.png"
+  },
+  {
+    "name" : "Dune Bug",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DuneBug.png"
+  },
+  {
+    "name" : "Fryno",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Fryno.png"
+  },
+  {
+    "name" : "Grim Creeper",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GrimCreeper.png"
+  },
+  {
+    "name" : "Pop Thorn",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PopThorn.png"
+  },
+  {
+    "name" : "Punk Shock",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PunkShock.png"
+  },
+  {
+    "name" : "Rip Tide",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/RipTide.png"
+  },
+  {
+    "name" : "Roller Brawl",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/RollerBrawl.png"
+  },
+  {
+    "name" : "Scorp",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Scorp.png"
+  },
+  {
+    "name" : "Scratch",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Scratch.png"
+  },
+  {
+    "name" : "Slobber Tooth",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SlobberTooth.png"
+  },
+  {
+    "name" : "Smolderdash",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Smolderdash.png"
+  },
+  {
+    "name" : "Star Strike",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/StarStrike.png"
+  },
+  {
+    "name" : "Wind Up",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WindUp.png"
+  },
+  {
+    "name" : "Zoo Lou",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ZooLou.png"
+  },
+  {
+    "name" : "Anchors Away Gill Grunt",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AnchorsAwayGillGrunt.png"
+  },
+  {
+    "name" : "Big Bang Trigger Happy",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BigBangTriggerHappy.png"
+  },
+  {
+    "name" : "Blizzard Chill",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BlizzardChill.png"
+  },
+  {
+    "name" : "Fire Bone Hot Dog",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FireBoneHotDog.png"
+  },
+  {
+    "name" : "Heavy Duty Sprocket",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HeavyDutySprocket.png"
+  },
+  {
+    "name" : "Horn Blast Whirlwind",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HornBlastWhirlwind.png"
+  },
+  {
+    "name" : "Hyper Beam Prism Break",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HyperBeamPrismBreak.png"
+  },
+  {
+    "name" : "Knockout Terrafin",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/KnockoutTerrafin.png"
+  },
+  {
+    "name" : "Lava Barf Eruptor",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LavaBarfEruptor.png"
+  },
+  {
+    "name" : "Mega Ram Spyro",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MegaRamSpyro.png"
+  },
+  {
+    "name" : "Ninja Stealth Elf",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/NinjaStealthElf.png"
+  },
+  {
+    "name" : "Phantom Cynder",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PhantomCynder.png"
+  },
+  {
+    "name" : "Super Gulp Pop Fizz",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SuperGulpPopFizz.png"
+  },
+  {
+    "name" : "Thorn Horn Camo",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ThornHornCamo.png"
+  },
+  {
+    "name" : "Turbo Jet-Vac",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TurboJet-Vac.png"
+  },
+  {
+    "name" : "Twin Blade Chop Chop",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TwinBladeChopChop.png"
+  },
+  {
+    "name" : "Bumble Blast LightCore",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BumbleBlastLightCore.png"
+  },
+  {
+    "name" : "Countdown LightCore",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/CountdownLightCore.png"
+  },
+  {
+    "name" : "Flashwing LightCore",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FlashwingLightCore.png"
+  },
+  {
+    "name" : "Grim Creeper LightCore",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GrimCreeperLightCore.png"
+  },
+  {
+    "name" : "Smolderdash LightCore",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SmolderdashLightCore.png"
+  },
+  {
+    "name" : "Star Strike LightCore",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/StarStrikeLightCore.png"
+  },
+  {
+    "name" : "Warnado LightCore",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WarnadoLightCore.png"
+  },
+  {
+    "name" : "Wham-Shell LightCore",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Wham-ShellLightCore.png"
+  },
+  {
+    "name" : "Arkeyan Crossbow",
+    "game" : "Skylanders: Swap Force",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ArkeyanCrossbow.png"
+  },
+  {
+    "name" : "Battle Hammer",
+    "game" : "Skylanders: Swap Force",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BattleHammer.png"
+  },
+  {
+    "name" : "Fiery Forge",
+    "game" : "Skylanders: Swap Force",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FieryForge.png"
+  },
+  {
+    "name" : "Groove Machine",
+    "game" : "Skylanders: Swap Force",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GrooveMachine.png"
+  },
+  {
+    "name" : "Platinum Sheep",
+    "game" : "Skylanders: Swap Force",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PlatinumSheep.png"
+  },
+  {
+    "name" : "Sheep Wreck Island",
+    "game" : "Skylanders: Swap Force",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SheepWreckIsland.png"
+  },
+  {
+    "name" : "Sky Diamond",
+    "game" : "Skylanders: Swap Force",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SkyDiamond.png"
+  },
+  {
+    "name" : "Tower of Time",
+    "game" : "Skylanders: Swap Force",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TowerOfTime.png"
+  },
+  {
+    "name" : "UFO Hat",
+    "game" : "Skylanders: Swap Force",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/UFOHat.png"
+  },
+  {
+    "name" : "Dark Blast Zone",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkBlastZone.png"
+  },
+  {
+    "name" : "Dark Slobber Tooth",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkSlobberTooth.png"
+  },
+  {
+    "name" : "Dark Spyro",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkSpyro2.png"
+  },
+  {
+    "name" : "Dark Stealth Elf",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkStealthElf.png"
+  },
+  {
+    "name" : "Dark Wash Buckler",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkWashBuckler.png"
+  },
+  {
+    "name" : "Enchanted Hoot Loop",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EnchantedHootLoop.png"
+  },
+  {
+    "name" : "Enchanted LightCore Star Strike",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EnchantedLightCoreStarStrike.png"
+  },
+  {
+    "name" : "Jade Fire Kraken",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/JadeFireKraken.png"
+  },
+  {
+    "name" : "Jolly Bumble Blast",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/JollyBumbleBlast.png"
+  },
+  {
+    "name" : "Kickoff Countdown",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/KickoffCountdown.png"
+  },
+  {
+    "name" : "Legendary Free Ranger",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryFreeRanger.png"
+  },
+  {
+    "name" : "Legendary LightCore Grim Creeper",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryLightCoreGrimCreeper.png"
+  },
+  {
+    "name" : "Legendary Night Shift",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryNightShift.png"
+  },
+  {
+    "name" : "Legendary Zoo Lou",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryZooLou.png"
+  },
+  {
+    "name" : "Nitro Freeze Blade",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/NitroFreezeBlade.png"
+  },
+  {
+    "name" : "Nitro Magna Charge",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/NitroMagnaCharge.png"
+  },
+  {
+    "name" : "Quick Draw Rattle Shake",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/QuickDrawRattleShake.png"
+  },
+  {
+    "name" : "Springtime Trigger Happy",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SpringtimeTriggerHappy.png"
+  },
+  {
+    "name" : "Volcanic Eruptor",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/VolcanicEruptor.png"
+  },
+  {
+    "name" : "Bronze & Silver Trap Shadow",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BronzeSilverTrapShadow.png"
+  },
+  {
+    "name" : "Flocked Springtime Trigger Happy",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FlockedSpringtimeTriggerHappy.png"
+  },
+  {
+    "name" : "Frito-Lay Hot Dog (Green)",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Frito-LayHotDogGreen.png"
+  },
+  {
+    "name" : "Frito-Lay Hot Dog (Purple)",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Frito-LayHotDogPurple.png"
+  },
+  {
+    "name" : "Frito-Lay Hot Dog (Red)",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Frito-LayHotDogRed.png"
+  },
+  {
+    "name" : "Gold & Bronze Doom Stone",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldBronzeDoomStone.png"
+  },
+  {
+    "name" : "Gold Fire Kraken",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldFireKraken.png"
+  },
+  {
+    "name" : "Gold Wash Buckler",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldWashBuckler.png"
+  },
+  {
+    "name" : "Green Chop Chop",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GreenChopChop.png"
+  },
+  {
+    "name" : "Green Rip Tide",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GreenRipTide.png"
+  },
+  {
+    "name" : "Green Scorp",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GreenScorp.png"
+  },
+  {
+    "name" : "Heavy Metal Sprocket",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HeavyMetalSprocket.png"
+  },
+  {
+    "name" : "Metallic Red Dune Bug",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MetallicRedDuneBug.png"
+  },
+  {
+    "name" : "Silver & Gold Stink Bomb",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SilverGoldStinkBomb.png"
+  },
+  {
+    "name" : "Snowderdash",
+    "game" : "Skylanders: Swap Force",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Snowderdash.png"
+  },
+  {
+    "name" : "Blastermind",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Blastermind.png"
+  },
+  {
+    "name" : "Bushwhack",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Bushwhack.png"
+  },
+  {
+    "name" : "Enigma",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Enigma.png"
+  },
+  {
+    "name" : "Gearshift",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Gearshift.png"
+  },
+  {
+    "name" : "Gusto",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Gusto.png"
+  },
+  {
+    "name" : "Head Rush",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HeadRush.png"
+  },
+  {
+    "name" : "Jawbreaker",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Jawbreaker.png"
+  },
+  {
+    "name" : "Tuff Luck",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TuffLuck.png"
+  },
+  {
+    "name" : "Ka-Boom",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Ka-Boom.png"
+  },
+  {
+    "name" : "Knight Light",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/KnightLight.png"
+  },
+  {
+    "name" : "Knight Mare",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/KnightMare.png"
+  },
+  {
+    "name" : "Krypt King",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/KryptKing.png"
+  },
+  {
+    "name" : "Lob-Star",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Lob-Star.png"
+  },
+  {
+    "name" : "Short Cut",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ShortCut.png"
+  },
+  {
+    "name" : "Snap Shot",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SnapShot.png"
+  },
+  {
+    "name" : "Thunderbolt",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Thunderbolt.png"
+  },
+  {
+    "name" : "Wallop",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Wallop.png"
+  },
+  {
+    "name" : "Wildfire",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Wildfire.png"
+  },
+  {
+    "name" : "Bat Spin",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BatSpin.png"
+  },
+  {
+    "name" : "Blackout",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Blackout.png"
+  },
+  {
+    "name" : "Blades",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Blades.png"
+  },
+  {
+    "name" : "Chopper",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Chopper.png"
+  },
+  {
+    "name" : "Cobra Cadabra",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/CobraCadabra.png"
+  },
+  {
+    "name" : "Déjà Vu",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DéjàVu.png"
+  },
+  {
+    "name" : "Echo",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Echo.png"
+  },
+  {
+    "name" : "Fist Bump",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FistBump.png"
+  },
+  {
+    "name" : "Fling Kong",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FlingKong.png"
+  },
+  {
+    "name" : "Flip Wreck",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FlipWreck.png"
+  },
+  {
+    "name" : "Food Fight",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FoodFight.png"
+  },
+  {
+    "name" : "Funny Bone",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FunnyBone.png"
+  },
+  {
+    "name" : "High Five",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HighFive.png"
+  },
+  {
+    "name" : "Rocky Roll",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/RockyRoll.png"
+  },
+  {
+    "name" : "Spotlight",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Spotlight.png"
+  },
+  {
+    "name" : "Torch",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Torch.png"
+  },
+  {
+    "name" : "Trail Blazer",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TrailBlazer.png"
+  },
+  {
+    "name" : "Tread Head",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TreadHead.png"
+  },
+  {
+    "name" : "Fizzy Frenzy Pop Fizz",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FizzyFrenzyPopFizz.png"
+  },
+  {
+    "name" : "Full Blast Jet-Vac",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FullBlastJet-Vac.png"
+  },
+  {
+    "name" : "Hog Wild Fryno",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HogWildFryno.png"
+  },
+  {
+    "name" : "Sure Shot Shroomboom",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SureShotShroomboom.png"
+  },
+  {
+    "name" : "Tidal Wave Gill Grunt",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TidalWaveGillGrunt.png"
+  },
+  {
+    "name" : "Barkley",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Barkley2.png"
+  },
+  {
+    "name" : "Bop",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Bop.png"
+  },
+  {
+    "name" : "Breeze",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Breeze.png"
+  },
+  {
+    "name" : "Drobit",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Drobit.png"
+  },
+  {
+    "name" : "Eye-Small",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Eye-Small.png"
+  },
+  {
+    "name" : "Gill Runt",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GillRunt2.png"
+  },
+  {
+    "name" : "Hijinx",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Hijinx.png"
+  },
+  {
+    "name" : "Mini Jini",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MiniJini2.png"
+  },
+  {
+    "name" : "Pet-Vac",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Pet-Vac2.png"
+  },
+  {
+    "name" : "Small Fry",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SmallFry.png"
+  },
+  {
+    "name" : "Spry",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Spry.png"
+  },
+  {
+    "name" : "Terrabite",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Terrabite2.png"
+  },
+  {
+    "name" : "Thumpling",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Thumpling2.png"
+  },
+  {
+    "name" : "Trigger Snappy",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TriggerSnappy2.png"
+  },
+  {
+    "name" : "Weeruptor",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Weeruptor.png"
+  },
+  {
+    "name" : "Whisper Elf",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WhisperElf2.png"
+  },
+  {
+    "name" : "Dark Food Fight",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkFoodFight.png"
+  },
+  {
+    "name" : "Dark Snap Shot",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkSnapShot.png"
+  },
+  {
+    "name" : "Dark Wildfire",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkWildfire.png"
+  },
+  {
+    "name" : "Eggsellent Weeruptor",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EggsellentWeeruptor.png"
+  },
+  {
+    "name" : "Gnarly Barkley",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GnarlyBarkley.png"
+  },
+  {
+    "name" : "King Cobra Cadabra",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/KingCobraCadabra.png"
+  },
+  {
+    "name" : "Legendary Blades",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryBlades.png"
+  },
+  {
+    "name" : "Legendary Bushwhack",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryBushwhack.png"
+  },
+  {
+    "name" : "Legendary Déjà Vu",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryDéjàVu.png"
+  },
+  {
+    "name" : "Legendary Jawbreaker",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryJawbreaker.png"
+  },
+  {
+    "name" : "Love Potion Pop Fizz",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LovePotionPopFizz.png"
+  },
+  {
+    "name" : "Nitro Head Rush",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/NitroHeadRush.png"
+  },
+  {
+    "name" : "Nitro Krypt King",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/NitroKryptKing.png"
+  },
+  {
+    "name" : "Power Punch Pet Vac",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PowerPunchPet-Vac.png"
+  },
+  {
+  "name" : "Winterfest Lob-Star",
+  "game" : "Skylanders: Trap Team",
+  "type": "skylanders",
+  "isVariant" : true,
+  "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WinterfestLob-Star.png"
+  },
+  {
+    "name" : "Clear Short Cut",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ClearShortCut.png"
+  },
+  {
+    "name" : "Clear Thunderbolt",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ClearThunderbolt.png"
+  },
+  {
+    "name" : "Clear Tuff Luck",
+    "game" : "Skylanders: Trap Team",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ClearTuffLuck.png"
+  },
+  {
+    "name" : "Air Hourglass",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AirHourglass.png"
+  },
+  {
+    "name" : "Air Jughead",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AirJughead.png"
+  },
+  {
+    "name" : "Air Screamer",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AirScreamer.png"
+  },
+  {
+    "name" : "Air Snake",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AirSnake.png"
+  },
+  {
+    "name" : "Air Sword",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AirSword.png"
+  },
+  {
+    "name" : "Air Toucan",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AirToucan.png"
+  },
+  {
+    "name" : "Dark Handstand",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkHandstand.png"
+  },
+  {
+    "name" : "Dark Spider",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkSpider.png"
+  },
+  {
+    "name" : "Dark Sword",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkSword.png"
+  },
+  {
+    "name" : "Earth Hammer",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EarthHammer.png"
+  },
+  {
+    "name" : "Earth Handstand",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EarthHandstand.png"
+  },
+  {
+    "name" : "Earth Hourglass",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EarthHourglass.png"
+  },
+  {
+    "name" : "Earth Orb",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EarthOrb.png"
+  },
+  {
+    "name" : "Earth Totem",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EarthTotem.png"
+  },
+  {
+    "name" : "Earth Toucan",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EarthToucan.png"
+  },
+  {
+    "name" : "Fire Captain's Hat",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FireCaptainsHat.png"
+  },
+  {
+    "name" : "Fire Scepter",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FireScepter.png"
+  },
+  {
+    "name" : "Fire Screamer",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FireScreamer.png"
+  },
+  {
+    "name" : "Fire Torch",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FireTorch.png"
+  },
+  {
+    "name" : "Fire Totem",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FireTotem.png"
+  },
+  {
+    "name" : "Fire Yawn",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FireYawn.png"
+  },
+  {
+    "name" : "Kaos",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Kaos.png"
+  },
+  {
+    "name" : "Life Hammer",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LifeHammer.png"
+  },
+  {
+    "name" : "Life Snake",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LifeSnake.png"
+  },
+  {
+  "name" : "Life Sword",
+  "game" : "Skylanders: Trap Team",
+  "type": "crystals",
+  "isVariant" : false,
+  "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LifeSword.png"
+  },
+  {
+    "name" : "Life Torch",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LifeTorch.png"
+  },
+  {
+    "name" : "Life Toucan",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LifeToucan.png"
+  },
+  {
+    "name" : "Life Yawn",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LifeYawn.png"
+  },
+  {
+    "name" : "Light Owl",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LightOwl.png"
+  },
+  {
+    "name" : "Light Rocket",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LightRocket.png"
+  },
+  {
+    "name" : "Light Yawn",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LightYawn.png"
+  },
+  {
+    "name" : "Magic Axe",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MagicAxe.png"
+  },
+  {
+    "name" : "Magic Hourglass",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MagicHourglass.png"
+  },
+  {
+    "name" : "Magic Log",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MagicLog.png"
+  },
+  {
+    "name" : "Magic Rocket",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MagicRocket.png"
+  },
+  {
+    "name" : "Magic Skull",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MagicSkull.png"
+  },
+  {
+    "name" : "Magic Totem",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MagicTotem.png"
+  },
+  {
+    "name" : "Tech Angel",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TechAngel.png"
+  },
+  {
+    "name" : "Tech Flying",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TechFlying.png"
+  },
+  {
+    "name" : "Tech Hand",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TechHand.png"
+  },
+  {
+    "name" : "Tech Handstand",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TechHandstand.png"
+  },
+  {
+    "name" : "Tech Scepter",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TechScepter.png"
+  },
+  {
+    "name" : "Tech Tiki",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TechTiki.png"
+  },
+  {
+    "name" : "Undead Axe",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/UndeadAxe.png"
+  },
+  {
+    "name" : "Undead Captain's Hat",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/UndeadCaptainsHat.png"
+  },
+  {
+    "name" : "Undead Hand",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/UndeadHand.png"
+  },
+  {
+    "name" : "Undead Orb",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/UndeadOrb.png"
+  },
+  {
+    "name" : "Undead Skull",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/UndeadSkull.png"
+  },
+  {
+    "name" : "Undead Snake",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/UndeadSnake.png"
+  },
+  {
+    "name" : "Water Angel",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WaterAngel.png"
+  },
+  {
+    "name" : "Water Axe",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WaterAxe.png"
+  },
+  {
+    "name" : "Water Flying Helmet",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WaterFlyingHelmet.png"
+  },
+  {
+    "name" : "Water Jughead",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WaterJughead.png"
+  },
+  {
+    "name" : "Water Log Holder",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WaterLogHolder.png"
+  },
+  {
+    "name" : "Water Tiki",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WaterTiki.png"
+  },
+  {
+    "name" : "Easter Bunny Earth Trap",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EasterBunnyEarthTrap.png"
+  },
+  {
+    "name" : "Legendary Undead Orb Trap",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryUndeadOrbTrap.png"
+  },
+  {
+    "name" : "Legendary Undead Skull Trap",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryUndeadSkullTrap.png"
+  },
+  {
+    "name" : "Legendary Water Jughead Trap",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryWaterJugheadTrap.png"
+  },
+  {
+    "name" : "Ultimate Kaos",
+    "game" : "Skylanders: Trap Team",
+    "type": "crystals",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/UltimateKaos.png"
+  },
+  {
+    "name" : "Hand of Fate",
+    "game" : "Skylanders: Trap Team",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HandOfFate.png"
+  },
+  {
+    "name" : "Legendary Hand of Fate",
+    "game" : "Skylanders: Trap Team",
+    "type": "items",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryHandOfFate.png"
+  },
+  {
+    "name" : "Midnight Museum",
+    "game" : "Skylanders: Trap Team",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MidnightMuseum.png"
+  },
+  {
+    "name" : "Mirror of Mystery",
+    "game" : "Skylanders: Trap Team",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MirrorOfMystery.png"
+  },
+  {
+    "name" : "Nightmare Express",
+    "game" : "Skylanders: Trap Team",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/NightmareExpress.png"
+  },
+  {
+    "name" : "Piggy Bank",
+    "game" : "Skylanders: Trap Team",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PiggyBank.png"
+  },
+  {
+    "name" : "Rocket Ram",
+    "game" : "Skylanders: Trap Team",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/RocketRam.png"
+  },
+  {
+    "name" : "Sunscraper Spire",
+    "game" : "Skylanders: Trap Team",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SunscraperSpire.png"
+  },
+  {
+    "name" : "Tiki Speaky",
+    "game" : "Skylanders: Trap Team",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TikiSpeaky.png"
+  },
+  {
+    "name" : "Astroblast",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Astroblast.png"
+  },
+  {
+    "name" : "Big Bubble Pop Fizz",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BigBubblePopFizz.png"
+  },
+  {
+    "name" : "Bone Bash Roller Brawl",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BoneBashRollerBrawl.png"
+  },
+  {
+    "name" : "Deep Dive Gill Grunt",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DeepDiveGillGrunt.png"
+  },
+  {
+    "name" : "Dive-Clops",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Dive-Clops.png"
+  },
+  {
+    "name" : "Double Dare Trigger Happy",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DoubleDareTriggerHappy.png"
+  },
+  {
+    "name" : "Fiesta",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Fiesta.png"
+  },
+  {
+    "name" : "Hammer Slam Bowser",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HammerSlamBowser.png"
+  },
+  {
+    "name" : "High Volt",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HighVolt.png"
+  },
+  {
+    "name" : "Hurricane Jet-Vac",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HurricaneJet-Vac.png"
+  },
+  {
+    "name" : "Lava Lance Eruptor",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LavaLanceEruptor.png"
+  },
+  {
+    "name" : "Nightfall",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Nightfall.png"
+  },
+  {
+    "name" : "Shark Shooter Terrafin",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SharkShooterTerrafin.png"
+  },
+  {
+    "name" : "Smash Hit",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SmashHit.png"
+  },
+  {
+    "name" : "Spitfire",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Spitfire.png"
+  },
+  {
+    "name" : "Splat",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Splat.png"
+  },
+  {
+    "name" : "Stormblade",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Stormblade.png"
+  },
+  {
+    "name" : "Super Shot Stealth Elf",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SuperShotStealthElf.png"
+  },
+  {
+    "name" : "Thrillipede",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Thrillipede.png"
+  },
+  {
+    "name" : "Turbo Charge Donkey Kong",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TurboChargeDonkeyKong.png"
+  },
+  {
+    "name" : "Birthday Bash Big Bubble Pop Fizz",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BirthdayBashBigBubblePopFizz.png"
+  },
+  {
+    "name" : "Dark Hammer Slam Bowser",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkHammerSlamBowser.png"
+  },
+  {
+    "name" : "Dark Spitfire",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkSpitfire.png"
+  },
+  {
+    "name" : "Dark Super Shot Stealth Elf",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkSuperShotStealthElf.png"
+  },
+  {
+    "name" : "Dark Turbo Charge Donkey Kong",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkTurboChargeDonkeyKong.png"
+  },
+  {
+    "name" : "Eggcited Thrillipede",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EggcitedThrillipede.png"
+  },
+  {
+    "name" : "Frightful Fiesta",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FrightfulFiesta.png"
+  },
+  {
+    "name" : "Legendary Astroblast",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryAstroblast.png"
+  },
+  {
+    "name" : "Legendary Bone Bash Roller Brawl",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryBoneBashRollerBrawl.png"
+  },
+  {
+    "name" : "LegendaryHurricaneJet-Vac",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryHurricaneJet-Vac.png"
+  },
+  {
+    "name" : "Missile-Tow Dive-Clops",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Missile-TowDive-Clops.png"
+  },
+  {
+    "name" : "Power Blue Splat",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PowerBlueSplat.png"
+  },
+  {
+    "name" : "Power Blue Trigger Happy",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PowerBlueTriggerHappy.png"
+  },
+  {
+    "name" : "Steel Plated Smash Hit",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SteelPlatedSmashHit.png"
+  },
+  {
+    "name" : "Bronze Bone Bash Roller Brawl",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BronzeBoneBashRollerBrawl.png"
+  },
+  {
+    "name" : "Patina High Volt",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PatinaHighVolt.png"
+  },
+  {
+    "name" : "Patina Lava Lance Eruptor",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PatinaLavaLanceEruptor.png"
+  },
+  {
+    "name" : "Employee Edition Snow-Brite Stormblade",
+    "game" : "Skylanders: SuperChargers",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EmployeeEditionSnow-BriteStormblade.png"
+  },
+  {
+    "name" : "Barrel Blaster",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BarrelBlaster.png"
+  },
+  {
+  "name" : "Burn-Cycle",
+  "game" : "Skylanders: SuperChargers",
+  "type": "vehicles",
+  "isVariant" : false,
+  "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Burn-Cycle.png"
+  },
+  {
+    "name" : "Buzz Wing",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BuzzWing.png"
+  },
+  {
+    "name" : "Clown Cruiser",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ClownCruiser.png"
+  },
+  {
+    "name" : "Crypt Crusher",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/CryptCrusher.png"
+  },
+  {
+    "name" : "Dive Bomber",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DiveBomber.png"
+  },
+  {
+    "name" : "Gold Rusher",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldRusher.png"
+  },
+  {
+    "name" : "Hot Streak",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HotStreak.png"
+  },
+  {
+    "name" : "Jet Stream",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/JetStream.png"
+  },
+  {
+    "name" : "Reef Ripper",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ReefRipper.png"
+  },
+  {
+    "name" : "Sea Shadow",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SeaShadow.png"
+  },
+  {
+    "name" : "Shark Tank",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SharkTank.png"
+  },
+  {
+    "name" : "Shield Striker",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ShieldStriker.png"
+  },
+  {
+    "name" : "Sky Slicer",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SkySlicer.png"
+  },
+  {
+    "name" : "Soda Skimmer",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SodaSkimmer.png"
+  },
+  {
+    "name" : "Splatter Splasher",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SplatterSplasher.png"
+  },
+  {
+    "name" : "Stealth Stinger",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/StealthStinger.png"
+  },
+  {
+    "name" : "Sun Runner",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SunRunner.png"
+  },
+  {
+    "name" : "Thump Truck",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ThumpTruck.png"
+  },
+  {
+    "name" : "Tomb Buggy",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TombBuggy.png"
+  },
+  {
+    "name" : "Dark Barrel Blaster",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkBarrelBlaster.png"
+  },
+  {
+    "name" : "Dark Clown Cruiser",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkClownCruiser.png"
+  },
+  {
+    "name" : "Dark Hot Streak",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkHotStreak.png"
+  },
+  {
+    "name" : "Dark Sea Shadow",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkSeaShadow.png"
+  },
+  {
+    "name" : "Event Exclusive Hot Streak",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EventExclusiveHotStreak.png"
+  },
+  {
+    "name" : "Golden Hot Streak",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldenHotStreak.png"
+  },
+  {
+    "name" : "Legendary Sun Runner",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendarySunRunner.png"
+  },
+  {
+    "name" : "Mobile Hot Streak",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MobileHotStreak.png"
+  },
+  {
+    "name" : "Nitro Soda Skimmer",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/NitroSodaSkimmer.png"
+  },
+  {
+    "name" : "Nitro Stealth Stinger",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/NitroStealthStinger.png"
+  },
+  {
+    "name" : "Power Blue Gold Rusher",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PowerBlueGoldRusher.png"
+  },
+  {
+    "name" : "Power Blue Splatter Splasher",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PowerBlueSplatterSplasher.png"
+  },
+  {
+    "name" : "Spring Ahead Dive Bomber",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SpringAheadDiveBomber.png"
+  },
+  {
+    "name" : "Bronze Tomb Buggy",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BronzeTombBuggy.png"
+  },
+  {
+    "name" : "Patina Burn-Cycle",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PatinaBurn-Cycle.png"
+  },
+  {
+    "name" : "Patina Shield Striker",
+    "game" : "Skylanders: SuperChargers",
+    "type": "vehicles",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PatinaShieldStriker.png"
+  },
+  {
+    "name" : "Kaos Trophy",
+    "game" : "Skylanders: SuperChargers",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/KaosTrophy.png"
+  },
+  {
+    "name" : "Land Trophy",
+    "game" : "Skylanders: SuperChargers",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LandTrophy.png"
+  },
+  {
+    "name" : "Sea Trophy",
+    "game" : "Skylanders: SuperChargers",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SeaTrophy.png"
+  },
+  {
+    "name" : "Sky Trophy",
+    "game" : "Skylanders: SuperChargers",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SkyTrophy.png"
+  },
+  {
+    "name" : "Air Strike",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AirStrike.png"
+  },
+  {
+    "name" : "Ambush",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Ambush.png"
+  },
+  {
+    "name" : "Aurora",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Aurora.png"
+  },
+  {
+    "name" : "Barbella",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Barbella.png"
+  },
+  {
+    "name" : "Boom Bloom",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BoomBloom.png"
+  },
+  {
+    "name" : "Buckshot",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Buckshot.png"
+  },
+  {
+    "name" : "Chain Reaction",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ChainReaction.png"
+  },
+  {
+    "name" : "Chopscotch",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Chopscotch.png"
+  },
+  {
+    "name" : "Crash Bandicoot",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/CrashBandicoot.png"
+  },
+  {
+    "name" : "Dr. Neo Cortex",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DrNeoCortex.png"
+  },
+  {
+    "name" : "Ember",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Ember.png"
+  },
+  {
+    "name" : "Flarewolf",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Flarewolf.png"
+  },
+  {
+    "name" : "King Pen",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/KingPen.png"
+  },
+  {
+    "name" : "Mysticat",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Mysticat.png"
+  },
+  {
+    "name" : "Pit Boss",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PitBoss.png"
+  },
+  {
+    "name" : "Ro-Bow",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Ro-Bow.png"
+  },
+  {
+    "name" : "Starcast",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Starcast.png"
+  },
+  {
+    "name" : "Tidepool",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Tidepool.png"
+  },
+  {
+    "name" : "Tri-Tip",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Tri-Tip.png"
+  },
+  {
+    "name" : "Wild Storm",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WildStorm.png"
+  },
+  {
+    "name" : "Candy-Coated Chopscotch",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Candy-CoatedChopscotch.png"
+  },
+  {
+    "name" : "Dark King Pen",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkKingPen.png"
+  },
+  {
+    "name" : "Egg Bomber Air Strike",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EggBomberAirStrike.png"
+  },
+  {
+    "name" : "Hard-Boiled Flarewolf",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Hard-BoiledFlarewolf.png"
+  },
+  {
+    "name" : "Heartbreaker Buckshot",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HeartbreakerBuckshot.png"
+  },
+  {
+    "name" : "Legendary Pit Boss",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryPitBoss.png"
+  },
+  {
+    "name" : "Legendary Tri-Tip",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryTri-Tip.png"
+  },
+  {
+    "name" : "Solar Flare Aurora",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SolarFlareAurora.png"
+  },
+  {
+    "name" : "Clear Starcast",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ClearStarcast.png"
+  },
+  {
+    "name" : "Employee Edition Dec-Ember",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EmployeeEditionDec-Ember.png"
+  },
+  {
+    "name" : "Happy Birthday Ben Starcast",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HappyBirthdayBenStarcast.png"
+  },
+  {
+    "name" : "Orange Chain Reaction",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/OrangeChainReaction.png"
+  },
+  {
+    "name" : "Pink Barbella",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/PinkBarbella.png"
+  },
+  {
+    "name" : "Bad Juju",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BadJuju.png"
+  },
+  {
+    "name" : "Blaster-Tron",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Blaster-Tron.png"
+  },
+  {
+    "name" : "Chompy Mage",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/ChompyMage.png"
+  },
+  {
+    "name" : "Dr. Krankcase",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DrKrankcase.png"
+  },
+  {
+    "name" : "Golden Queen",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldenQueen.png"
+  },
+  {
+    "name" : "Grave Clobber",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GraveClobber.png"
+  },
+  {
+    "name" : "Hood Sickle",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/HoodSickle.png"
+  },
+  {
+    "name" : "Kaos",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Kaos2.png"
+  },
+  {
+    "name" : "Pain-Yatta",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Pain-Yatta.png"
+  },
+  {
+    "name" : "Tae Kwon Crow",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TaeKwonCrow.png"
+  },
+  {
+  "name" : "Wolfgang",
+  "game" : "Skylanders: Imaginators",
+  "type": "skylanders",
+  "isVariant" : false,
+  "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/Wolfgang.png"
+  },
+  {
+    "name" : "Dark Golden Queen",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkGoldenQueen.png"
+  },
+  {
+    "name" : "Dark Wolfgang",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkWolfgang.png"
+  },
+  {
+    "name" : "Jingle Bell Chompy Mage",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/JingleBellChompyMage.png"
+  },
+  {
+    "name" : "Mystical Bad Juju",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MysticalBadJuju.png"
+  },
+  {
+    "name" : "Mystical Tae Kwon Crow",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MysticalTaeKwonCrow.png"
+  },
+  {
+    "name" : "Steel Plated Hood Sickle",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SteelPlatedHoodSickle.png"
+  },
+  {
+    "name" : "Rock Candy Pain-Yatta",
+    "game" : "Skylanders: Imaginators",
+    "type": "skylanders",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/RockCandyPain-Yatta.png"
+  },
+  {
+    "name" : "Air Acorn",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AirAcorn.png"
+  },
+  {
+    "name" : "Air Angel",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AirAngel.png"
+  },
+  {
+    "name" : "Air Lantern",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/AirLantern.png"
+  },
+  {
+    "name" : "Dark Pyramid",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkPyramid.png"
+  },
+  {
+    "name" : "Dark Reactor",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkReactor.png"
+  },
+  {
+    "name" : "Dark Rune",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/DarkRune.png"
+  },
+  {
+    "name" : "Earth Armor",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EarthArmor.png"
+  },
+  {
+    "name" : "Earth Rocket",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EarthRocket.png"
+  },
+  {
+    "name" : "Earth Rune",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EarthRune.png"
+  },
+  {
+    "name" : "Fire Acorn",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FireAcorn.png"
+  },
+  {
+    "name" : "Fire Angel",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FireAngel.png"
+  },
+  {
+    "name" : "Fire Reactor",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/FireReactor.png"
+  },
+  {
+    "name" : "Life Acorn",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LifeAcorn.png"
+  },
+  {
+    "name" : "Life Claw",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LifeClaw.png"
+  },
+  {
+    "name" : "Life Rocket",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LifeRocket.png"
+  },
+  {
+    "name" : "Life Rune",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LifeRune.png"
+  },
+  {
+    "name" : "Light Angel",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LightAngel.png"
+  },
+  {
+    "name" : "Light Fanged",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LightFanged.png"
+  },
+  {
+    "name" : "Light Rune",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LightRune.png"
+  },
+  {
+    "name" : "Magic Claw",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MagicClaw.png"
+  },
+  {
+    "name" : "Magic Lantern",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MagicLantern.png"
+  },
+  {
+    "name" : "Magic Pyramid",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/MagicPyramid.png"
+  },
+  {
+    "name" : "Tech Armor",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TechArmor.png"
+  },
+  {
+    "name" : "Tech Pyramid",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TechPyramid.png"
+  },
+  {
+    "name" : "Tech Reactor",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/TechReactor.png"
+  },
+  {
+    "name" : "Undead Claw",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/UndeadClaw.png"
+  },
+  {
+    "name" : "Undead Fanged",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/UndeadFanged.png"
+  },
+  {
+    "name" : "Undead Lantern",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/UndeadLantern.png"
+  },
+  {
+    "name" : "Water Armor",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WaterArmor.png"
+  },
+  {
+    "name" : "Water Fanged",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WaterFanged.png"
+  },
+  {
+    "name" : "Water Rocket",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/WaterRocket.png"
+  },
+  {
+    "name" : "Legendary Life Acorn",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryLifeAcorn.png"
+  },
+  {
+    "name" : "Legendary Light Fanged",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryLightFanged.png"
+  },
+  {
+    "name" : "Legendary Magic Lantern",
+    "game" : "Skylanders: Imaginators",
+    "type": "crystals",
+    "isVariant" : true,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/LegendaryMagicLantern.png"
+  },
+  {
+    "name" : "Blue Chest",
+    "game" : "Skylanders: Imaginators",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BlueChest.png"
+  },
+  {
+    "name" : "Bronze Mystery Chest",
+    "game" : "Skylanders: Imaginators",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/BronzeMysteryChest.png"
+  },
+  {
+    "name" : "CYOS 3D Printed Figure",
+    "game" : "Skylanders: Imaginators",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/CYOS3DPrintedFigure.png"
+  },
+  {
+    "name" : "CYOS Card",
+    "game" : "Skylanders: Imaginators",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/CYOSCard.png"
+  },
+  {
+    "name" : "Enchanted Elven Forest",
+    "game" : "Skylanders: Imaginators",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/EnchantedElvenForest.png"
+  },
+  {
+    "name" : "Gold Mystery Chest",
+    "game" : "Skylanders: Imaginators",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GoldMysteryChest.png"
+  },
+  {
+    "name" : "Gryphon Park Observatory",
+    "game" : "Skylanders: Imaginators",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/GryphonParkObservatory.png"
+  },
+  {
+    "name" : "Silver Mystery Chest",
+    "game" : "Skylanders: Imaginators",
+    "type": "items",
+    "isVariant" : false,
+    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/figures/SilverMysteryChest.png"
+  }
+]

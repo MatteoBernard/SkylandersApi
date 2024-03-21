@@ -1,24 +1,5 @@
 [
   {
-    "id" : 0,
-    "name" : "",
-    "gender" : "",
-    "species" : "",
-    "release" : "",
-    "role" : "",
-    "element" : "",
-    "quote" : "",
-    "abilities" : {
-      "abilitie1" : "",
-      "abilitie2" : "",
-      "abilitie3" : "",
-      "abilitie4" : "",
-      "abilitie5" : ""
-    },
-    "description" : "",
-    "image" : "https://github.com/MatteoBernard/SkylandersApi/raw/master/public/images/skylanders/.jpg"
-  },
-  {
     "id" : 1,
     "name" : "Air Strike",
     "gender" : "Male",

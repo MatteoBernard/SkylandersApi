@@ -15,7 +15,7 @@ const options = {
         },
         servers: [
             {
-                url: 'http://localhost:3000/',
+                url: 'http://https://ill-lime-threads.cyclic.app//',
                 description: 'Skylanders API server'
             },
         ],

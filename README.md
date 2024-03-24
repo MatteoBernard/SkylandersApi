@@ -24,5 +24,5 @@ To use these routes, you can make HTTP GET requests to the corresponding URLs us
 Example usage with cURL:
 
 ```bash
-curl http://https://ill-lime-threads.cyclic.app/skylanders
+curl https://ill-lime-threads.cyclic.app/skylanders
 ````
